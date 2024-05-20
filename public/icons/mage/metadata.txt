@@ -1,0 +1,1093 @@
+mage/bulk/Television Cross.svg: Media icon, Entertainment logo, Screen icon, TV symbol, Broadcast signal, Signal bar, Television logo
+mage/bulk/Message Information.svg: details, email, message, notification, info, stats, inbox, summary
+mage/bulk/Search.svg: Look up, Find, Discover, Seek, Query, Explore, Locate, Investigate
+mage/bulk/Caret Left.svg: Keyboard Shortcut, Previous Character, Arrow Key, Backspace, Move Left
+mage/bulk/Message Check Round.svg: Messaging Apps, Messages, Email, Texts, SMS, Communication, Notifications, Inbox
+mage/bulk/Caret Right.svg: Editing, caret symbol, right arrow, selection, navigation., text cursor, formatting
+mage/bulk/Dashboard Circle Chart.svg: performance metrics, data visualization, progress tracking, goal setting, circle chart, monitoring, indicator, dashboard, gauge, analytics
+mage/bulk/Box 3D Scan.svg: box scan, box inspection, quality control, precision measurement, object scanner, 3D modeling software, dimensional measurement., object inspection, 3D scanning
+mage/bulk/Layout Up.svg: Google Docs, Google Drive, page setup, formatting options., layout design, Microsoft Word, margin control
+mage/bulk/Fire B.svg: Nintendo, FEH, Fire Emblem, character art., game icon, strategy RPG, Fire Emblem Heroes
+mage/bulk/Earth.svg: Nature, Water, Planet, Environmentalism, Sustainability, Wildlife, Animals, Waste, Science, Air, Plants, Pollution, Renewable Energy, Alternative Energy., Soil, Ecology, Geography, Conservation, Recycling, Green, Climate
+mage/bulk/Volume Up.svg: sound, volume, adjust, increase, audio, settings, louder, music
+mage/bulk/Gem B.svg: Rock Formations, Necklaces, Mineral, Geological Features, Pendants, Bead, Gemstone, Birthstone, Jewelry, Crystal, Gemstone Jewelry
+mage/bulk/Gem Stone.svg: crystal, gemstone, precious stone, mineral, stone, geode, gem, lapidary, jewelry
+mage/bulk/Battery Low.svg: Device low on battery, Battery life tips, Low battery warning, iPhone low power mode, Android low battery icon, Power saving mode, Mobile device power management
+mage/bulk/Zoom Out.svg: Navigation, Satellite, Out, Pan, Zoom, Map, Camera
+mage/bulk/Music alternate.svg: sound, media, icon, player, audio, song, wave, music note, playlist
+mage/bulk/Gem C.svg: Nintendo, Gameboy, Classic, Icon, Gaming, PNG, Retro, Color
+mage/bulk/Box 3D.svg: visualizer, data visualization, graphical representation, 3d graphic, UI element, 3d box, 3d container, box shape, box 3d, icon box, cube icon
+mage/bulk/Direction Up 2.svg: navigation, pointing up, buttons, symbols, icon, arrow, vector graphics, control panel, icons set, direction, up
+mage/bulk/Video Question Mark.svg: Video meeting reminder, Meeting invitation, Virtual event scheduling, Online meeting setup., Video conferencing
+mage/bulk/ID Card.svg: government ID, identification, verification, passport, visa, badge, credential, proof of identity, driver's license, authentication
+mage/bulk/Home Security Lock.svg: perimeter, protection., guard, secure, door, window, defense, barrier, safe, alarm, shield, Security, protect, lockout, safeguard
+mage/bulk/Hospital Plus.svg: Medical billing, Medical claims, Medical practice management., Patient records, Healthcare administration, Health insurance, Hospital management
+mage/bulk/User Minus.svg: minus button, user remove, user minus sign, subtract user, - symbol, user remove button, user minus icon
+mage/bulk/Chart 15.svg: Data Analysis, Spreadsheet Software., Graphs and Charts, Data Visualization, Chart Maker, Online Charting Tool, Interactive Charts, Business Intelligence, Excel Alternative, Google Visualization API, Google Charts
+mage/bulk/Calendar 2.svg: date, organizer, reminder, time management, calendar, appointments, planner app, planner, schedule, calendar app, events
+mage/bulk/Chart.svg: statistical graphics., graph maker, spreadsheet analysis, chart creator, graphing tools, Excel charts, Data visualization
+mage/bulk/Bookmark Minus.svg: navigation, favorites, history, undo, shortcuts, minus, remove, delete, browser, bookmarks
+mage/bulk/Check Square.svg: Done, Finance, Completed, Approved, Receipt, Invoice, Verified, Payment, Accounting, Checkmark
+mage/bulk/Fire A.svg: Symbol, Android, Fire Emoji, Icon, Mobile, Emojis
+mage/bulk/Arrow Down Square.svg: Navigation, Directional, Scroll, Arrow, Downwards, Icon, Down, Pointer, Button
+mage/bulk/Light Bulb.svg: Brainstorming, Creativity, Aha Moment, Innovation, Inspiration, Concepts, Ideas
+mage/bulk/Gem A.svg: Symbol, Gem, Graphic., Icon, Accessories, Fashion, Jewelry, Emoji, Image, Gemstone
+mage/bulk/Alarm Clock.svg: wake-up call, timer, reminders, reminder, notifications, time, morning routine., notification, Wake up, sleep, alert, alarms, schedule, clock
+mage/bulk/File Download.svg: file manager, document, download button, save, retrieve, download, attachment
+mage/bulk/Microphone Mute.svg: audio mute, conference call, mic, voice chat, mute, meeting mode, presentation, audio, sound off, microphone
+mage/bulk/User.svg: profile, roles, account, permissions, settings, login, register, authentication
+mage/bulk/Video Cross.svg: movie maker, Video editing, video mixing, cross-cutting, video montage, film editing, transition effects, multimedia editor.
+mage/bulk/Chevron Down Square.svg: down, navigation, design, material, menu, square, Icon, UI, arrow, button, direction, UX.
+mage/bulk/Home Cross.svg: vector graphics., religion, Home, Catholicism, faith, symbol, symbols, Christian, graphic design, icon, Christianity, spirituality, iconography, cross
+mage/bulk/Chart Vertical.svg: data visualization, chart type, data analysis., column chart, statistics, charts, vertical bar graph, Excel chart, graphs
+mage/bulk/Play Circle.svg: Circular design, Video, Play button, Iconography, Media player, Music, UI element.
+mage/bulk/Calendar 3.svg: Planner, Date, Schedule, Time Management, Organizer
+mage/bulk/Dollar.svg: budget, cash, asset., riches, trade, Money, currency, economy, value, market, investment, exchange, wealth, finance
+mage/bulk/File Plus.svg: PDF reader, Attachment opener, File explorer, File manager, Document viewer, Folder organizer
+mage/bulk/Message Question Mark.svg: Ask a question, Inquiry, Query, Dialogue Icon, How to, Chat Bubble, Message Icon.
+mage/bulk/Home.svg: initial, default, beginning, entrance, computer, start, desktop, root, main page, portal
+mage/bulk/Shop.svg: shopping, retail, buy, e-commerce, market, store, mall, commerce, purchase
+mage/bulk/Dots Horizontal Square.svg: horizontal, modern, squares, minimalist, simple, textures, web development, graphic design, UI kits, geometric shapes, clean, patterns, vector graphics, contemporary, dots, design elements, icons
+mage/bulk/Music.svg: Soundcloud, Radio, Albums, Spotify, Songs, Apple Music, Playlists, Audio, Podcasts, Musicians
+mage/bulk/Double Diamond.svg: Bonus Rounds, Old School Slots, Free Games, Slots, Double Diamond Slot Machine, Casino, Fruit Machines., Classic Slots
+mage/bulk/Search Square.svg: Design Elements, Icon Set, UI Kit, Application Development., Web Development, Bing, Search Bar, Coding, User Interface, Google, Yahoo, Programming
+mage/bulk/Television.svg: news, TV shows, weather, programs, episodes, streaming, broadcast, series, channels, entertainment
+mage/bulk/Magnet Left.svg: left align, Magnetic, text alignment, align left, magnetism symbol, left justify
+mage/bulk/Shut Down.svg: halt system, close program, Power off, computer turn off, restart PC, system shutdown., shutdown options
+mage/bulk/Layout Center.svg: CSS, UI/UX, web development, positioning, layout, Design, HTML, alignment, responsive design., centering
+mage/bulk/Plus Square.svg: Social Media, Icon Set, Social Networking, Collaboration Tool., Online Identity, Profile Picture, Web Design, Google+, Google Plus, Avatar, Square Icon
+mage/bulk/User Square.svg: Social media, Design element., User interface, Avatar square, User profile, Profile picture, Icon set, Icon design
+mage/bulk/Calendar Check.svg: Date Checker, Reminder, Planner, Booking, Schedule, Organizer
+mage/bulk/Hospital Shield.svg: protection, medical, hospital, safety, shield, medicine, healthcare, health
+mage/bulk/Video Download.svg: online video downloader, video grabber, free video downloader, mp4 converter, video downloader, youtube video download, video saver
+mage/bulk/Information Square.svg: Facts, Help, Information, Data, Reference, Knowledge, Details
+mage/bulk/Double Circle.svg: symmetry, unity, unity in diversity., harmony, interconnectedness, oneness, infinity, balance, cyclical, wholeness
+mage/bulk/Box Plus.svg: Folder, Storage, Document Management, Packaging, Cloud Storage., File Manager, Container, Shipping, Box, Organizer
+mage/bulk/Shield Cross.svg: Emblem, Protection, Symbol, Crusade, Christian, Iconography, Heraldry, Christianity, Holy War., Armor
+mage/bulk/Direction Right 2.svg: Right Arrow, Arrow Symbol, Directional Icon, Direction Icon Free, Navigation Icon, Arrow Icon Download, UI Icon, Navigation Button, Icons for Design
+mage/bulk/Cancel.svg: Dismiss, Reverse, Reject, Stop, Abort, Revert, Backout, Undo
+mage/bulk/Chip.svg: Potato Chips, Delicious, Salty, Chips Ahoy, Crunchy, Snack Foods, Savory., Crisps, Chip, Chipotle
+mage/bulk/Message Check.svg: email, notifications, inbox, unread messages, message center
+mage/bulk/Media Reel V.svg: content, creative, promotion, media, social, design, graphics, strategy, management, performance, motion, analytics, campaign, marketing, animation, reel, video, advertising
+mage/bulk/Dots Circle.svg: circular, tiny dots, simple, minimalist, circle, small, round icon, symbols, shape, tiny circle, icons, small dots, simple symbol, round, graphics, patterns, dot circle, dots, rounded rectangle, design, small circles, basic shape., geometric, shapes, tiny
+mage/bulk/Clipboard 2.svg: notes, quick note, remember me, jotter, copy paste, text snippet, save for later, sticky notes, clipboard management, memo, clipboard
+mage/bulk/Tag.svg: categorization, labeling, classification, blogging, organization, taxonomy, metadata, markup
+mage/bulk/Briefcase.svg: File Management, Business Tools, Folder, Files, Storage, Briefcase Icon, Document, Portfolio, Office Supplies, Organization
+mage/bulk/Zoom In.svg: magnify, capture, lens, image, focus, screenshot, Camera, picture, view., enlarge
+mage/bulk/Television Minus.svg: TV, display, media, communication, monitor, screen, broadcast, broadcasting, video
+mage/bulk/Vector.svg: Illustrations, Editing, Shape, Graphics, Path, Icons, Design, SVG., Drawing
+mage/bulk/Shopping Cart.svg: Cart Icon, E-commerce, Online Shopping, Marketplace, Checkout, Order Now, Buy Now., Shop Now, Purchase, Retail
+mage/bulk/Robot Sad.svg: unhappy, melancholic, artificial intelligence, AI., robot, android, disappointed, emoji, emoticon, sadness, synthetic
+mage/bulk/Hour Glass.svg: ticking, Time, timer, seconds, minutes, hours, countdown, clocking in., stopwatch, clock
+mage/bulk/Inbox.svg: Messages, Mail, Email, Correspondence, Notifications
+mage/bulk/Microphone.svg: speaker, sound, speech to text, microphone, voice, mic, audio recorder, recording, audio, voice assistant, podcast
+mage/bulk/Database.svg: database architecture, data storage, SQL, data modeling, database schema, database design, relational databases, data management, data integration
+mage/bulk/Bookmark Question Mark.svg: Bookmarklet, Bookmarks, Favorites, Browser Favorites, Webmarks, Save Page
+mage/bulk/Arrow Left Circle.svg: Navigation, Prev, Previous page, Go back, Arrow key, Back button
+mage/bulk/File.svg: Editor, Organizer., Close, Open, Save, Document, New File, Explorer
+mage/bulk/Layout Left.svg: Icon Set, Alignment, Left Align, Layout Options, Text Alignment, Design Tools
+mage/bulk/Notification Bell Snooze 2.svg: reminder, Android, Icon, Google, SVG, alert, Notification, snooze, bell
+mage/bulk/Video Minus.svg: video minus sign, minus sign in video., Video editing, video icon, video minus emoji, video minus icon meaning, video symbol, video minus symbol, video minus sign emoji, video minus icon
+mage/bulk/Building Tree.svg: hierarchical structure, decision tree, Organizational chart, tree diagram, mind map, graph theory, network diagram., flowchart, visual organizer
+mage/bulk/Voicemail.svg: leave message, missed call, recording audio., phone voicemail, voicemail icon, voice mail icon, incoming call, messaging app, voicemail notification
+mage/bulk/Camera 2.svg: Google Icon, Camera App, Photography App, Mobile Icon., Phone, Android Icon, Camera, Mobile App Icon, Smartphone Icon, Photography
+mage/bulk/Chevron Left Circle.svg: navigation, material design icons, design system., Chevron, direction, UI element, arrow, circle, icon set, left
+mage/bulk/Compact Disk.svg: CD, digital storage, data transfer, floppy disk., music, audio files
+mage/bulk/Bookmark Cross.svg: Symbol, Favorite, Bookmark, Web, Mark, Cross, Highlight, Icon, Save, Add
+mage/bulk/Tag 2.svg: classify, Search terms: tags, label, sort, prioritize, categorize, category, organize, tag
+mage/bulk/Multiply Circle.svg: multiplication, design, graphics, symbols, shapes, learning tools, geometry, visual aids, circle, math, icons
+mage/bulk/Trophy Circle.svg: Achievement, Circle, Badge, Medal, Icon, Reward, Trophy, Gamification, Game Development.
+mage/bulk/Home Heart.svg: cozy, comfort, sanctuary, family, love, haven, warmth
+mage/bulk/Message Dots Round.svg: communication icons, message icons, speech bubbles, digital stickers, chat bubbles, messaging app, icons
+mage/bulk/Thumbs Up.svg: thumbs up emoji, yes, confirmation, positive, approval, affirmation., agree, Like
+mage/bulk/User Cross.svg: reject, not interested, no, Icon user cross, stop, decline, disagree., abort, search terms: user cancel, deny, cross symbol
+mage/bulk/Exclamation Square.svg: ASCII Art., Symbol, iPad, Emoticons, Graphics, Apple, Icon, iOS, Apple Store, Design, Icons, Emoji, Expression, iPhone, Symbols, Smile
+mage/bulk/Question Mark Square.svg: Think, Curiosity, Wonder, Puzzle, Inquiry, Confusion, Mystery, Blue
+mage/bulk/File Cross.svg: file, document, split, diff, cross-reference, compare, contrast, merge, folder
+mage/bulk/Keyboard.svg: Virtual keyboard, Input method, Computer keyboard, Typing, Keyboard shortcut, Text input
+mage/bulk/Box 3D Cross.svg: Boxed Shape Icon, Contained Symbol Icon., Enclosed Square Icon, 3D Box Icon, Vector Box Icon
+mage/bulk/Television Plus.svg: Live TV, Online Streaming, Video Quality Settings, OTT Platforms, Program Schedule., Channel Guide, Watch Later, Buffering Issues
+mage/bulk/Box 3D Notification.svg: Windows, Android, Material Design, Icon, iOS, UI, Design, Box, 3D, Notification, UX.
+mage/bulk/Minus Square.svg: minus square, minimalist graphics, vintage aesthetics, geometric shapes, flat design, retro style, simple design, graphic symbols, design icons, digital art
+mage/bulk/Tag Check.svg: filter, search, label, keyword, prioritize, categorize, organize
+mage/bulk/Phone Call.svg: video call, conversation, make call, phone app, communication, receive call, phone, cell phone call, contact, mobile call, voice call, call, dial
+mage/bulk/Lock.svg: protection, authorization, privacy, secrecy, access control, security, encryption, confidentiality, authentication
+mage/bulk/Notification Bell Question Mark.svg: Questionable Notifications, Notification Icon, Question Mark Icon, Feedback Icon, Warning Symbol, Alert Bell, Notifications
+mage/bulk/Health Circle.svg: mental health, fitness, yoga, meditation, self-care, stress relief, spa, massage, mindfulness, physical therapy., wellness, relaxation, exercise, health, diet, nutrition
+mage/bulk/Goals.svg: Intentions, Aims, Targets, Ambitions, Objectives, Pursuits, Desires, Aspirations
+mage/bulk/Database 2.svg: SQLite, schema design, database management, Oracle, MySQL, data modeling, relational database., PostgreSQL
+mage/bulk/Notification Bell Minus.svg: chrome, symbol, notification, icon, minus, browser, bell
+mage/bulk/Coin A.svg: collectible, in-game, digital, money, economy, currency, virtual, rewards., coins, Game, finance
+mage/bulk/Robot Screen.svg: robot, technology, symbol, sci-fi, futuristic, graphic design, screen, computer, command line, illustration, emoji, terminal
+mage/bulk/Pen.svg: design, graphics, handwriting, sketching, art, drawing, writing, illustration, note-taking
+mage/bulk/Trophy Star.svg: points, star, score, trophy, reward, gamification, game, icon, medal, badge, achievement
+mage/bulk/Bag B.svg: suitcase, backpack, exploration, adventure, trip, travel, vacation., Bag, luggage, packing
+mage/bulk/Phone Incoming.svg: Samsung, Android, mobile phone, notifications, cell phone., HTC, iOS, Phone, Motorola, iPhone, incoming call, ringtone, LG
+mage/bulk/Clipboard.svg: keyboard, application, Windows, mouse, cut, workflow., shortcuts, productivity, software, Paste, utility, computer, Mac, edit, copy, tool
+mage/bulk/Arrow Right Circle.svg: Previous, Directional Icon., Forward, Navigation Icon, Navigate, Next, Continue, Circle Icon, Arrow Icon
+mage/bulk/Notification Bell Upload.svg: Upload Button., Facebook, Android, Bell Icon, iOS, WhatsApp, Alert, Notification Center
+mage/bulk/Stars A.svg: Wallpaper, Apple, Galaxy, iOS, Icons, Design, Space, iPhone, Lock Screen
+mage/bulk/Heart Health.svg: Heart disease prevention, Cholesterol management, Cardiovascular exercise, High blood pressure, Atherosclerosis, Angina symptoms., Coronary artery disease, Cardiovascular health, Arrhythmia treatment, Heart healthy diet
+mage/bulk/Arrow Down Left Circle.svg: icon meaning, media player commands, arrow down left circle, keyboard shortcuts, navigation keys, multimedia controls, Microsoft symbols., symbol explanation, Windows icons, shortcut key
+mage/bulk/Key.svg: unlock, password, security, lock, authentication
+mage/bulk/Zap Circle.svg: design, graphics, zap, shape, Icon, hover effect, UI, interactive design., animation, button, circle, user interface, mouseover effect, interaction
+mage/bulk/Divide Square.svg: split, design, graphics, share, balance., mathematics, Icon, layout, part, geometry, equal, proportion, separate, calculation
+mage/bulk/Tag Question Mark.svg: learn more., definition of, inquire about, seek out, find out, ask me, Question mark, what is, meaning of
+mage/bulk/Chart B.svg: visualizer, planning tool, diagram, mind map, org chart, graphic organizer, flowchart, business chart
+mage/bulk/Volume Mute.svg: audio mute, quiet mode, volume settings, silent mode, volume control, Volume mute icon, sound settings, audio settings., mute button, sound off
+mage/bulk/Map Marker.svg: place, markers, map, marker, geography, pin, coordinates, mapping, location, icons
+mage/bulk/Settings.svg: preferences, manage, configure, tweak, customize, options
+mage/bulk/Chart Down.svg: Bar Chart, Statistics, Spreadsheet, Data Visualization, Excel, Analytics., Graphing, Chart Down, Trend Analysis
+mage/bulk/Stars C.svg: space, galaxy, cosmic, celestial, symbol, stars, constellation, astrology, illustration, astronomy
+mage/bulk/Dashboard Minus.svg: remove dashboard, collapse dashboard, hide dashboard, Dashboard minus, minimize dashboard
+mage/bulk/Box Minus.svg: windows, macOS, icon, remove, box, subtract, delete, shortcut, keyboard., Minus
+mage/bulk/Screencast.svg: Meeting software, Web conferencing, Screen share., Presentation tool, Recording, Screen capture, Desktop sharing, Live streaming, Remote presentation, Video recording
+mage/bulk/Archive.svg: storage, storeaway, file management, retain, conserve, save, backup, organize, preserve, keep
+mage/bulk/Box 3D Question Mark.svg: mystery, design, graphics, question mark, puzzle, symbol, Icon, Box, 3D, icons
+mage/bulk/Phone Cancel.svg: Hang up, Phone hangup, End call, Disconnect call., Call cancel, Call disconnect
+mage/bulk/Filter 2.svg: classify, sift through, screen out, sort, Query, refine, categorize, narrow down, winnow.
+mage/bulk/Coin B.svg: Blockchain, Currency, Crypto, Money, Treasure, Bitcoin, Financial, Coinage
+mage/bulk/Lens.svg: Google Search features, image recognition, visual search, object detection, Google Lens
+mage/bulk/Message Question Mark Round.svg: Messaging, Siri, Search, Query, Apple, Voice Assistant, Ask Something, Communication
+mage/bulk/Bag A.svg: Backpack, Discovery, Wanderlust, Adventure, Journey, Travel, Explore, Explorer, Traveler, Trip
+mage/bulk/Note.svg: notes, reminders, jotter, annotate, journal, note-taking
+mage/bulk/Pin.svg: Windows, Favorite, Bookmark, Reminder, Organize, Save, Note, Pinterest
+mage/bulk/Stars B.svg: K-pop, BTS, Korean pop culture, Bangtan Boys, South Korea, music, K-drama, ARMY
+mage/bulk/Television Upload.svg: video sharing platform, media broadcasting, TV station streaming, YouTube video upload, online broadcast
+mage/bulk/Bell Notification Square.svg: Material Design Icons, Bell icon, mobile UI components, Android Lollipop design, Android notification icons, square icon, notification shade
+mage/bulk/Trash Square.svg: Recycling Symbol, Junk, Disposal, Empty Bin, Discard, Dispose, Garbage Can, Eliminate, Waste Management, Throw Away, Delete
+mage/bulk/Cup Hot.svg: breakfast, daily grind., hot beverage, tea, coffee, mug, cup, warm drink, morning routine
+mage/bulk/Memory Card.svg: portable storage., computer accessory, digital media, hardware tool, storage device, memory storage, SD card, data transfer, removable storage, electronic component
+mage/bulk/Server.svg: File Sharing, Host, Network, SFTP, Database Administration, Web Hosting., FTP, Remote Access, SSH, Server Management
+mage/bulk/Bolt.svg: Electricity, Dynamic, Shock, Power, Powerful, Lightning, Action, Energy, Force, Bold, Forceful, Strength, Speed
+mage/bulk/Folder Plus.svg: file manager, navigation, utilities, Windows, organizer, explorer, directory, software., manager, folder
+mage/bulk/Stop Circle.svg: cancel cycle, pause, stop animation, abort rotation, halt, circle indicator, video loop
+mage/bulk/Inbox Plus.svg: update, management, organizer, email, notifications, notification, plus, inbox, mailbox, alert, emails
+mage/bulk/Aeroplane.svg: Transportation, Plane, Helicopter, Airline, Aircraft, Airplane, Flight, Aviation, Aviation Icon, Travel, Transport, Pilot, Airport., Flying
+mage/bulk/Layout Up Right.svg: Navigation, Directional, Arrow, UX, Icon, UI, Design, Layout, Orientation
+mage/bulk/Music Square.svg: Harmony, Notes, Beats, Waveform, Audio, Melody, Rhythm, Frequency, Sound, Music, Tune
+mage/bulk/Hospital Circle.svg: Hospital System, Healthcare, Emergency Department, Bed Management, Patient Flow, Doctor's Office, Triage, Medical
+mage/bulk/Chart Up.svg: chart toppers, best songs, most played tracks, song popularity, music rankings, Music charts
+mage/bulk/Home Plus.svg: House, Renovation, Decor, Property, Improvement, DIY., Maintenance, Home Management, Organization, Real Estate
+mage/bulk/Book.svg: Library, Study, Textbook, Research, Write, Novel, Literature, Fiction, Read, Publication, Document, Non-Fiction., Education
+mage/bulk/Light Bulb Electricity.svg: socket, electrical safety, wiring, plug, Energy, circuit breaker, power, voltage, electricity symbol, light bulb emoji, current.
+mage/bulk/Credit Card.svg: financial services, billing, banking, purchase history, account information, Payment methods, online transactions
+mage/bulk/Arrow Up Left Circle.svg: Alt codes, Navigation, gaming controls, keyboard symbol, shortcut, Windows key, arrow keys.
+mage/bulk/Message Round.svg: Chat round, Speech bubble round., Round message, Circle speechbubble, Circular chat, Icon messaging, Message bubble
+mage/bulk/Arrow Down Right Circle.svg: Previous, Scroll, Navigation, Rotate, Next Page, Flip, Carousel
+mage/bulk/Box Upload.svg: Cloud Storage, File Transfer, Cloud Drive, Box Sync, Online Backup, Dropbox
+mage/bulk/Bookmark Plus.svg: chrome, favorites, extensions, manage, firefox, productivity, shortcuts., browser, bookmarks, organize
+mage/bulk/Dashboard.svg: Settings page, Startup page, Overview, Home screen, Launcher, Control panel, Menu, Frontpage, Summary
+mage/bulk/Box Question Mark.svg: Boxed inquiry mark, Boxed query mark, Confused, Puzzled, Searching, Curious, Boxed question mark, Mystified, Inquiring, Question mark, Seeking., Perplexed
+mage/bulk/Playlist.svg: tracks, management, media, songs, audio, library, music, player
+mage/bulk/Notification Bell Cross.svg: warning, symbol, notification, icon, alert, cross, bell
+mage/bulk/Folder Check.svg: directory scan, File explorer, file system check, folder contents, file integrity check., directory verification, folder inspection
+mage/bulk/GIF.svg: short videos, funny moments, Animated images, looping clips, memes, image sequences.
+mage/bulk/Flag.svg: Country, Emblem, Symbol, International, Nation, Territory, Iconic, Representation, Nationality, Identification
+mage/bulk/Dashboard Plus.svg: Dashboard Software, Dashboards, KPI Tracking, Management Software, Reporting Tools, Data Visualization, Analytics, Icons, Business Intelligence, Performance Monitoring
+mage/bulk/Preview.svg: display, look at, Viewer, render, visualize, view as is., examine, inspect
+mage/bulk/Gameboy.svg: Game Boy Advance., NES, handheld console, Zelda, Mario, Pokémon, classic games, Tetris, Nostalgia, retro gaming
+mage/bulk/Arrow Up Circle.svg: move up, go up, next page, Upward arrow, scroll up, increase, ascend, higher, rise, elevate
+mage/bulk/Stop.svg: finish., Pause, terminate, quit, halt, cease, cancel, exit
+mage/bulk/Chart Down B.svg: Down trending chart, Economic downturn, Market volatility, Negative trend analysis., Bearish sentiment, Stock market decline
+mage/bulk/Chevron Right Circle.svg: navigation, design, graphics, Chevron, symbol, direction, UI element, vector., icon, arrow, circle
+mage/bulk/File Minus.svg: previous version file, go back to previous file state, file minus, revert file change, undo file
+mage/bulk/Robot Happy.svg: tech humor, robot, cartoon, geeky fun, computer character, happy, robot emoticon, emoji, smiley, humorous illustration., playful bot
+mage/bulk/Box 3D Minus.svg: math, design, graphics, symbol, Icon, minus, box, subtract, 3D
+mage/bulk/File 2.svg: file, application, windows, explorer, software, computer, desktop, program, folder, icons
+mage/bulk/Lock Square.svg: protection, design, secure, graphics, symbol, square, icon, security, safe, lock
+mage/bulk/Chart Up B.svg: Song Popularity, Music Charts, Billboard, Chart Performance, Lyrics, Music, Chart
+mage/bulk/Note With Text.svg: note taking, reminders, jot down, annotate, sticky notes, memo, text notes
+mage/bulk/Trophy.svg: Symbol, Achievement, Medal, Badge, Gamify, Trophy Case, Icon, Gamer, Reward, Award, Prize
+mage/bulk/Magnet Up.svg: magnetic levitation, magnetic attraction forces., magnetic force, attracted, Magnetic attraction, pull, magnetism, magnetic field, electromagnet, magnetic lift, magnetic separator, lift
+mage/bulk/Chevron Up Square.svg: Arrow up, Triangle up, Upward arrow, U-turn, Chevron up, Up arrow, Pointing up
+mage/bulk/Inbox Check.svg: Alerts, Email, Update, Notification, Inbox
+mage/bulk/Focus.svg: Productivity, Task-oriented, Concentrate, Prioritize, Undistracted, Workflow, Efficiency.
+mage/bulk/Headphone Mute.svg: sound, silence, volume, playback, music, mute, audio, quiet, headphones
+mage/bulk/Email.svg: notification., messaging, send message, email, communication, send, inbox, receive, contact, compose email, outbox, messaging app
+mage/bulk/Dashboard Cross.svg: responsive design, cross icons, web development, interface elements., UI design, website design, menu symbols, navigation bars, dashboards
+mage/bulk/Scan User.svg: Image Scanning, Scan Document, Scanner, OCR Software, Scan Paper
+mage/bulk/User Question Mark.svg: Query box, Ask user, Help request, User feedback, Question mark
+mage/bulk/Edit Pen.svg: markup language., writing tool, syntax highlighter, code editor, word processor, Text editor, text mark-up, editing software
+mage/bulk/Box Cross.svg: Boxing, Gym Equipment, Home Gym, Physical Education, Athletic Training, Fitness, Workout, Bodybuilding, Exercise, Strength Training, Sports Training.
+mage/bulk/Arrow Up Right Circle.svg: free, UX, svg., symbol, arrow, circle, sets, up, collection, UI, direction, icons, element, png, vector, graphics, navigation, design, right, arrow icon
+mage/bulk/Star Square.svg: Manga, Anime, Illustration, Japanese Culture, Artistic Style, Cute, Cartoon, Kawaii
+mage/bulk/File Records.svg: storage organization, file management, document tracking, record keeping, archival system
+mage/bulk/Phone Missed Call.svg: Notification tray, Android apps, Icon packs., Calling notifications, Missed call notification, Android icons, Phone icon
+mage/bulk/Sim Card.svg: call minutes, text messages., prepaid plan, cellular network, mobile phone, sim card, service provider, postpaid plan, data usage
+mage/bulk/Color Picker.svg: rgb, color palette, swatch, design tool, graphic design, hex code, color picker, ui component, visual editor
+mage/bulk/User Plus.svg: user management, edit profile, user plus, admin panel., add user, profile settings, update account
+mage/bulk/Folder 2.svg: Digital storage, Save files, Computer file management, Folder icon, Organize files, File folder, Cloud storage., File organization, Data backup
+mage/bulk/Video Plus.svg: video player, playback, YouTube, streaming, convert., video editor, download, media center, multimedia
+mage/bulk/Phone Cross.svg: Samsung, OnePlus, Android, Phone symbol, HTC, Phone, Motorola, Cross icon, Mobile symbol, LG
+mage/bulk/Home 2.svg: Windows 10 Icon, My Computer Icon, Navigation Icon, Explorer Icon, Start Menu Icon, Windows Home, Folder Icon, Desktop Icon, PC Icon, Computer Icon
+mage/bulk/Archive Drawer.svg: storage, archival, categorization, data storage, document management, records management, file cabinet, digital filing system., file management, organization, folder
+mage/bulk/Copy.svg: imitate, clipboard, reproduce, duplicate, mimic, replicate, copy, paste
+mage/bulk/Dashboard Chart Arrow.svg: data, chart, arrow, graph, visualization, dashboard, analytics
+mage/bulk/Fast Forward.svg: Jump to End, Speed Through, Quick Scan, Advance, Play Fast, Next, Skip
+mage/bulk/Shield Check.svg: damage resistance, vulnerability scan, Shield Check, armor check, shield health, shield status, defense check., protection check
+mage/bulk/Inbox Star.svg: Priority, Important, Outlook, Gmail, Star, Email, Mailchimp, Notifications, Inbox
+mage/bulk/Dashboard 2.svg: Marketing analytics., Google Analytics, Business intelligence, Reporting dashboard, Performance metrics, KPI tracking, Data visualization, Web analytics
+mage/bulk/Notification Bell Pending.svg: device, status bar., Android, pending, system, icon, alert, mobile, Notification, notification bar, bell
+mage/bulk/Dashboard 3.svg: insights, Google Analytics, performance, website statistics, KPIs, metrics, analytics software., charts, graphs, reports
+mage/bulk/Calendar Cross.svg: Diary, Events., Reminder, Planner, Date Selection, Schedule, Calendars, Time Management, Organizer, Agenda
+mage/bulk/Note Text.svg: jotter, markdown editor, writing tool, note taking app, sticky notes, note pad, text editor
+mage/bulk/Image.svg: insert image, add image, graphics, photo, icon, image editor, picture, display image, upload image., multimedia
+mage/bulk/Box 3D Upload.svg: upload, Autodesk, design, 3D modeling, graphics, CAD, software, Revit, Box, computer-aided design., icons
+mage/bulk/Thumbs Down.svg: unhappy, criticism, unfavorable, reject, disappointed, disagree, negative feedback, bad review, dislike
+mage/bulk/Verified Check.svg: authenticated icon, tick mark, checked box, approved logo, verified badge, ticked square, blue check, confirmation symbol, green tick
+mage/bulk/Layout Up Left.svg: Text, Alignment, Format, Settings., Paragraph, Left-Justify, Microsoft Word, Layout
+mage/bulk/Home 3.svg: navigation, windows, file explorer, shortcuts, start menu, desktop, my computer, folder, icons
+mage/bulk/Crown B.svg: Glyph, Windows, Symbol, Crown, Font, Microsoft, Unicode, UI, Emoji, Icon set
+mage/bulk/Calendar Question Mark.svg: reminder, add event, appointment, schedule, calendar app
+mage/bulk/Previous.svg: Old, Navigate, Back, Go, Former, History
+mage/bulk/Calendar Plus.svg: reminders, date management, organizer, time management, calendar, productivity tool, planner, task management, event planning, scheduling
+mage/bulk/Broadcast.svg: Publish, Social Media, Online Presence, Facebook, Marketing, Share, Distribution., Post, Promotion, Content Sharing
+mage/bulk/Chevron Down Circle.svg: Chevron arrow, Navigation icon, Material icons, UI element., Icon design, Arrow down
+mage/bulk/Shiled Minus.svg: logo, design, graphics, symbol, brand, icon, minus, graphic, illustration., identity, Shield
+mage/bulk/User Check.svg: profile, identity., authorization, account, User, settings, login, verify, authentication
+mage/bulk/Message.svg: Text, Converse, Chat, Compose, Messenger, Notification, Communication
+mage/bulk/Play Square.svg: Xbox, console., Microsoft, controller, playstation, gaming, button, gamepad, nintendo
+mage/bulk/Inbox Question Mark.svg: uncertain, email, question mark, pending, unread, inbox, unclear
+mage/bulk/Box.svg: storage, container, package, archive, library, box, catalog, compartment, envelope, folder
+mage/bulk/Play.svg: Games, Start, Launch, Video, Fun, Entertainment, Play, Media, Leisure, Run, Music
+mage/bulk/Bookmark Check.svg: bookmark manager, online bookmarks., save page, Browser favorites, favorite website, saved pages, favorite links, bookmark organizer
+mage/bulk/Dashboard Bar.svg: navigation, admin panel, design, sidebar, interface, menu, management interface., icon, layout, bar, dashboard widgets, control panel, navigation menu, dashboard
+mage/bulk/Heart Square.svg: Communication., Love, Symbolic, Visual, Emotions, Romance, Representation, Iconic, Relationship, Feeling, Sentiment
+mage/bulk/Double Arrow Circle.svg: Navigation, Symbol, UI Element, Graphics, Loop, Icon, Design, Circles, Arrows
+mage/bulk/Unlocked.svg: milestone, collectible, trophy, secret, unlockable, bonus, level up, achievement, unlocked, progress, reward
+mage/bulk/Notification Bell Download.svg: Push notification icons, Notification bar icon, Notification bell icon, Android notification icon, Mobile app notifications, Android notification settings, Custom notification icons.
+mage/bulk/Server 2.svg: data center management., network administration, remote access, system administrator, virtual private network, IT infrastructure, server software, cloud computing, Server management
+mage/bulk/Pause Square.svg: pause icon, pause video, pause animation, play/pause button, media controls, stop square, pause game
+mage/bulk/Check Circle.svg: checkbox, checked box, verified, confirmed, Tick, checkmark, approved
+mage/bulk/QR Code.svg: quick response code, QR code generator, qr code creator, barcode reader, qr code maker, 2D barcode, qr code decoder, qr scanner app
+mage/bulk/Arrow Down Circle.svg: Scroll down, Navigation icon, Previous page, Scroll control, Arrow down
+mage/bulk/Camera.svg: Picture, Snap, Upload., Share, Image, Capture, Photo, Camera Roll, Photography
+mage/bulk/Printer.svg: print, printing, print spooler, print preview, printer settings, print queue, print to pdf
+mage/bulk/Crown A.svg: Emblem, Symbol, Royalty, Regal, Power, Monarchy, Wealth, Luxury, Authority
+mage/bulk/Bookmark Upload.svg: favorite, share, save, import, bookmarks, organize, export
+mage/bulk/Folder Open.svg: files, navigation, explore, open folder, directory, organize, folder
+mage/bulk/Message Square.svg: Facebook Messenger, Text Message, WhatsApp, Instant Messaging, SMS
+mage/bulk/Home 4.svg: Windows, Desktop, Icon, Computer, Explorer, Start Menu
+mage/bulk/Bookmark Download.svg: bookmarks manager, read later, save, offline reader, download later
+mage/bulk/Email Opened.svg: unread message, email opened, email client, notification, mail client, notification center, inbox, open email
+mage/bulk/Message Plus Round.svg: Social Media, Rounds, Messaging, UI Design, Alerts, Messages, Icon, Chat, Icons, Graphic Design, Communication, Notifications
+mage/bulk/Dots Square.svg: design, vector, web, squares, simple, minimalist, graphics, app, UI., flat, geometry, pattern, mobile, shapes, icons
+mage/bulk/Notification Bell Plus.svg: apps, design, ios, bell, android, notifications, notification bell, UI, plus, user interface., mobile, icons
+mage/bulk/Mouse 2.svg: Mouse, symbol, cursor, icon, computer, windows
+mage/bulk/Dashboard 4.svg: display, management, design, interface, icon, layout, organization, theme, control panel, dashboard
+mage/bulk/Calendar Minus.svg: date range, subtract dates, Google Calendar, date subtraction, calendar math, time difference, date calculation, calendar minus function.
+mage/bulk/Trophy Up.svg: points, score, trophy, highscore, icon, medal, badge, upvote, award, achievement
+mage/bulk/Dots Horizontal Circle.svg: horizontal, design, symbol, shape, layout, dots, pattern, circle, icons
+mage/bulk/Message Minus.svg: less than symbol, minus sign in message., Minus icon, message minus, minus sign icon, notification minus, message minus button, subtract symbol
+mage/bulk/Trash.svg: Garbage, Iconic Symbols, Empty Bin, Recycle, Waste Management, Delete
+mage/bulk/Delivery Truck.svg: parcels, courier, Transportation, shipment., package, logistics, van, goods, delivery, cargo, trucking, shipping
+mage/bulk/Notification Bell.svg: desktop notification, alert bell, android notifications, notification sound, bell icon, notification center, Bell, system tray, windows 10 notifications., notification area
+mage/bulk/Plus Circle.svg: Growth, Expand, Boost, Increment, Plus Sign, Add, Increase, Amplify
+mage/bulk/Calendar Download.svg: Calendar, iCal, organizer, Outlook, desktop calendar., Google Calendar, planner, calendar app, download, scheduling
+mage/bulk/Battery Full.svg: Charging, Symbol, Android, Power, Icon, Graphic
+mage/bulk/Television Check.svg: what's on TV., TV guide, TV listings, channel listings, TV schedule, on-air now, program guide
+mage/bulk/Checklist Note.svg: reminder, note, productivity, reminder app., todo, checklist, checklist app, to-do list, task management, organizational tool, note-taking, task
+mage/bulk/User Circle.svg: User Profile, Character Glyph, Human Figure, Person Symbol, Avatar Icon
+mage/bulk/Electricity Danger.svg: Alert icons, Electric shock danger, High voltage warning., Electrical hazard, Caution icons, Hazard symbols, Warning signs, Safety icons, Warning labels
+mage/bulk/Information Circle.svg: Warning, Notification, Tip, Help, Information, Advice, Alert, Hint, Guidance
+mage/bulk/Star.svg: space, shine, magic, sparkle, astrology, movies
+mage/bulk/Message Plus.svg: Communication Icon, Message, Chat, Instant Messaging, MMS, SMS
+mage/bulk/Double Square.svg: Symbol, Font, CSS, Unicode, Typography, HTML
+mage/bulk/Swim Ring.svg: Recreational activities, Summer activities, Water park, Swim lessons, Kids play, Water fun, Pool toys, Beach games
+mage/bulk/Sun.svg: sunny days, climate, cheerful, warm weather, smile., brightness, temperature, happy, Weather, solar, rays
+mage/bulk/Wrench.svg: Customize, Preferences, Settings, Options, Configure, Troubleshoot
+mage/bulk/Phone Minus.svg: Symbol, phone button, Icon, Phone, minus sign, phone keypad, dial tone
+mage/bulk/Dashboard Chart.svg: reporting, management, performance, trend, data, kpis, metrics, chart, monitoring, control, statistics, graph, visualization, dashboard, gauge, analytics, diagram.
+mage/bulk/Chevron Left Square.svg: Previous, Navigation, Arrow, Chevron, Icon, Back, UI, Design, Square, Prev, Left
+mage/bulk/Edit.svg: Customize, Modify, Change, Revise, Update, Undo, Refine
+mage/bulk/Television Download.svg: TV shows, magnet link, full episodes, TV downloads., free, watch, episodes, streaming, online, series, torrent, download
+mage/bulk/Multiply Square.svg: mathematical icons, multiplication table, math symbols, algebra, math operations, square numbers, equation editor, calculator icons
+mage/bulk/Next.svg: Move On, Navigation, Forward, Interface, Arrow, UI, Icons, Buttons, Continue
+mage/bulk/Video Check.svg: video player, media player, playback, streaming, check, video quality, status
+mage/bulk/Mobile Phone.svg: Wireless, Cellular, Dialer, Text Message, Handset, Phone, Mobile, SMS, Cellphone, Device
+mage/bulk/Video Upload.svg: video sharing, video sharing platform, video publishing, share video, video hosting, online video, media uploads., YouTube, upload video
+mage/bulk/Home Check.svg: real estate assessment, seller preparation, moving checklist, home condition report., home inspection, house check, home buyer checklist, property evaluation
+mage/bulk/Question Mark Circle.svg: interrogation, curiosity, inquiry symbol, questioning, doubt, puzzle, confusion, inquiry, uncertainty
+mage/bulk/Exclamation Circle.svg: Notice, Warning, Highlight, Attention, Alert, Caution, Excitement, Emphasis
+mage/bulk/Magnet Right.svg: Magnetic repulsion, Positioning, Symmetrical, Alignment, Placement, Magnetic attraction, Right-aligned, Magnetic forces, Centered, Left-aligned, Asymmetrical., Orientation, Magnetic fields
+mage/bulk/Contact Book.svg: Phone directory, Mobile contacts, Cellular phone directory., Address book, Directory, Contacts, Phone book
+mage/bulk/Compass.svg: navigation, map, route, wayfinding, mapping, location, direction, GPS
+mage/bulk/Water Glass.svg: thirst, beverage, drink, hydration, liquid, glass, refreshment, splash, water bottle, quench
+mage/bulk/Dashboard Circle Bar.svg: Circular chart, Performance indicator, Dashboard widget, Circle gauge, Gauge graphic., Data visualization, Progress bar icon, Analytics graph
+mage/bulk/Dialer Keypad.svg: dial pad, phone shortcuts, phone interface, phone launcher, keypad shortcut, phone dialer, quick dial
+mage/bulk/Book Text.svg: Google Docs, Formatting, Font, Microsoft Office, Readability, Typography, Document, Styles, Word, PDF
+mage/bulk/Package Box.svg: packaging system, deployment tool, package management, software package, box icon, application delivery, installer, software distribution
+mage/bulk/Arrow Left Square.svg: Previous, Navigation, Symbol, Arrow, Icon, Back, Button, Left
+mage/bulk/Chart 50.svg: market analysis, stock quotes, investment tracking, charting tools, trading software, Stock charts, financial data, technical indicators, portfolio management.
+mage/bulk/Message Minus Round.svg: message symbol, message minus circle, minus symbol, minus circle., message minus round, minus sign icon, rounded minus sign, circle with minus, round minus, circle minus
+mage/bulk/Tag Minus.svg: Tags, undo, revert, remove, subtract, delete, reverse., minus sign, cancel
+mage/bulk/Security Shield.svg: protection, vulnerability scan, security shield, threat detection, firewall, malware, antivirus, safeguard
+mage/bulk/Layout Grid.svg: UI development, wireframing, Grid system, responsive design., layout design, page structure
+mage/bulk/Round Sticker.svg: round label, circle graphics, sticker design, flat icon, minimalist icon, Circle sticker, circular icon, rounded logo., simple design, rounded shape
+mage/bulk/Filter Square.svg: responsive design, website icons, filter icons, graphic design, UI kits, visual identity, user interface, design elements
+mage/bulk/Arrow Right Square.svg: Next page icon, Icon arrow right square, Go to next page, Navigation arrow, Arrow symbol, Next step, Forward navigation, Navigation arrow right., Next button, Arrow right icon, Right arrow symbol
+mage/bulk/Megaphone B.svg: megaphone, audio equipment, loudspeaker, voice amplification, sound system, amplifier, public speaking, broadcasting, microphone
+mage/bulk/Direction Up Right 2.svg: go up, upwards direction, upward pointing sign, navigation arrows, way up, direction icons, Up arrow, up symbol
+mage/bulk/Clock.svg: timer, reminder, watch, time, calendar, alarm clock, hours, minutes, seconds, planner, schedule, scheduling
+mage/bulk/Building B.svg: Engineering, Construction, Planning, Project, Design, Development, Management, Building, Architecture
+mage/bulk/Arrow Down Left Square.svg: down, character, symbol, square, icon, unicode, arrow, left, emoji
+mage/bulk/Zap Square.svg: Minecraft, Steve, Survival Mode, PvP, Combat
+mage/bulk/Folder Cross.svg: file explorer, folder organization, cross-platform, folder management., File manager, desktop icons
+mage/bulk/Save Floppy.svg: Save Disk, Old Computer Technology, 3.5 Inch Floppy Disk, Retro UI., Retro Computing, Classic Icon, Vintage Storage, Dos
+mage/bulk/Phone.svg: Call, Dial, Phonebook, Contacts, Vibration, MMS, SMS, Ringtone
+mage/bulk/Notification Bell Check.svg: Pop-up Notifications, System Tray, Alert Icon, Notification Area, Notification Center, Notifications, Notification Bar
+mage/bulk/Divide Circle.svg: mathematical operator, percentage sign, fraction icon, divided circle, divided by symbol, math symbols, divided line
+mage/bulk/Volume Down.svg: decrease, sound, lower, Windows, iTunes, Android, smartphone., music, settings, control panel, mute, mobile, Mac, audio, PC, Volume
+mage/bulk/Eye.svg: Monitoring, Watch, Surveillance, Spyware, Google, Privacy, Camera, Observation, Tracking., Security
+mage/bulk/Fast Forward Back.svg: Advance, Play, Jump, Next, Skip
+mage/bulk/Phone Outgoing.svg: SMS out, phone history, MMS out, call records, phone usage, outgoing calls, text messages, phone outgoing, call logs, phone activity
+mage/bulk/Location.svg: navigation, routes, coordinates, geography., places, mapping, GPS, directions
+mage/bulk/Robot Uwu.svg: design, robot, anime, cartoon, Japanese culture., kawaii, emoji, illustration, UwU, cute, iconography
+mage/bulk/Electricity.svg: Voltage, Shock, Lightening, Power, Energy, Spark, Charge, Current, Circuit
+mage/bulk/Tube.svg: video sharing, TV shows, news clips, educational content, music videos, online streaming, vlogs, movie trailers, live streams, media player., entertainment, YouTube
+mage/bulk/Minus Circle.svg: negation sign, negative sign, reverse sign, minus symbol, opposite sign, minus circle
+mage/bulk/Gift.svg: holidays, anniversaries, wrapping, cards, birthdays, celebrations., occasions, presents, Gift
+mage/bulk/Health Square.svg: healthcare, fitness, medical, self-care, health monitoring, patient, wellness, vital sign., medical record, health tracking, health check, medicine, doctor, health
+mage/bulk/Zap.svg: Game Boy, Shock, Power, Attack, Pokémon, Electric
+mage/bulk/Trophy Down.svg: trophies, medal logos, award symbols, prize indicators, recognition marks, icons
+mage/bulk/Share.svg: post, comment, social media, publish, send, shareable, network, icon, like, spread, sharing
+mage/bulk/Playlist Alternate.svg: metadata editing, file categorization, Itunes, music collection management., media player, song sorting, playlist manager, music organizer, library management, audio organization
+mage/bulk/Message Dots.svg: Message Dots, messaging, conversation, message bubbles, communication, notifications, messaging apps, dots, chat, icons
+mage/bulk/Inbox Notification.svg: message indicator, mailbox symbol, email notification, email alert, inbox alert, notification icon
+mage/bulk/Exclamation Hexagon.svg: exclamation mark, digital art., graphic design, hexagonal shape, punctuation symbol, emoticon, Icon design
+mage/bulk/Megaphone A.svg: megaphone, sound, communication, loudspeaker, amplifier, public speaking, broadcasting, audio, microphone
+mage/bulk/Video.svg: video player, Vimeo, media, playback, streaming, audio, movies, entertainment, YouTube
+mage/bulk/Video Player.svg: video management, video playback, video conferencing tools., video editing software, streaming apps, Media player, audio visualizer, digital signage, media center
+mage/bulk/Stack.svg: Stacking, Overlay, Combine, Merging, Concatenate, Layering, Nest., Group, Drag and Drop
+mage/bulk/Inbox Download.svg: Download, Outlook, Email, Attachment, Inbox
+mage/bulk/Building A.svg: Architect, Construction, Building Design, Architecture Icon, CAD Drawing, Blueprints
+mage/bulk/Robot.svg: artificial intelligence, science fiction, technology, futuristic, robotics, automation, Machine learning, mechanical, AI, cyborg.
+mage/bulk/Message Round Square.svg: Message, User Interface, Apple, Icon, iOS, UI, Design, Chat, iPhone, Communication
+mage/bulk/Direction Up.svg: Navigation, Symbol, Arrow, Up, Icon, Direction
+mage/bulk/Filter.svg: Labels, Search, Sort, Views, Categories, Criteria, Results, Refine
+mage/bulk/Shield Question Mark.svg: unknown, mysterious, enigmatic, puzzling, unanswerable, cryptic
+mage/bulk/Stop Square.svg: design, pause, square, icon, stop, UI, graphic, button, animation, interaction
+mage/bulk/Box Check.svg: tick, checkbox, design, feedback, confirmation, symbol, ui, icon, approval, box, checkmark, graphic, user interface
+mage/bulk/Phone Ringing Loud.svg: ringtones, ringtone effects, phone sounds, loud ringing tone, ios icons, alert tones., notification sounds, android icons
+mage/bulk/Robot Wink.svg: wink, robot, cartoon, gadget, funny, computer, cute, emoji, smiley, tech
+mage/bulk/Dashboard Check.svg: insights, performance, Dashboard, report, monitoring, check, summary, metrics., health, analytics, overview, status
+mage/bulk/Calendar.svg: organizer, reminder, appointments, planner, Date, schedule, agenda, scheduling, events, plan
+mage/bulk/Shopping Bag.svg: Basket, Buy, E-commerce, Amazon, Online Shopping, Sell, Purchase, Cart, Retail
+mage/bulk/Globe.svg: geography, travel, countries, locations, world, cities, places, earth, directions, maps
+mage/bulk/Laptop.svg: Software., Desktop, Portable, Notebook, Tablet, Computer, Accessories, Mobile, Chromebook
+mage/bulk/Inbox Cross.svg: Email, Alert, Pop-up, Notification, Inbox
+mage/bulk/Exclamation Triangle.svg: Emoticon, Symbol, Warning, Icon, Flag, Alert, Notification
+mage/bulk/Caret Down.svg: collapse, down caret, minimize, arrow down, downward arrow, caret down
+mage/bulk/Direction Up Right.svg: Navigation, Compass, North, Up, Orientation, Direction
+mage/bulk/Calendar Upload.svg: upload, Calendar, date, reminders, organizer, appointments, planner, scheduling tool., scheduling, events
+mage/bulk/Notification Bell Muted.svg: chrome, icons, ios, android, muted, symbols, notification, settings, emoji, windows, bell
+mage/bulk/Trash 3.svg: garbage, waste management, dispose, macOS, waste disposal, Apple, delete, trash can, dispose of files, recycle bin, icons
+mage/bulk/Robot Dead.svg: Futuristic, Retro-Futurism., Robot, End-of-the-World, Cyberpunk, Post-Apocalyptic, Sci-Fi, Mechs, Androids, Zombie, Dead, Dystopian, Apocalyptic
+mage/bulk/Chart 25.svg: plotting, data visualization, data analytics, statistical analysis, mathematical modeling., graph theory, Excel charts, chart types, graphing, Google Sheets
+mage/bulk/Pause.svg: suspend, Pause, timeout, stop, delay, halt, freeze, interrupt., wait, hold
+mage/bulk/Water Drop.svg: cloud, weather, moisture, droplet, precipitation, water, splash, liquid, mist, ripple, rain, wave, humidity, fluid, icons
+mage/bulk/Color Swatch.svg: color palette, color scheme, design inspiration, hex code, color picker, color library, color matching, swatch tool, rgb values
+mage/bulk/Arrow Up Square.svg: direction icon, square button, arrow symbol, pointer icon, arrow up key, up arrow, navigation icon
+mage/bulk/Preview Circle.svg: UI Component, Design Element, Image Editor, Photo Preview, Google Photos, Circles Icon
+mage/bulk/Bookmark.svg: URL, Reminder, Mark as Read., Webpage, Favorites, Note, Memo, Save Page, Bookmarks Bar
+mage/bulk/Rocket.svg: Launch, Astronaut, Starship, Galaxy, Travel, Space, Exploration, NASA, Cosmos
+mage/bulk/Light Bulb Off.svg: extinguished, no electricity, darkness, light, not on, power outage, off, unlit, lamp
+mage/bulk/Volume Zero.svg: toggle., sound, silence, volume, settings, disable, zero, control panel, mute, audio, off, quiet, slider
+mage/bulk/Chevron Right Square.svg: design, chevron, angular, material, square, icon, UI, right, button
+mage/bulk/File Question Mark.svg: file, mac os., explorer, question mark, save, query, prompt, dialog box, open, windows
+mage/bulk/Tablet.svg: keyboard, device, Chrome OS., Windows, Android, portable, Linux, screen, iOS, touchscreen, mobile, stylus, macOS
+mage/bulk/Direction Right.svg: navigation, next, turn, move, arrow, following, right, direction
+mage/bulk/Music Circle.svg: Beats, Harmonies, Audio, Song, Rhythm, Melody, Sound, Music, Tune
+mage/bulk/Handicapped.svg: Accessibility Icon., Wheelchair, Accessibility, Disability, Handicap Symbol, Impaired, Physically Challenged
+mage/bulk/Mouse Pointer.svg: Icon Set, Windows, Cursor, Mouse, Icon, GUI., UI, Computer, Pointer
+mage/bulk/Hospital Square.svg: Grey's Anatomy, Television Characters, Doctor Shows, ER, Hospital Drama, Medical TV Shows, Medical Icons, Fictional Hospitals
+mage/bulk/Folder Minus.svg: desktop icons, folder organization, file management, Windows XP, Windows Explorer, Windows 7, folder shortcuts.
+mage/bulk/Message Conversation.svg: Communication Icon, Dialogue Box, Facebook, Digital Message Icon., Chat Icon, Social Media Icon, Instant Messaging, Conversation Symbol, Messaging App, Messaging Platform
+mage/bulk/Media Reel H.svg: cinema, entertainment, movie, playback, VHS, Hollywood, film, Media, reel, DVD, video
+mage/bulk/Layout Down.svg: formatting., design, grid, File, positioning, layout, alignment
+mage/bulk/Arrow Up Left Square.svg: Emoji modifiers, Symbol icons, Navigation keys, Text formatting, Input method editor, Arrow key combinations, Keyboard shortcuts
+mage/bulk/Box 3D Download.svg: conversion, box model, 3d, 3d modeling, software, maker, box, file format, utility, converter, download, tool
+mage/bulk/Battery Empty.svg: Power Indicator, Low Power Warning, Battery Warning Symbol, Low Battery Icon, Empty Power Icon, Charge Level, Depleted Power, Out of Juice
+mage/bulk/Arrow Down Right Square.svg: next, navigate, continue, play, Down, scroll, multimedia controls., arrow keys, navigation icons
+mage/bulk/Box 3D Check.svg: Rendering, Spatial Reasoning., Quality Control, CAD, Dimensional Measurement, ISO, Design, Geometry, Box, 3D, Modeling, Inspection, Visualization
+mage/bulk/Tag Plus.svg: Labels, Search Terms, Markup, Classify, Categorize, Tagging, Organize, Keywords, Metadata, Filtering, Categories, Sorting.
+mage/bulk/File Check.svg: verify file integrity, file check, check file validity, validate file contents, data verification, file authenticity
+mage/bulk/Three D Box Square.svg: Three Dimensional, D-Box, Augmented Reality, Immersive Cinema, Interactive Entertainment, Simulation Technology, 3D, Virtual Reality, Multi-Dimensional Experience.
+mage/bulk/Tag Cross.svg: Tags, tagging, compatibility, label, cross-platform, integration, categorize, meta-data., organize
+mage/bulk/Trash 2.svg: Garbage, Recycle Bin, Junk, Disposal, Discard., Wastebasket, Delete
+mage/bulk/Calculator.svg: conversion, formula, equation, formulaic, convert, solution, numeric, math, problem, calculation, solve
+mage/bulk/Mouse.svg: navigation, mouse cursor, interface, UI element, pointer, interactive., icon design, clickable, Computer mouse
+mage/bulk/Phone Plus.svg: Samsung, Android, Screen Protector, HTC, iOS, Tablet, Phone, Accessories, Mobile, iPhone, Cases
+mage/bulk/Arrow Up Right Square.svg: material design icons, symbol, fontawesome, unicode, arrow up right square icon, glyph, emoji, character codes, icons
+mage/bulk/Battery Dead.svg: no power, device dead, unable to charge, Power off, shutdown, no charge., low battery
+mage/bulk/Inbox Upload.svg: file upload, inbox icon, send files, share files, online uploads, inbox folder, file sharing, attachment upload, email attachments, cloud storage
+mage/bulk/File Upload.svg: file upload, add file, upload image, upload document, send file, upload file, submit file, attach file
+mage/bulk/Folder.svg: storage, manage documents, archive, directory, save, categorize, store, File folder, organize files
+mage/bulk/Star Circle.svg: star,circle,icon,symbol,logo,design,graphic,elements,illustrations,icons,font,unicode,character
+mage/bulk/Television Question Mark.svg: TV, Listings, Guide, Programmes, Network, Networks, TV Guide, Broadcasting, Channel, Television, Channels, Programming, Schedule
+mage/bulk/Basket.svg: storage, picnic, tote, container, laundry, basketball, fruit, carry
+mage/bulk/Inbox Minus.svg: Outlook, email, Gmail, Google Apps, notification, minus, inbox, mailbox, unread messages
+mage/bulk/Users.svg: Identities, Profile Management, Logout, Authentication, Profiles, Authorization, Credentials, Accounts, Login
+mage/bulk/Eye Off.svg: Eye Wear, Ophthalmology, Eye Care, Eye Doctor, Optometry, Eye Exams, Visual Aids, Contact Lenses, Vision Health
+mage/bulk/Shield Plus.svg: Safety, Protection, Defense, Barrier, Icon, Plus, Guard, Security, Shield
+mage/bulk/Moon.svg: lunar calendar, space, tides, cycles, astronomy, orbit, phases, lunar
+mage/bulk/Message Info Round.svg: Bubble Icon, Message, Information Icon, Pop-up Icon, Alert, Round Icon, Notification, Circular Icon
+mage/bulk/Star Moving.svg: Illustrations, Noun, Moving, Star, Free, Clipart, Graphics, Gesture, Icons, Design, Vector, SVG, Emojis., Space, PNG, Symbols
+mage/bulk/Robot Appreciate.svg: artificial intelligence, innovation, gadgetry, technology, engineering, futuristic, robotics, mechanical, machine learning, cybernetic.
+mage/bulk/Caret Up.svg: next page, page up, increase, caret up, increment, arrow up, up arrow
+mage/bulk/Box 3D Plus.svg: 3D Modeling Software, Object Rendering, CAD Design, Box 3D Plus, 3D Graphics, Vector Graphics, Graphic Design, 2D to 3D Conversion, Computer Aided Design, Engineering Design., Visualization Tool
+mage/bulk/Layout Right.svg: right-aligned text, horizontal alignment., justify right, text alignment, alignment, Layout
+mage/bulk/Ribbon.svg: Microsoft Office, Excel, Add-on, Template, Create, PowerPoint, Design, Add-in, Word
+mage/bulk/Heaphone.svg: Wireless, Audio, Earbuds, Sound, Headphones, Bluetooth, Music
+mage/bulk/Magnet Down.svg: Gravity, Attraction, Magnet, Physics, Force, Down, Learning., Pull, Science, Education
+mage/bulk/First Aid Kit.svg: wound, injury, supplies, medical, treatment, kit, essentials, emergency, health, care
+mage/bulk/Chevron Up Circle.svg: navigation, design, icons., Chevron, menu, UI, arrow, button, circle, up
+mage/bulk/Battery Charging.svg: electricity flow, charge cycles, charging times, capacity, charging speed, Power management, drain rate, discharge rate., battery life
+mage/bulk/Heart.svg: Symbolism., Emotional, Love, Feelings, Romance, Affection, Valentine's Day, Sentimental, Relationships, Friendship
+mage/bulk/Battery Half.svg: charging, drain, efficiency, monitor, half, dead, power, empty, consumption, low, battery
+mage/stroke/Television Cross.svg: transmission, TV, satellite, channel, signal, antenna, broadcasting
+mage/stroke/Message Information.svg: Messaging, Messages, Email, Chat, Alert, Notification, Inbox
+mage/stroke/Search.svg: locate, discover, seek, inquire, find
+mage/stroke/Caret Left.svg: backspace, undo, cursor, left arrow, move caret
+mage/stroke/Message Check Round.svg: round, email, message, symbol, notification, icon, inbox, alert, check
+mage/stroke/Caret Right.svg: Punctuation, Arrow, Typography, Text Marker, Right-Caret, Symbols, Emojis
+mage/stroke/Dashboard Circle Chart.svg: Progress tracking, Scoreboard, Performance indicator, Goal setting, Circular gauge, Business metrics, Analytics chart, KPI tracking, Data visualization
+mage/stroke/Box 3D Scan.svg: volume rendering, computer vision, CAD modeling, photogrammetry, object scanning, robotics, data capture., 3D scanning, box scanner
+mage/stroke/Layout Up.svg: Arrange, Structure, Planner, Organize, Template, Design, Plan, Layout, Strategy, Organizer, Visualize
+mage/stroke/Fire B.svg: Fire Emblem Symbol, Fire Emblem Boy Icon, Fire Emblem Art, Fire Emblem B, Fire Emblem Symbols, Fire Emblem Logo, Fire Emblem, Fire Emblem Boy Version, Fire Emblem Emblems, Fire Emblem Icon, Fire Emblem Boy, Fire Emblem Characters
+mage/stroke/Earth.svg: Environmental issues, wildlife, conservation, ecology, sustainability, green energy, nature, pollution prevention., recycling, climate change, eco-friendly
+mage/stroke/Volume Up.svg: speaker, sound, volume, adjust, increase, playback, music, settings, control, mute, audio
+mage/stroke/Gem B.svg: Gemstone Emoji, Gemstone B, Gemstone Beauty, Jewelry Icon, Gemstone Logo, Gemstone, Gemstone Symbol, Jewelery Emblem
+mage/stroke/Arrow Left.svg: Previous, Go Back, Navigate, Previous Page, Back
+mage/stroke/Gem Stone.svg: crystal, gemstone, precious stone, mineral, stone, nature, earthy, geology, treasure, mystical, rock, gem, gemstone necklace, spiritual., jewelry
+mage/stroke/Battery Low.svg: power off, Android notifications, Android widgets, phone alerts, iPhone icons, charging reminder, Low battery, iOS battery indicator, device status.
+mage/stroke/Message Dots Download.svg: mobile design, instant messaging., ui elements, ios development, message dots, android design, dot icons, chat apps, notification icons, messaging app
+mage/stroke/Zoom Out.svg: Scale, Navigation, View, Control., Pan, Distance, Zoom, Map, Perspective, Camera
+mage/stroke/Music alternate.svg: files, design, media, graphics, symbols, audio, software, playlists, music, player, entertainment, icons
+mage/stroke/Gem C.svg: Gemini Planetarium, Constellation, Zodiac, Gemini, Celestial, Astrology, Space, Astronomy
+mage/stroke/Box 3D.svg: Box Icon, Icon Set, UI Kit, Flat Design., Box Design, Graphic Elements, Vector Graphics, SVG, Web Icons, 3D Box
+mage/stroke/Direction Up 2.svg: Navigation, Symbol, Up, Arrow, Pointing, Icon, Indicator, Vector., Direction
+mage/stroke/Video Question Mark.svg: media, pause, question mark, symbol, playback, inquiry, video icon, play, qmark, query, emoji, video
+mage/stroke/ID Card.svg: Passport, Identification, Badge, Verification, Proof of Age, Government ID, Identity, Authentication, Credentials, Driver License
+mage/stroke/Dots.svg: design, graphics, UX design, symbols, graphic design, simple design, SVG, minimalist icons, dots, user interface, shapes, visual elements, UI components, icons
+mage/stroke/Home Security Lock.svg: home automation, smart home security, smart lock., motion detector, door lock, access control, CCTV, security cameras, alarm system, home safety
+mage/stroke/Hospital Plus.svg: Healthcare Providers, Emergency Services, Medical Emergencies, Urgent Care, Health Insurance, Hospital Directory, Doctor Appointments, Patient Portal, Medical Records, Medical Centers
+mage/stroke/User Minus.svg: checkbox, negate, reject, flag, decline, user minus button, toggle, minus sign, cancel
+mage/stroke/Chart 15.svg: planner., organizational chart, calendar, project management, timeline, Gantt chart, productivity, workflow, task management, flowchart, schedule
+mage/stroke/Calendar 2.svg: reminders, timeslots, Google Calendar, dates, planning, appointments, management., planner, organization, schedule, agenda, events
+mage/stroke/Arrowlist.svg: navigation, choices, select, menu, icon, arrow, dropdown
+mage/stroke/Chart.svg: Excel, Pie chart, display trends, Google Sheets., statistics, graph, visualize data, analytics
+mage/stroke/External Link.svg: URL, cite, external, link, reference, bibliography, http
+mage/stroke/Bookmark Minus.svg: marked down, favorites, saved pages, bookmarks, starred items
+mage/stroke/Check Square.svg: checkbox, verified, checkmark, accepted, tickbox, approved
+mage/stroke/Fire A.svg: Send Message, iPad, Siri, Dictation, Apple, iOS, iPhone
+mage/stroke/Arrow Down Square.svg: down, navigation, design, graphical, symbol, square, UI, arrow, button, element, icons
+mage/stroke/Light Bulb.svg: Brainstorming, Aha Moment, Problem Solving, Lightbulb Moment, Innovation, Solution, Think Outside Box, Inspiration, Ideas, Creative
+mage/stroke/Gem A.svg: gemstone, precious stone, shine, luxury, high-end, sparkle, valuable, gem, bling, jewelry
+mage/stroke/Alarm Clock.svg: Time to rise, Morning alarm, Sleep timer, Wake up, Silent mode, Ringtone selection, Snooze control, time is now!, Alarm reminder, Wake-up call
+mage/stroke/File Download.svg: file, get, save as, obtain, save, retrieve, download
+mage/stroke/Microphone Mute.svg: audio mute, volume mute, microphone off, voice recorder pause, talk to text
+mage/stroke/Image Check.svg: file validation., Image verification, photo check, picture validation, image detection, media inspector
+mage/stroke/User.svg: profile, role-based access, account, permissions, settings, security, login, register, administrator
+mage/stroke/Video Cross.svg: Sega Genesis, Classic games, Video game, NES, Game Boy, SNES, Emulator, Retro gaming
+mage/stroke/Chevron Down Square.svg: Chevron Down Square, material design icons, SVG icons, front-end development., icon sets, web development, UI elements, UI kits, Android icons, iOS icons, square icon, mobile apps, design patterns, down arrow, chevrons, navigation icons
+mage/stroke/Home Cross.svg: Navigation, Home, Interface., Icon, UI, Design, Menu, Button
+mage/stroke/Chart Vertical.svg: data visualization, spreadsheet software, Excel, bar chart, vertical axis, graph
+mage/stroke/Play Circle.svg: media player, audio, library, soundcloud, playlists, play button, music, apple music
+mage/stroke/Double Arrow Up.svg: promote, up sign, increase, boost, grow, up arrow, raise
+mage/stroke/Calendar 3.svg: reminders, organizer, time management, calendar, dates, planning, timetabling., appointments, planner, schedule, calendar app, agenda, scheduling, events
+mage/stroke/Dollar.svg: budget, cash, income, entrepreneurship, business, Money, currency, accounting, expense, trade., investment, wealth, economic, finance
+mage/stroke/File Plus.svg: file manager, file categorizer, file browser, file utility, file viewer, file explorer, file management, file tools, file sorter, file extension handler, file organizer
+mage/stroke/Dots Menu.svg: extensions, menu, Chrome, settings, Google, browser, customization, toolbar, icons
+mage/stroke/Message Question Mark.svg: Communication Icon, Ask Siri, Send Message, Text Message, Chat Bubble, Message Icon
+mage/stroke/Home.svg: main menu, landing page, root directory, start page, desktop, dashboard
+mage/stroke/Shop.svg: retail, buy, shopping cart, online shop, market, store, commerce, purchase
+mage/stroke/Dots Horizontal Square.svg: horizontal, design, squares, graphics, UX, patterns, UI, dots, shapes, icons
+mage/stroke/Music.svg: Harmony, Radio, Artists, Melodies, Songs, Beats, Playlists, Lyrics, Podcasts, Genres, Stations
+mage/stroke/Double Diamond.svg: online gaming, classic icons, retro graphics, nostalgic designs, slot machine, casino game
+mage/stroke/Search Square.svg: explore, discover, search, lookup, query, find
+mage/stroke/Align Left.svg: center text, left align, desktop publishing, layout tools, justify text, formatting options, design software., word processor, align icons
+mage/stroke/Message Dots Round Check.svg: material design icons, message icons, checkmark, message dots, round check, notification dots, android icons
+mage/stroke/Television.svg: news, TV shows, satellite, media, broadcasting, entertainment, comedy, reality TV., drama, cable, streaming, broadcast, programming, channels, networks, streaming services, sports
+mage/stroke/Magnet Left.svg: design, graphics, pull, magnets, attract, left, user interface, interaction, icons
+mage/stroke/Shut Down.svg: windows, system shutdown, close program., restart computer, power button, shut down options, exit, log off
+mage/stroke/Layout Center.svg: align center, center, UX, positioning, composition, container, interface, UI, graphic, frame., element, middle, grid, layout, visual, alignment, object, placement, design, symmetry, arrangement, box, balance
+mage/stroke/Plus Square.svg: Plus Square, increase, boost, make, enlarge, amplify, expand, grow, multiply, augment, add, create
+mage/stroke/Clipboard 3.svg: digital notes, Microsoft Office, copy paste, text snippets, quick access., productivity tools, Windows 10, clipboard manager
+mage/stroke/User Square.svg: profile, design, graphics, representation., avatar, symbol, square, Icon, user, glyph, visual, element
+mage/stroke/Calendar Check.svg: event calendar, schedule check, deadline tracking, due dates, appointment reminder, task management
+mage/stroke/Hospital Shield.svg: medical, hospital, safety, first aid, hospital emblem, healthcare symbol, emergency, security, shield, medicine, healthcare
+mage/stroke/Video Download.svg: video to mp3, free movies, online videos, video streaming, movie torrents, video player software., mp4 downloads, download movies, video converter, YouTube downloader
+mage/stroke/Exchange A.svg: trading platform, online trade, international payment, financial transaction, Currency exchange, money transfer, currency converter.
+mage/stroke/Logout.svg: Log off, Disconnect, End session, Deauthorize, Sign out, Quit login., Exit account
+mage/stroke/Information Square.svg: design, graph., Information, square, icon, chart, visual, graphic, statistics, data, analytics
+mage/stroke/Scale Up.svg: Expand, Zoom, Grow, Magnify, Enlarge, Increase, Resize, Scaling
+mage/stroke/Double Circle.svg: infinity symbol, perpetual motion, mathematical sign, unity symbol, cyclical pattern, oneness logo, dualism concept
+mage/stroke/Chevron Left.svg: Previous, Arrow left, Navigation icon, Left arrow, Previous page, Prev, Chevrons, Back button
+mage/stroke/Box Plus.svg: Cloud storage, Online backup, File sharing, Box.com, Google Drive, Cloud computing, Dropbox
+mage/stroke/Multiply.svg: times table, calculations, formulas, calculator, algebra, multiplication, math, equations, math problems
+mage/stroke/Shield Cross.svg: Christian Symbolism., Christianity Icon, Protective Icon, Christianity, Shield Cross Meaning, Cross Symbol, Faith Symbol, Shield
+mage/stroke/Direction Right 2.svg: turn right, directional arrow, arrow symbol, arrow right, direction arrow, navigation icon
+mage/stroke/Cancel.svg: Reject, Abort, Backout, Undo, Refuse
+mage/stroke/Chip.svg: Iron Man, Marvel, Avenger, Tony Stark, Chip
+mage/stroke/Message Check.svg: email, notification, inbox check, unread messages, message alert
+mage/stroke/Media Reel V.svg: old-school, photography, nostalgia, film, Media, vintage, analog., camera, reel, retro, classic
+mage/stroke/Dots Circle.svg: design, ornament, Circle, symbol, shape, art, dots, geometry, graphic, pattern
+mage/stroke/Clipboard 2.svg: paste, duplicate detection, Copy, clipboard history, text sharing., data management, clipboard manager
+mage/stroke/Notification Bell Snooze.svg: notification settings, android widgets, android apps, android notifications, notification bell snooze, snooze notification, notification icons, customization.
+mage/stroke/Tag.svg: Labels, Classify, Categorize, Tagging, Labeling, Mark, Identify, Keywords, Categories
+mage/stroke/Select Box.svg: checkbox, option box, check box, button group, select all, toggle box, radio buttons
+mage/stroke/Briefcase.svg: Documents, Files, Storage, Office, Folders, Brief, Portfolio
+mage/stroke/Zoom In.svg: scale up, magnify, Image editing, resize, picture viewer, photo editor., increase size, zoom in on, enlarge
+mage/stroke/Television Minus.svg: TV, Symbol, Television, Icon, Broadcast, Media, Communication
+mage/stroke/Shopping Cart.svg: retail, buy, shop, online shopping, e-commerce, marketplace, checkout, purchase, cart
+mage/stroke/Robot Sad.svg: Robot, Robot Sentiment., Android, Emotive Robot, Robot Emotions, Mechanical Feelings, Sad Robot
+mage/stroke/Hour Glass.svg: Timer, Time, Countdown, Timing, Pause, Resume, Stopwatch, Deadline, Schedule, Clock
+mage/stroke/Inbox.svg: Message, Messages, Mail, Email, Notification, Notifications, Inbox
+mage/stroke/Microphone.svg: sound, audio recording, record, voice, microphone, Siri, Alexa., Google Assistant, talk, audio, voiceover, voice assistant, speech, podcast
+mage/stroke/Database.svg: Data modeling, schema design, data storage, data analysis., database administration, data architecture, data warehousing, SQL queries, data organization, relational database management
+mage/stroke/Bookmark Question Mark.svg: bookmark, mark, uncertain, highlight, revisit., flag, note, question, Save, unsure, recall, remember, investigate later
+mage/stroke/Exchange B.svg: Exchange Bank, Economic Icon, Money Exchange, Trade Symbol, Currency Conversion, Banking Icon, Financial Symbol
+mage/stroke/Arrow Left Circle.svg: Previous, Old, Prior, Return to, Back, Previous page, Earlier, Go back
+mage/stroke/File.svg: Download, Close, Viewer, Open, Save, Upload, Explorer
+mage/stroke/Layout Left.svg: align, layout options., Word document, text alignment, formatting tool, page design, Microsoft Word, Layout, left justify
+mage/stroke/Notification Bell Snooze 2.svg: notification shade, Android, notifications, alarm clock, reminders., alerts, Android Oreo, Google, notification panel, alert, Notification, snooze, bell
+mage/stroke/Video Minus.svg: video compare, video subtract, video subtractor, video difference, video minus, video overlay
+mage/stroke/Male.svg: guys, man, masculine symbols, masculinity, guy culture, masculine, boys, men, male symbols
+mage/stroke/Building Tree.svg: ERD, process flow, diagram, data flow, flowchart., software architecture, system design, UML, modeling, network diagram
+mage/stroke/Voicemail.svg: Ringback tone, Voice mail notification, Voicemail settings, Call forwarding, Missed call alert, Message waiting indicator., Leave message
+mage/stroke/Camera 2.svg: snap, capture, photography, camera app., image, photo, take, frame, snapshot, Camera, picture, camera settings
+mage/stroke/Chevron Left Circle.svg: return to, navigation, back button, arrow left, chevron, go back, circle, previous page, move backward
+mage/stroke/Compact Disk.svg: CD, Digital media, Music disc, File transfer, CDROM, Data storage, Computer disk, Audio format
+mage/stroke/Bookmark Cross.svg: favorites, later, offline, share, save, wishlist, reading, bookmarks, cross
+mage/stroke/Tag 2.svg: annotate, tagging, label, categorize, markup
+mage/stroke/Multiply Circle.svg: vector graphics., multiplication, graphic design, shape, SVG, Math, geometry, circle
+mage/stroke/Trophy Circle.svg: trophy, reward, gamification, symbol, icon, medal, badge, circle, award, iconography, achievement
+mage/stroke/Arrow Right.svg: next page, Navigation, scroll, right button, direction, move cursor, arrow keys
+mage/stroke/Maximize.svg: Windows, Screen Size, Expand, Zoom, Fullscreen, Resize
+mage/stroke/Chevron Right.svg: Navigation, Symbol, Right, Arrow, Chevron, Icon, Direction
+mage/stroke/Home Heart.svg: cozy, sentimental value, warm, Home decor, traditions., interior design, nostalgia, emotional connection, inviting, family memories, comfortable
+mage/stroke/Message Dots Round.svg: messaging, round, Message, communication, notification, dots, chat, icons
+mage/stroke/Thumbs Up.svg: yes, thumbs up emoji, OK, positive feedback., approval, affirmative, agree, Like, approval symbol
+mage/stroke/User Cross.svg: Glyph, Symbol, Font, Sign, User, Cross, Icon, SVG, Emoji, PNG
+mage/stroke/Exclamation Square.svg: England, travel, UK, London, tourism, symbols, square, culture, landmarks, icons
+mage/stroke/Question Mark Square.svg: mark, help, symbol, bubble, cursor, info, question, icon, wondering, inquiry, blue
+mage/stroke/File Cross.svg: file, folder, symbol, icon, software, computer, cross
+mage/stroke/Keyboard.svg: Input Method, Text Input, Typing, Keycodes, Emoji, Virtual Keyboard, Symbols, Characters
+mage/stroke/Box 3D Cross.svg: Sign, Cross, Vector, Computer, Iconset, Box, 3D, Flat, Branding, Simple, UI, Design, Minimalist, Freebie, Visual Identity, Graphics, Icon, SVG, Technology, Symbol, Software
+mage/stroke/Television Plus.svg: TV shows, Streaming, streaming apps., on-demand, watch, catch-up, live TV, online video, movies, download
+mage/stroke/L Arrow Right Up.svg: arrow symbols, right arrow, UI elements, navigation buttons., Left arrow, up arrow, navigation icons
+mage/stroke/Box 3D Notification.svg: 3d, android, notification, icon, box, UI, graphic, material design
+mage/stroke/Minus Square.svg: negation symbol, minus box, square with dash, subtract icon, Minus Square, square minus sign, negative square, minus box icon.
+mage/stroke/Tag Check.svg: verification, quality control, tags, checklist, review, check, validation, audit, tag, inspection
+mage/stroke/Phone Call.svg: make call, real-time talk., phone call, mobile phone, voice chat, telecommunications, hands-free, communication tool, dial number, audio conversation
+mage/stroke/Lock.svg: Password, safeguarded, secure, protected, confidential, private., security, lock screen
+mage/stroke/Notification Bell Question Mark.svg: character, question mark, codes, html, symbol, notification, icon, reference, emoji, bell
+mage/stroke/Health Circle.svg: fitness, self-care, symbol, wellness, icon, circle, health, nutrition
+mage/stroke/Image Upload.svg: add image, content upload., file uploader, picture uploading, media upload, image upload tool, upload image, pic upload, image sharing, photo upload
+mage/stroke/Goals.svg: achievements, goals, tracking, motivations, accomplishments, monitoring, targets, progress, aspirations, objective, success
+mage/stroke/Divide.svg: split, fractions, divide symbol, calculator, math, separate
+mage/stroke/Database 2.svg: schema design, database management, query builder, data modeling, data normalization, relational databases, CRUD operations
+mage/stroke/Notification Bell Minus.svg: notification settings, disable notification bell, do not disturb mode, Notification bell minus, turn off notification bell, quiet hours.
+mage/stroke/Coin A.svg: bitcoin, digital currency, token, ethereum, coin, cryptocurrency
+mage/stroke/Robot Screen.svg: concept, design, robot, vector, android, interface, screen, visual, graphic, illustration, inspiration
+mage/stroke/Pen.svg: Text, Markup, Editing, Notes, Writing, Illustration, Annotation, Sketching, Drawing, Journaling
+mage/stroke/Trophy Star.svg: Trophy Star, Prize Icon, Medal Symbol, Recognition Symbol, Trophy Image, Medal of Honor, Winner Badge, Achievement Emblem, Medal Graphic, Award Icon
+mage/stroke/Bag B.svg: backpack, trip, bag, adventure, travel, outdoor, camping, hiking, vacation, luggage
+mage/stroke/Phone Incoming.svg: Android, iOS., notification, Phone, mobile, incoming call, ringtone
+mage/stroke/Clipboard.svg: file manager, drag drop., system settings, cut, registry editor, Copy, Windows Explorer, quick access, edit, paste
+mage/stroke/Arrow Right Circle.svg: Forward, Navigation, Navigation Icon, Design Icon, Next Step, Symbol, UI Icon, Graphic., Next, Continue, Proceed, Arrow Icon
+mage/stroke/Arrow Up Right.svg: Previous, Navigation, UI Element, Navigation Menu, Up, Icon Design, Next, Web Development., Arrow Icon
+mage/stroke/Notification Bell Upload.svg: upload, popup, notification bell, utility., symbol, message, notification, icon, software, system tray, computer, alert, desktop, program, tool, bell
+mage/stroke/Dots Horizontal.svg: texture, horizontal, design, elements, graphics, grid, ui, dots, pattern, icons
+mage/stroke/Stars A.svg: space, shining, starburst, galaxy, celestial, twinkling, stars, constellation, sparkle, astronomy, star icons
+mage/stroke/Link.svg: The Wind Waker, Zelda, Ocarina of Time, Navi, Hyrule, Legend
+mage/stroke/Heart Health.svg: Heart disease prevention, Cholesterol management, Cardiovascular risk assessment, Coronary artery disease, Blood pressure control, Cardiovascular health, Arrhythmia treatment, Hypertension management, Angina relief, High blood pressure treatment.
+mage/stroke/Arrow Down Left Circle.svg: down, navigation, keyboard, Mouse, shortcut, control, button, circle, accessibility., left, arrow keys
+mage/stroke/Key.svg: Unlock, Access, Keychain, Permissions, Lock, Authentication, Cipher, Security, Encryption, Authorization
+mage/stroke/Zap Circle.svg: Zap, warning, design, electric, symbol, ionic, notification, icon, UI, alert, circle, shock, element
+mage/stroke/Divide Square.svg: design, symbol, division, square, icon, calculator, geometry, graphic, math
+mage/stroke/Tag Question Mark.svg: categorization, question mark, search, semantic, tags, indexing, HTML, syntax, query, metadata, markup, XML
+mage/stroke/Chart B.svg: investment tools, graphing software, Financial charts, data visualization., stock market analysis
+mage/stroke/Volume Mute.svg: speaker, sound, volume control, loud, music, silent, mute, video, audio, quiet, headphones
+mage/stroke/Image Question Mark.svg: mark, interrogation, query icon, question mark icon, symbol, info icon., image, search term, query, Question mark, inquiry, punctuation
+mage/stroke/Eye Closed.svg: closed eyes, invisible, confidentiality, no eyes, secrecy, private, blind eye, hidden, discreet, shut eyes
+mage/stroke/Minimize.svg: reduce, scale down, shrink, condense, hide, disappear, compress, compact, window, close, decrease
+mage/stroke/Map Marker.svg: geographic mapping, point of interest, map pin, place marker, spatial data, coordinate system., Google Maps, location marker, marker tool
+mage/stroke/Settings.svg: Customize, Preferences, Control Panel, System Settings, Options, Configure, Edit
+mage/stroke/Chart Down.svg: decrease, down, reduce, minus, drop, arrow, subtract, decline, bar, fall
+mage/stroke/Stars C.svg: Zodiac, Ions, Star, Astrology, Symbolism, Celestial Bodies, Crystal
+mage/stroke/Dashboard Minus.svg: dashboard minus, simplify dashboard, reduce dashboard clutter, condensed dashboard., hide dashboard, minimize dashboard
+mage/stroke/Box Minus.svg: Cancel, Revert, Undo, Remove, Erase, Backspace, Delete
+mage/stroke/Screencast.svg: capture software, desktop video, screen sharing, screencam, recording software, video recording., Screen recording, screen share, video tutorial, presentation tool
+mage/stroke/Archive.svg: Folder, Storage, Organize, Email, Save, Backup
+mage/stroke/Box 3D Question Mark.svg: mark, 3d, graphics, search, symbol, question, icon, box, query, placeholder
+mage/stroke/Phone Cancel.svg: hang up, cancel call, call end, phone disconnect, reject call
+mage/stroke/Filter 2.svg: filter, classify, prioritize., sorting, Search, categorize, rank, organize
+mage/stroke/Coin B.svg: digital currency, Bitcoin, cryptocurrency, crypto, blockchain
+mage/stroke/Lens.svg: optical zoom, digital photography, image processing, camera lens, photo editing, Google Lens, smartphone camera.
+mage/stroke/Message Question Mark Round.svg: Ask, Comment Icon, Inquiry, Feedback Icon, Query, Ask A Question, Query Icon, Thought Bubble, Message Icon
+mage/stroke/Bag A.svg: Packing, Backpack, Vacation, Adventure, Luggage, Travel, Suitcase, Baggage, Packing List, Trip
+mage/stroke/Download.svg: acquire software, fetch content, obtain media, retrieve information, download, get data, save file
+mage/stroke/Note.svg: notes, reminders, annotation, journaling, sticky notes, note-taking
+mage/stroke/Pin.svg: Favorite, Bookmark, Webclipper, Save, Pinterest, Pinboard
+mage/stroke/Stars B.svg: svg, png, vector, graphics, free, transparent, clipart, symbols, illustrations, stars, designs, emoji, download, icons
+mage/stroke/Television Upload.svg: digital distribution, TV broadcast, online streaming, media publishing., video hosting, YouTube upload, Video sharing
+mage/stroke/Bell Notification Square.svg: phone settings., Android, notification, system UI, alert, square icon, bell
+mage/stroke/Trash Square.svg: Recycle Bin, Symbolic Representation, User Interface Elements., Digital Trash Can, Garbage Symbol, Iconography, Icon Design, Waste Management, Delete
+mage/stroke/Cup Hot.svg: hot beverage, comfort, tea, relaxation, coffee, mug, warmth, morning routine
+mage/stroke/Memory Card.svg: Memory Card, Storage Device, MicroSD, Card Reader, ROM, SD Card, Flash Memory
+mage/stroke/L Arrow Down Right.svg: down, navigation, next page, arrow, scroll down, pagination
+mage/stroke/Server.svg: management, infrastructure, clustering, Database, scalability., load balancing, deployment, hosting, cloud
+mage/stroke/Bolt.svg: Power, Lightning, USB-C, Charging Technology., Energy, Fast Charging, Quick Charge, Electronics
+mage/stroke/Folder Plus.svg: directory tools, folder customization., folder management, Windows shell extensions, Windows Explorer, file organization, file explorer plugins
+mage/stroke/Reload Reverse.svg: reverse script, undo changes, reloader, redo edits, reload plugin, reverse order
+mage/stroke/Stop Circle.svg: interrupt, pause, stop symbol, circle with line through it, terminate, stop circle, halt, cease, cancel
+mage/stroke/Inbox Plus.svg: Gmail plugin, Inbox optimizer., Inbox tool, Email booster, Inbox manager, Email management, Outlook add-on, Email organizer, Email client
+mage/stroke/Dash Menu.svg: navigation, context menu., shortcuts, quick access, Dash, menu bar
+mage/stroke/Aeroplane.svg: aviation, flying, flight, airplane logo, Air travel, airplanemaking, pilot, aircraft design., transportation
+mage/stroke/Layout Up Right.svg: Google Docs, layout options, right-justify, text alignment, Microsoft Word, formatting
+mage/stroke/Music Square.svg: Pitch, Beat, Soundwave, Audio, Visualizer, Rhythm, Music, Waveform
+mage/stroke/Hospital Circle.svg: Healthcare, Bed Management, Hospital Map, Nurse Navigation, Capacity Planning., Patient Flow, Staffing Optimization, Medical
+mage/stroke/Chart Up.svg: trend, visualization tool, data analysis, increase, boost, charting software, rise, graph up, Google Charts
+mage/stroke/Login.svg: authenticate, secure, protected, authorization, gateway., Sign in, access, credentials, restricted, logon
+mage/stroke/Home Plus.svg: residential development, real estate, decorating ideas, home decor, home improvement, interior design, DIY projects, property management., building construction, house plans, architecture, furniture design
+mage/stroke/Book.svg: non-fiction, e-book, fiction, Read, books, novel, publication., literature
+mage/stroke/Light Bulb Electricity.svg: Safety, Plug, Efficiency, Electricity, Voltage, Power, Wires, Circuit, Energy, Socket, Current, Light
+mage/stroke/Credit Card.svg: Cashback, Bill, Rewards, Finance, Pay, Money, Transaction, Credit Score, Invoice, Banking, Charge, Interest Rate, Payment Method
+mage/stroke/Arrow Up Left Circle.svg: Arrow keys, Gamepad emulation, Navigation, Gaming controls, PC gaming, Keybinding., Keyboard shortcut, Shortcut
+mage/stroke/Message Round.svg: Circle message icon, Message bubble, Circular chat icon, Communication roundel, Round messaging, Symbol for messages.
+mage/stroke/Arrow Down Right Circle.svg: Previous Page, Navigation Arrow, Scrolling Icon, Next, Circular Movement
+mage/stroke/Box Upload.svg: file upload, document management, collaboration tool, box net, file sharing, online backup, cloud storage
+mage/stroke/Image Download.svg: get, fetch, image, obtain, acquire, graphic, picture, retrieve, download
+mage/stroke/Email Notification.svg: message indicator, popup notification, reminder symbol, email notification, email alert, notification icon, alert icon
+mage/stroke/Bookmark Plus.svg: note taking, bookmark manager, research tool, chrome extensions, study aid, web annotation, firefox add-ons, browser toolbar, bookmarks, highlighter
+mage/stroke/Dashboard.svg: Google Analytics, Management Console., Overview, Widget, Homepage, Control Panel, Main Screen
+mage/stroke/Box Question Mark.svg: enigma, brain teaser, unknown, hidden answer, mystery box, puzzle solver, secret keepers, puzzle, question mark box, mysterious object, cryptic, riddle
+mage/stroke/Playlist.svg: Library, Player, Albums, Tracklist, Songs, Queue, Favorites, Audio, Media, Music
+mage/stroke/Notification Bell Cross.svg: Warning Sign, Notification System, Bell Icon, Alert Indicator, Cross Symbol, Notifications
+mage/stroke/Folder Check.svg: File Search Tool, Tree Viewer, Path Scanner, Folder Organizer, File Explorer, Directory Checker, Directory Walker, File Manager
+mage/stroke/GIF.svg: animated images, short videos, funny moments, entertainment content, funny pictures, looping photos, image loop, visual humor, moving graphics, internet meme
+mage/stroke/Flag.svg: emblem, identification, marker, nation, patriotism, symbol, flag, national, indicator, country, international
+mage/stroke/Dashboard Plus.svg: chrome, management, extension, widget, firefox, productivity, organization, plus, dashboard, tool
+mage/stroke/Preview.svg: Format, Microsoft Office, View., Print, File, Excel, PowerPoint, Design, Document, Layout, Edit, Word
+mage/stroke/Gameboy.svg: Nintendo, Portable, Classic, Handheld, Retrogaming, Emulator, Retro, Nostalgia, Pixel Art., Console
+mage/stroke/Arrow Up Circle.svg: Circular, Navigation, Scroll, Symbol, Up Arrow, Icon, Button, Direction
+mage/stroke/Stop.svg: End, Pause, Quit, Abort, Interrupt, Halt, Cancel
+mage/stroke/Chart Down B.svg: Emoticon, Symbol, Font, Fonts, Pictograms, Chart Down B, Graphics, Characters, Communication Tools., Typography, Icons, Design, Visual Aids, Emoji, Text Art, Symbols, Character, ASCII Art
+mage/stroke/Message Dots Question Mark.svg: dialogue bubble, text messaging, communication, question mark, message, symbols, symbol search, emoji, dots, query, inquiry, punctuation, chat, icons
+mage/stroke/Chevron Right Circle.svg: Design Elements, Navigation, Circular Icons, Directional Icons, Chevron Icons., Icons, UI, Graphic Symbols, Arrow Forward, Circles, Arrows
+mage/stroke/File Minus.svg: minus glyph, file minus symbol, minus file icon., File Minus, file symbol, minus icon, minus sign
+mage/stroke/Robot Happy.svg: fun, Robot, cartoon, playful, smiley, android, technology, robotic, happy, emoticon
+mage/stroke/Box 3D Minus.svg: Box 3D Minus, mathematical symbol, diagramming notation, 3D box, box icon, graphic symbol, educational icon., minus sign, geometry symbol, visual aid
+mage/stroke/File 2.svg: Download, Documents, Folder, Open, File, Save, Computer, Upload, Explorer
+mage/stroke/Lock Square.svg: design, protected, locked, square, icon, security, safe, graphic, pattern, lock, illustration, restricted
+mage/stroke/Chart Up B.svg: trend up, ascend., upward, increase, growth, Excel chart, rise, progress, graph up, climb
+mage/stroke/Message Dots Check.svg: Messaging, Alerts, Messages, Chat, Notifications
+mage/stroke/Note With Text.svg: sticky, write, jotter, annotate, reminder, record, scribble, note, text, memo, note-taking
+mage/stroke/Arrows All Direction 2.svg: icon packs, arrow symbols, navigation indicators, design elements., all direction arrows, pointing arrows, directional pointers, vector graphics, Direction icons, arrow sets
+mage/stroke/Trophy.svg: award, certificate, design, icon, medal, recognition, badge, graphic, prize, achievement
+mage/stroke/Hash.svg: #icon, #pound sign, #symbol, #number sign, #octothorpe
+mage/stroke/Fingerprint minimal.svg: verification, secure access, password, security, login, biometric identification, biometric, fingerprint scan, authentication
+mage/stroke/Magnet Up.svg: Motivational, Mood Boosting, Happy, Playful, Upbeat, Inspirational, Fun, Uplifting, Energizing, Music, Playlist
+mage/stroke/Plus.svg: Expand, Plus sign, Add to cart, Union, Create new, New item, Increase, Add to playlist, Together
+mage/stroke/Check.svg: Validate, Review, Confirm, Approve, Verified
+mage/stroke/Chevron Up Square.svg: navigation, design, triangle, symbol, square, icon, UI, arrow, direction, up, user interface
+mage/stroke/Inbox Check.svg: new mail, inbox notify, notification center, unread messages, message alert, Email check
+mage/stroke/Focus.svg: Productivity, Mindfulness, Concentration, Prioritize, Zen Mode, Task Management, Time Management, Goal Setting
+mage/stroke/Double Arrow Down.svg: decrease quantity, Down arrow, arrow down, decrement, down arrow key., downcaret, double arrow, subtract, downwards, decrease, minus sign, down direction
+mage/stroke/Message Dots Round Plus.svg: messaging UI, message symbols, social media icons, rounded icons, message dots, speech bubbles, dot icons, chat bubbles, notification icons, chat icons
+mage/stroke/Headphone Mute.svg: silent mode, Headphone Mute, stop sound, disable audio, pause music, quiet headphones., mute audio
+mage/stroke/Email.svg: reply, forward, send, inbox, compose, recipient, subject, attachment
+mage/stroke/Wifi.svg: Internet Connection, Connectivity Icon, WiFi, Router Settings, Wireless Network, Mobile Data, Online Access
+mage/stroke/Dashboard Cross.svg: navigation, design, development, web, material, menu, icon, switch, button, dashboard, toggle, cross
+mage/stroke/Scan User.svg: scan user, user scan, scan user symbol, what does the scan user icon mean, scan user icon, scan user icon meaning, user scanning, icon scan user, scan user image
+mage/stroke/Arrow Up.svg: arrow key, go up, move up, increase, navigate, cursor, scroll, direction, up, up arrow, arrow up button
+mage/stroke/User Question Mark.svg: profile, person, feedback, account, query, inquiry, identity
+mage/stroke/Edit Pen.svg: annotation, Text editing, commenting, drawing, markup
+mage/stroke/Box Cross.svg: box crossing, BoxCross, Box Cross, boxcross logo, box crossing logo, box cross logo, box crossing symbol.
+mage/stroke/Arrow Up Right Circle.svg: Previous, Navigation, Scroll, Swipe, Rotate, Cycle, Next, Carousel
+mage/stroke/Star Square.svg: Boyband, Culture, J-Pop, Asia, Pop, Dance, Singing, Idol, Japan, K-Pop, Girlgroup, Entertainment, Group, Music, Kawaii
+mage/stroke/File Records.svg: Document tracking, Record keeping, Data archive, File management, File history, Archive software., Document control
+mage/stroke/Phone Missed Call.svg: Call log, missed call indicator, phone notification, ring tone icon, mobile alert, incoming call notification.
+mage/stroke/File 3.svg: or presentation, New document, spreadsheet
+mage/stroke/Sim Card.svg: Sim card, phone sim, sim card size, sim card adapter., 3g sim, cdma sim, sim card types, gsm sim, 4g sim, mobile sim
+mage/stroke/Color Picker.svg: rgb, design tool, color scheme, hex code, color picker, color wheel, swatches, palette editor, palette
+mage/stroke/User Plus.svg: Customize, Create Account, Avatar, Symbol, User, Add User, Graphic., Icon, Settings, Profile, Personalization, Register
+mage/stroke/Folder 2.svg: document management, folder management, directory management, file structure, digital file system, file hierarchy, folder tree., File folder, file organizer
+mage/stroke/Video Plus.svg: streaming software., movie maker, media player, file converter, video converter, video editor, YouTube
+mage/stroke/Phone Cross.svg: logo, design, ios, android, app, symbol, phone, icon, mobile, cross
+mage/stroke/Home 2.svg: Navigation, Home, Windows, Desktop, Icon, Start Menu
+mage/stroke/Archive Drawer.svg: Archive Manager, File Organizer, Document Archiving, Data Archiving., Storage Management, Organize Files, File Classification, Folder Manager
+mage/stroke/Copy.svg: paste, copying data, duplicate text, duplicate files, duplicate, clipboard
+mage/stroke/Dashboard Chart Arrow.svg: design, graphics, icon, chart, arrow, visualization, dashboard
+mage/stroke/Fast Forward.svg: Play Faster, Quick Forward, Fastplay, Jump, Next, Skip
+mage/stroke/Reload.svg: update, refresh, refresh website, browser, reload page
+mage/stroke/Shield Check.svg: protection, warning, shield, symbol, notification, icon, defense, alert, indicator, check, status
+mage/stroke/Inbox Star.svg: Flagged Emails, Email, Must-Read Emails., Important Emails, Priority Emails, Starred Messages, Inbox
+mage/stroke/Dashboard 2.svg: Google Analytics, Data Visualization, Google Webmaster Tools, Site Overview, Performance Metrics, Website Statistics
+mage/stroke/Notification Bell Pending.svg: Android, search, pending, notification, icon, results, bell
+mage/stroke/Refresh.svg: synchronize, update, update data, restart, reload, refresh page, retry
+mage/stroke/Dashboard 3.svg: design, system settings, widget, panel, interface, graphical user interface, layout, navigation bar, control center, UI component, dashboard, user interface, GUI element, icons
+mage/stroke/Calendar Cross.svg: organizer, planning tool, time management, appointments, planner, date picker., schedule, Calendar, dates
+mage/stroke/Note Text.svg: jotting down ideas, writing app, note icon, note app, journaling, text editor, note-taking, text notes
+mage/stroke/Image.svg: Editor, Editor.exe, Files, Visuals, Viewer, Graphics, Images, Icons, Media, Photos, Pictures
+mage/stroke/Box 3D Upload.svg: 3d box maker, box 3d upload, 3d icon maker, 3d box creator, 3d box designer, upload 3d box, upload 3d model
+mage/stroke/Thumbs Down.svg: Negative Vote, Disapproval, Reject, Bad Rating, Dislike, No Good, Unhappy, Negativity
+mage/stroke/Message Dots Round Cross.svg: texting symbols, communication icons, message icons, cross icons, messaging apps, social media icons, round icons, message dots, emoji icons.
+mage/stroke/Verified Check.svg: social media verification, tick mark, authentication icon, verified symbol, green checkmark, profile verification, blue check mark
+mage/stroke/Layout Up Left.svg: layout options, Microsoft Office, slide design, PowerPoint, template creation, presentation software.
+mage/stroke/Scan.svg: Text, OCR, Reader, Document, Image, Recognition, PDF
+mage/stroke/Home 3.svg: Windows, Local Disk C., Google Desktop, Computer, Start Menu, Explorer, File Manager, My Documents
+mage/stroke/Crown B.svg: Imperial, Royalty, Regal, Opulence, Queens, Monarch, Luxury, Kings, Throne
+mage/stroke/Calendar Question Mark.svg: Appointment, Time, Reminder, Planner, Planning., Date, Schedule, Event, Organizer, Calendar
+mage/stroke/Previous.svg: Return to Previous Page, Browser, Navigation, Go Back, History
+mage/stroke/Calendar Plus.svg: Reminder, Planner, Date, Agenda, Event, Time Management, Organizer, Task List., Calendar, Scheduling
+mage/stroke/Broadcast.svg: streaming software, social media, share, streaming, online, broadcast software, webcasting, audio, live, podcast
+mage/stroke/Chevron Down Circle.svg: reactjs, chevron down, material-ui, bootstrap, navigation button, UI element, design pattern, circle shape, angularjs, responsive web design, material design, arrow icon, vuejs, semantic-ui.
+mage/stroke/Shiled Minus.svg: Minus Sign with Shield, Shield Icon, Shield Minus Symbol, Less Than Symbol with Shield, Shield Negative Icon
+mage/stroke/L Arrow Up Right.svg: Previous, Navigation, Symbol, Arrow, Icon, Next, Direction
+mage/stroke/User Check.svg: identity validation, user authentication, authorization, access control, login check, profile verification
+mage/stroke/Message.svg: Messaging, Reply, Email, Compose, Chat, Outbox, Send, Inbox
+mage/stroke/Play Square.svg: Fun, Game, Entertainment, Square, Play, Icon, Gaming, Leisure
+mage/stroke/Inbox Question Mark.svg: Unknown Sender, New Mail, Inbox Notifications, Message Request, Email Query, Unread Messages
+mage/stroke/Box.svg: storage, container, collect., archive, Icon, box, categorize, organize, folder
+mage/stroke/Play.svg: Streaming, Games, Video, Fun, Entertainment, Media, Online., Leisure, Playtime, YouTube
+mage/stroke/Chevron Up.svg: up pointer, direction up, up indicator, arrow up, up symbol., chevron up icon, Up arrow
+mage/stroke/Bookmark Check.svg: favorites, save page, mark important, Browser bookmarks, note taking.
+mage/stroke/Dashboard Bar.svg: Menu bar, Navigation pane, System tray icons, Home screen, Dashboard widget, Taskbar icons, Quick launch, Dashicon, Start menu.
+mage/stroke/Double Arrow Right.svg: Arrow Symbol, Pagination Icon, Forward, Navigation Icon, Carousel Control, Next, Slide Transition, Next Button
+mage/stroke/Heart Square.svg: Symbol, Love, Emotion, Apple, Icon, Design, Graphics., Valentine's Day, Emoji, Relationships
+mage/stroke/Double Arrow Circle.svg: double arrow symbol, circular navigation, turning circle, directional arrow, rotation indicator, Circle arrow, circular movement., looping motion, circular arrow, loop icon
+mage/stroke/Arrow Down Left.svg: down arrow key, page down, scroll bar control, navigate, scroll down, arrow down left, navigation icon
+mage/stroke/Unlocked.svg: rewards, game development., trophy, icon, Unlocked, gaming, progress, unlocked badge, achievement
+mage/stroke/Image Minus.svg: blend, mask, overlay, transparent, Image minus, image editing, remove, subtract, GIMP.
+mage/stroke/Notification Bell Download.svg: Browser notifications, notification bell, download button, browser icons, browser alerts, desktop notifications, system tray notifications.
+mage/stroke/Server 2.svg: connection, VPS, server, rdp, virtual private server, remote desktop, hosting, cloud computing, windows
+mage/stroke/L Arrow Down Left.svg: down, navigation, next, navigate, UI element, move, icon, arrow, scroll, previous, left
+mage/stroke/Pause Square.svg: multimedia icons, pause, stop playing, play/pause, video pause, UI elements, square, pause button, media controls, audio control, music pause
+mage/stroke/Check Circle.svg: ticked, checkbox, checked, validated, verified, confirmed, selected, approved
+mage/stroke/QR Code.svg: generate qr code, create qr code, qr code scanner, qr code creator, qr code maker, read qr code., scan qr code, qr code generator, qr code reader
+mage/stroke/Arrow Down Circle.svg: down, navigation, design, Arrow, direction indicator, interface, UI element, icon, circle, arrow symbol
+mage/stroke/Camera.svg: Picture, Snapshot, Phone, Image, Camera Roll, Photography
+mage/stroke/Printer.svg: print, print settings, printer drivers, printing options, printer settings, printer troubleshooting
+mage/stroke/Crown A.svg: Crown Jewels, Royal Family, UK Symbol, Monarch Icon, British Monarchy, Regal Emblem
+mage/stroke/Bookmark Upload.svg: upload, mark, recall, favorites, save, bookmarks, remember
+mage/stroke/Folder Open.svg: file explorer, open folder, folder icon, directory icon, folder symbol
+mage/stroke/Message Square.svg: Communication Icon, Facebook Messenger, Social Media Icon, Online Chat, Instant Messaging, Mobile App Icon, Messaging App
+mage/stroke/Home 4.svg: Navigation, Windows, Folder, Desktop, Icon, Start Menu
+mage/stroke/Bookmark Download.svg: favorites, save page, bookmarks toolbar, remember me, download later
+mage/stroke/Email Opened.svg: email opened, communication, email sent, notification, mail client, inbox, mailbox, unread, email received, open
+mage/stroke/Message Plus Round.svg: messaging, round, popup, social media, message, bubble, notification, rounded corner, icon, plus, chat
+mage/stroke/Message Dots Round Minus.svg: Bubble, Message, Android, Icon, iOS, UI, Design, Material, Notification
+mage/stroke/Dots Square.svg: texture, squares, backgrounds, geometric shapes, patterns, pixel art, dots square, design elements, icons
+mage/stroke/Notification Bell Plus.svg: desktop notifications, notify me, notification settings, notification bell, browser pop-ups, chrome extensions, chrome notifications, desktop alerts, notification icons, browser notifications
+mage/stroke/Double Arrow Left.svg: Previous, Go Back, Before, Reverse, Previous Page, Earlier, Backward, Older
+mage/stroke/Playlist Add.svg: Playlist Manager, iTunes, Add Song, Spotify, Media Player., Library Management, Apple, Music, MP3
+mage/stroke/Mouse 2.svg: cursor, pointer, Icon, Mouse 2, arrow, computer, desktop, windows
+mage/stroke/Dashboard 4.svg: kpi tracking, data visualization, business intelligence, performance monitoring, metrics, google analytics
+mage/stroke/L Arrow Left Up.svg: navigation, arrow icons, UI elements, Left arrow, design inspiration., scrolling
+mage/stroke/Calendar Minus.svg: subtract days, day counter, countdown calendar., calendar, schedule minus, date minus, time tracker
+mage/stroke/Trophy Up.svg: Xbox, Trophies, PlayStation, Medal, Success Icon, Gamify, Win, Achievement Unlocked, Gaming, Reward, Badge.
+mage/stroke/Attachment.svg: file, upload, document, email, send, photo, image, picture, video, attach, add
+mage/stroke/Dots Horizontal Circle.svg: horizontal, design, identity., graphics, elements, simple, minimalist, layout, UI, visual, dots, pattern, circle, geometric, shapes, icons
+mage/stroke/Message Minus.svg: Less Than sign, Message, Minus sign, Not Equal To, Negative symbol, Notification
+mage/stroke/Trash.svg: Delete Files, Empty Folder, Recycle Bin, Remove Items, Clear Trash
+mage/stroke/Delivery Truck.svg: moving truck, delivery van, freight transportation, cargo transport, shipping service, transporting goods., logistics company, courier service, package delivery
+mage/stroke/Notification Bell.svg: System Notifications., iOS Notifications, Push Notifications, Desktop Alerts, Mobile Alerts, Notification Center, Alert Bell, Notifications, Android Notifications
+mage/stroke/Plus Circle.svg: Plus sign circle, Make a circle, Add icon, Circle plus, Circle icon., Add to circle, Start a circle, New item, Create circle, Join circle, Add new
+mage/stroke/Calendar Download.svg: Diary, Meetings, Notification, Date Range., Reminder, Planner, Google Calendar, Schedule Tool, Events, Appointments, Schedule, Task List, Dates, Organizer, Outlook Calendar, Agenda, Time Management
+mage/stroke/Battery Full.svg: power level, Battery full, smart phone., Android, gadget, mobile app, tech icons, UI design, iOS, battery indicator, fully charged, electronic device, charging status
+mage/stroke/Television Check.svg: TV guide, channel lineup., TV listings, channel listings, broadcast schedule, program guide, program schedule
+mage/stroke/Checklist Note.svg: checklist template, to-do note, reminder note, Task note, agenda item.
+mage/stroke/User Circle.svg: Account, Symbol, User, Person, Icon, Identity, Profile, Avatar
+mage/stroke/Electricity Danger.svg: electricity safety, shock risk, danger symbol, warning icon, caution sign, electric shock prevention., shock hazard, electrical warning, high voltage
+mage/stroke/Information Circle.svg: Pointer, Glyph, Symbol, Information, Description, Icon, Indicator, Details, Note
+mage/stroke/Star.svg: logo, star, space, design, graphics, celestial, symbol, icon, astronomy
+mage/stroke/Message Plus.svg: Messaging, Communications, Alerts, Messages, Chat, Email, Instant Messaging, Conversations, Notifications
+mage/stroke/Double Square.svg: squircle, UI elements, geometric shapes, double square, double rectangle, design icons
+mage/stroke/Sun.svg: climate, rays, weather, warm, relaxation., peaceful, brightness, summer, nature, happy, hot, light, calm, vacation, outdoors, solar, sunshine
+mage/stroke/Wrench.svg: Customize, Repair, Calibration, Adjust, Tools, Optimization., Fix, Maintenance, Settings, Configuration, Troubleshoot
+mage/stroke/Checklist.svg: organizer, reminder, task list, management., checklist app, planner, schedule, agenda, To-do
+mage/stroke/Phone Minus.svg: Decrease Volume, Phone Silent Mode, Vibrate Only, Quiet Hours, Mobile, Mute Icon
+mage/stroke/Arrows All Direction.svg: orientation, navigation, design, vector, graphics, UX, symbols, visual language, UI, arrows, direction, shapes, icons
+mage/stroke/Dashboard Chart.svg: reporting, Google Analytics, dashboard tools, data visualization, business intelligence, Analytics, charting, data insights, performance monitoring.
+mage/stroke/Image Plus.svg: picture viewer, image processing, image editor, photo editing software, graphic design tool
+mage/stroke/Chevron Left Square.svg: Arrow left, Chevron symbol, Navigation icons, UI elements, Left arrow, Previous page, Go back, Design inspiration, Back button
+mage/stroke/Edit.svg: Customize, Modify, Change, Revise, Adjust, Update, Rewrite, Refine
+mage/stroke/Location Pin.svg: Map Marker, Current Location, GPS Marker, Map Pin, Geolocation Icon, Position Indicator
+mage/stroke/Television Download.svg: Download TV shows, Online TV shows, Free TV episodes, TV series downloads, Streaming TV, TV programs download.
+mage/stroke/Multiply Square.svg: math tools, online math, formulas, calculator, algebra, square numbers, geometry, multiplication, math, equations
+mage/stroke/Next.svg: Navigation, Arrow, Page, UI Icon, Symbol., Go To, Continue, Button
+mage/stroke/Video Check.svg: video analysis., quality control, media monitoring, Video player, content review
+mage/stroke/Mobile Phone.svg: apps, wallpaper, music, ringtone, text message, storage, calling, battery, messaging, ringtones, phone, wireless, camera, video, charging, tones, communication, internet, smartphone, mobile, voicemail, cover, accessories, phone case
+mage/stroke/Image Cross.svg: design, graphics, photo manipulation, Image editing, image editing software, photo editor., picture processing, illustration, graphic design tool, visual effects
+mage/stroke/Video Upload.svg: video management, file upload, digital asset management., online video hosting, YouTube upload, media sharing, video share, cloud storage
+mage/stroke/Message Dots Round Download.svg: messaging icons, round icons, message dots, notification icons, download icons, icons
+mage/stroke/Home Check.svg: Home inspection, Home assessment, Property check, Relocation guide, Moving checklist, House evaluation, Real estate, Inspection services
+mage/stroke/L Arrow Up Left.svg: UI elements., up left, arrow icons, Left arrow, navigation symbols, direction indicators, navigation icons
+mage/stroke/Question Mark Circle.svg: uncertain, perplexed, unsure, unclear, confusion, ambiguous, puzzled
+mage/stroke/Exclamation Circle.svg: Exclamatory Mark, Symbol, Warning, Icon, Alert, Caution, Emoji, Notification
+mage/stroke/Magnet Right.svg: computer-aided design (CAD)., right-aligned text, alignment tools, interaction design, programming languages, graphical user interface (GUI) components, visual design, web development, graphic design, magnetism, geometric shapes, magnetic fields, UI kits, user experience (UX) design, coding, software development, design elements, icons
+mage/stroke/Contact Book.svg: Phonebook, Phone directory, Address book, Contact list, Contacts app, Directory app
+mage/stroke/Compass.svg: Navigation, Location, Wayfinding, Orienteering, Route, Map, Cartography., Directions, GPS
+mage/stroke/Water Glass.svg: Thirsty, Water Bottle, Hydration, Refresh, Refreshment, Beverage, Moisture., Drinking, Liquid, Quench, Sip
+mage/stroke/Dashboard Circle Bar.svg: Data Viz, Circle Graph, Analytics Symbol, Gauge, Performance Indicator, Visualization Icon, Dashboard, Progress Bar
+mage/stroke/Dialer Keypad.svg: touchpad, android, dialer, virtual keyboard, phone, numeric, keypad, mobile, iphone, input
+mage/stroke/Book Text.svg: novel, ebook, book, text, reading, writing, manuscript
+mage/stroke/Refresh Reverse.svg: Refresh, Reverse, Reload, Update, Revert
+mage/stroke/Package Box.svg: Inventory, Packing Slip, Packaging, Container, Supply Chain Management, Shipping Label, Parcel Tracking., Shipping, Box, Warehouse Management, Logistics
+mage/stroke/Arrow Left Square.svg: back, navigation, first page, previous page, arrow left square, pagination
+mage/stroke/Chart 50.svg: Charting, portfolio management, bonds, trading, data visualization, analysis, mutual funds., stocks, stock market, performance tracking, graph, ETFs, investment, financial
+mage/stroke/Message Minus Round.svg: notification bell, error message, warning symbol, minus sign, alert icon
+mage/stroke/Bar Code Scan.svg: scan QR, QR code scanner, code scanner, QR scanner app, barcode reader, read barcodes, barcode reader software, barcode scanning app
+mage/stroke/Money Exchange.svg: Convert Currency., Foreign Exchange Rates, FX Rate, Money Transfer, Exchange Rate, Currency Exchange, Currency Calculator, Currency Converter
+mage/stroke/L Arrow Left Down.svg: Previous, Navigation, Go Back, Return, Backward
+mage/stroke/Tag Minus.svg: opposite tag, subtract tag, exclude tag, negate tag, not tag, remove tag, tag minus
+mage/stroke/Security Shield.svg: protection, risk management, vulnerability, Network security, firewall, defense, malware, threat, antivirus, shield, cybersecurity, computer safety.
+mage/stroke/Layout Grid.svg: design, flexbox, web development., positioning, layout, Grid, alignment, CSS grid, responsive
+mage/stroke/Round Sticker.svg: sticker template, circle sticker, vinyl decal, label maker, round icon
+mage/stroke/Filter Square.svg: Visual Effects, Filter Effects, Graphic Design, Creative Tools., Image Editing, Artistic Styles, Photoshop
+mage/stroke/Arrow Right Square.svg: next page, Navigation, forward, continue, go to, proceed, square button, direction, arrow right
+mage/stroke/Megaphone B.svg: megaphone, communication, social media, attention, loud, amplify, share, public speaking, voice, speech
+mage/stroke/Direction Up Right 2.svg: direction up, up icon, Arrow up right, right pointing arrow, up arrow key, up arrow symbol, up right icon, directional up, right arrow symbol
+mage/stroke/Clock.svg: Time, timer, watch, stopwatch, hourglass, planner, alarm, schedule, chronology
+mage/stroke/Building B.svg: Building design, Construction, Urban planning, Real estate, Architecture
+mage/stroke/Arrow Down Left Square.svg: keyboard, symbols, shortcuts, computer, arrows, icons
+mage/stroke/Zap Square.svg: Zap, Game Boy, classic video games, nostalgia, Pokémon, throwback, 8-bit, pixel art, retro style, vintage icons., retro gaming
+mage/stroke/Folder Cross.svg: file manager, file explorer, navigation button, directory management, folder organizer, cross icon
+mage/stroke/Save Floppy.svg: retro computing, backup data., vintage technology, floppy disk, Dos, PC, file storage
+mage/stroke/Phone.svg: Calls, Voice Mail, Directory., Contacts, Phone Book, Texting, SMS, Dialer
+mage/stroke/Notification Bell Check.svg: notification settings, Android Oreo, bell icon, notification badge, Android notification, Android notification tray.
+mage/stroke/Scale Down.svg: scale down, minimize, shrink, diminish., Zoom out, compress, compact, reduce size, decrease
+mage/stroke/Divide Circle.svg: visual identity., logo, design, graphics, unity, symbol, harmony, oneness, icon, balance, circle, spirituality, divine, wholeness
+mage/stroke/Volume Down.svg: decrease, sound, media, volume control, mute, button, audio, player, slider
+mage/stroke/Eye.svg: Monitoring, Watch, Omniscient., Surveillance, Search, Google, All-Seeing Eye, Eye of Providence, Spy
+mage/stroke/Fast Forward Back.svg: video playback control., rewind song, skip forward, Media player
+mage/stroke/Align Center.svg: align center, justify, middle, design, center, text alignment, layout, typography, formatting
+mage/stroke/Phone Outgoing.svg: Outgoing calls, Calls, Phone records, Call log, Mobile phone records., Missed calls, SMS logs, Text messages
+mage/stroke/Location.svg: pinpoint, coordinates, GPS, directions, maps
+mage/stroke/Robot Uwu.svg: Robot, Anime, Japanese Culture, Cute, Emoji, Meme, UwU, Kawaii
+mage/stroke/Electricity.svg: lightning, current, charge, energy, spark, power, voltage, shock, circuit
+mage/stroke/Tube.svg: videos, watch, tube, streaming, online, music, video, YouTube
+mage/stroke/Minus Circle.svg: negation symbol, minus circle, subtract icon, minus sign, remove button
+mage/stroke/Message Dots Plus.svg: material design icons, messaging, UI components, plus, message indicators, notification dots, design elements, notification icons, android icons, icons
+mage/stroke/Gift.svg: Honoring, Present, Wrapping Paper, Appreciation, Party, Celebration, Thank You, Card, Recognition
+mage/stroke/Health Square.svg: physical activity, fitness, mental health, self-care, mindfulness, wellness, exercise, health, nutrition
+mage/stroke/Zap.svg: Electricity, Discharge, Shock, Power, Lightning, Spark, Energy
+mage/stroke/Dashboard Chart Star.svg: Google Analytics, performance metrics, data visualization, business intelligence, analytics tool, report card, star rating, scorecard., dashboard chart
+mage/stroke/Trophy Down.svg: score, symbol, achievement, badge, Game over, reward
+mage/stroke/Share.svg: post, community, comment, social media, Share, publish, network, family, online, connect, friends, like, follow.
+mage/stroke/Playlist Alternate.svg: iTunes, media player, playlist management, music library, audio files
+mage/stroke/Message Dots.svg: Notification dots, Message bubbles, SMS indicator., Read receipt, Chat icons
+mage/stroke/Inbox Notification.svg: update, message, notification, Email, alert, inbox, unread
+mage/stroke/Exclamation Hexagon.svg: Emoticon, Face, Symbol, Punctuation, Mark, Exclamation, Icon, Hexagon, Emoji, Smile
+mage/stroke/Megaphone A.svg: megaphone, speaking loudly, communication, loudspeaker, public address system, sound amplification, megaphone icon, amplifier, volume boost, broadcasting, microphone
+mage/stroke/Video.svg: video player, Vimeo, movie, watch, trailer, media player, play, film, stream, YouTube
+mage/stroke/Video Player.svg: video player, video streaming, media player, playback, audio visual, digital video player, multimedia player, streaming media
+mage/stroke/Stack.svg: grid system, CSS, HTML., UI design, layout, Web development, responsive
+mage/stroke/Inbox Download.svg: files, storage, messages, email, sync, inbox, mailbox, download, attachment, cloud
+mage/stroke/Building A.svg: blueprints, CAD, construction, Architecture, building design, drafting software.
+mage/stroke/Robot.svg: Futuristic, Metal, Electronic, Artificial Intelligence, Android, Mechanical, Technology, Cybernetic, Synthetic, Automaton
+mage/stroke/Message Round Square.svg: messaging platform, Facebook, social media, round icons, messaging app
+mage/stroke/Direction Up.svg: pointing up, direction indicator, arrow, up arrow, navigation icon
+mage/stroke/Sound Waves.svg: Audio Visualization., Sound Effects, Vibration Patterns, Audio, Acoustic Design, Waveforms, Music Visualizer, Sonic Art
+mage/stroke/Filter.svg: Labels, View, Categories, Tags, Categorize, Options, Prioritize, Search, Organize, Classification, Sort, Criteria, Refine
+mage/stroke/Shield Question Mark.svg: Logic Problem, Puzzle, Riddle, Cryptic, Enigma, Thought Experiment, Brain Teaser, Cipher, Mystery
+mage/stroke/Stop Square.svg: Stop Animation, Freeze Frame, Pause, Halt Sequence
+mage/stroke/Box Check.svg: tick, validated, verified, confirmed, box, okay, checkmark, accepted, approved, agreed
+mage/stroke/Phone Ringing Loud.svg: phone sound effect, phone alert, loud ringtone, loud beep, ringing notification, Ringing tone, attention grabber., annoying ringtone
+mage/stroke/Robot Wink.svg: emoticons, tech icons, digital gestures, computer symbols, smiley faces, robot animations, winking robots, humor graphics
+mage/stroke/Dashboard Check.svg: track, monitor, report, monitoring, check, dashboard, analytics, overview, status
+mage/stroke/Calendar.svg: Diary, Planner, Events, Appointments, Schedule, Reminders, Dates, Organizer, Time Management
+mage/stroke/Shopping Bag.svg: items, retail, buy now, shop, online shopping, items in cart, e-commerce, market, goods, products, bag., basket, checkout, commerce, order now, purchase, cart
+mage/stroke/Globe.svg: navigation, map, geography, travel, globe-trotting, world, countries, location, capitals, cultures, international
+mage/stroke/Arrow Down.svg: down, navigation, next, select, symbol, menu, dropdown, arrow, scrolling, previous, emoji
+mage/stroke/Laptop.svg: laptop cases, netbooks, portable computers, macbook, dell, laptop bags, hp, lenovo, ultrabooks, asus, laptop sleeves
+mage/stroke/Inbox Cross.svg: Alerts, Messages, Email, Notifications, Inbox
+mage/stroke/Message Dots Upload.svg: upload, icons, messaging, Facebook, Message, WhatsApp, dots, communication., messenger, stickers, chat, emojis
+mage/stroke/Exclamation Triangle.svg: Warning Sign, Caution Icon, Error Symbol, Alert, Notification
+mage/stroke/Caret Down.svg: dropdown menu, caret symbol, collapse button, expand/collapse icon, down arrow
+mage/stroke/Direction Up Right.svg: navigation, up right, pointer, arrow, direction, movement
+mage/stroke/Calendar Upload.svg: upload, date management, Calendar, scheduling software., organizer, reminder, appointment, planner, time tracking, event planning, scheduling
+mage/stroke/Notification Bell Muted.svg: icons, sound, apple, microsoft., Notification, muted, disable, silent, system tray, mac, desktop, notification area, off, quiet, windows, bell
+mage/stroke/Message Dots Cross.svg: messaging, dot, communication, symbol, bubble, text, icon, emoji, speech, chat, cross, bubbles
+mage/stroke/Trash 3.svg: garbage, waste management, recycling bin, recycle, waste, disposal, junk, trash, litter, icons
+mage/stroke/Robot Dead.svg: robot, old-school, cartoon, nostalgia, pixelate, dead, pixel art, 8-bit, vintage, gaming, illustration, retro, classic, video game, Robot Dead, design.
+mage/stroke/L Arrow Right Down.svg: navigation, Left arrow right down, UI elements, design assets., navigation symbols, direction icons, graphical icons, arrow keys
+mage/stroke/Chart 25.svg: bar graph, infographic tools., data visualization, graph maker, statistical analysis, spreadsheet design, data presentation, pie chart, Excel chart, chart templates
+mage/stroke/Upload.svg: file upload, online storage, upload files free, save to cloud, add file, digital library, cloud sharing, share documents
+mage/stroke/Pause.svg: interrupt, suspend, stop, delay, still, halt, freeze, wait, hold
+mage/stroke/Water Drop.svg: droplet, pool, water, liquid, splash, ocean, wave, humidity, aquarium, fluid
+mage/stroke/Color Swatch.svg: Adobe Color, Design Systems, UI Kit, Color Palette, Android, Shade Picker, Material Design, iOS
+mage/stroke/Arrow Up Square.svg: arrow key, up arrow, navigation symbol, direction indicator
+mage/stroke/Preview Circle.svg: Figma, InVision, UI/UX, Sketch, Web Development, Preview, Adobe, Responsive Design, Circle Icon., Design
+mage/stroke/Bookmark.svg: Remember, Favorite, Tag, Mark, Highlight, Save, Recall
+mage/stroke/Rocket.svg: NASA, Launch, Astronaut, Galaxy, Space, Exploration, Orbit, Cosmos
+mage/stroke/Light Bulb Off.svg: out, bulb, extinguish, Icon, darkness, light, power, shut, off
+mage/stroke/Volume Zero.svg: silent mode, zero decibels, no audio, sound off, Volume mute
+mage/stroke/Chevron Right Square.svg: Navigation, Symbol, User Interface., Arrow, Chevron, Icon, UI, Design, Navigation Bar, Menu, Button, Mobile App
+mage/stroke/File Question Mark.svg: file manager, file dialog, open file, file explorer, file selector, save as, desktop shortcut, new document
+mage/stroke/Tablet.svg: Slate, Windows, Convertible, Android, iPad, iOS., 2-in-1, Touchscreen, Laptop, PC, Device
+mage/stroke/Direction Right.svg: navigation, next page, pointing right, right arrow, arrow icons, direction
+mage/stroke/Message Dots Round Upload.svg: icons, messaging apps, graphic design, UI elements, messaging platform icons, social media icons, round icons, simple icons, upload icons, design elements, message bubble icons
+mage/stroke/Music Circle.svg: Radio, Songs, Podcast, Beats, Audio, Melody, Sound, Music, Playlist
+mage/stroke/Handicapped.svg: Wheelchair, Disability, Mobility, Special Needs, Accessible, Impaired, Assistive Technology, Inclusive Design
+mage/stroke/Arrow Up Left.svg: keyboard, navigation, Up, cursor, shortcuts, left arrow, direction, movement, controls
+mage/stroke/Mouse Pointer.svg: design, mouse, graphics, technology, interface, cursor, pointer, icon, software, UI, arrow, computer
+mage/stroke/Hospital Square.svg: Health Care Symbol, Emergency Services, Medical Center Logo, Medical Symbol, Healthcare Icon, Doctor's Office Sign, Medical Facility Icon, Hospital Building, First Aid Sign, Emergency Response
+mage/stroke/Folder Minus.svg: Folders UI, Folder Navigation, Folder Management, Windows Explorer, Icon Design, Desktop Icons, Windows 10, File Manager
+mage/stroke/Message Conversation.svg: Message, Facebook, Messenger, Chat, WhatsApp, Email, Conversation, Notification, SMS
+mage/stroke/Media Reel H.svg: movie reels, Adobe MediaReel, video strips, media player, digital filmstrip, film reel, reel maker, video editing
+mage/stroke/Layout Down.svg: CSS, UX, website, programming, tool, development, interface, software, plugin, UI, HTML, theme, responsive, application, grid, layout, coding, design, template
+mage/stroke/Arrow Up Left Square.svg: navigation, up, character, symbol, square, icon, arrow, Emoji, direction, left, Unicode.
+mage/stroke/Box 3D Download.svg: SVG Files., Box Symbols, Box 3D, Download Icon, 3D Modeling, Free Icons, Vector Graphics, Graphic Design, 3D Box
+mage/stroke/Battery Empty.svg: no power, power off, empty battery, dead battery, drained battery, out of charge, low battery
+mage/stroke/Arrow Down Right Square.svg: Navigation, Scroll, UI Icons, Web Browsing, Browser Navigation, Arrow Keys
+mage/stroke/Box 3D Check.svg: Autodesk, verification, Revit., validation, check, Box, 3D, Inventor, modeling
+mage/stroke/Arrow Down Right.svg: down, navigation, interface, cursor, arrow, scroll, direction, controls
+mage/stroke/Dashboard Chart Notification.svg: reporting, data visualization, business intelligence, KPIs, performance monitoring, metrics, notification, chart, statistics, dashboard, chart notification, analytics
+mage/stroke/Tag Plus.svg: management, Tags, labeling, sorting, organization, filtering, taxonomy., metadata, categorizing, classification
+mage/stroke/File Check.svg: malware detection, file validation, data integrity., software validation, file verification, file integrity, system security, file scan, virus check
+mage/stroke/Three D Box Square.svg: visualization software, design tool, 3D modeling, object manipulation, rendering engine, graphic design, CAD software
+mage/stroke/Tag Cross.svg: Symbol, Tag, Marker, Badge, Ribbon, Icon, Indicator, Label, Flag
+mage/stroke/Trash 2.svg: garbage, waste management, dispose, recycle, waste disposal, junk, trash, dispose of, recycling, icons
+mage/stroke/Calculator.svg: spreadsheet, financial, metrics, calculations, formulas, statistics, math, numbers, equations, conversions
+mage/stroke/Mouse.svg: PC accessories, Pointing device, Trackball., Computer hardware, Touchpad, Mouse cursor, Computer mouse
+mage/stroke/Phone Plus.svg: Samsung, OnePlus, Android, Apple, HTC, iOS, Google, Xiaomi, screen protector., phone case, Mobile, LG
+mage/stroke/Female.svg: Girl, Gender, Sexuality, Feminine, Female, Woman, Lady, Feminism., Icons, Symbols
+mage/stroke/Message Dots Minus.svg: Textual Icons, Message, Unicode, Font Awesome, Dot, Icon, SVG, Emoji, Less Than, Symbols
+mage/stroke/Arrow Up Right Square.svg: Navigation, symbols, emojis, square, UI, arrow, design., right, up, character codes, icons
+mage/stroke/Battery Dead.svg: Unplugged., Dead Battery Icon, Power Off, Flat Battery, No Charge, Low Battery, Out of Juice
+mage/stroke/Inbox Upload.svg: upload, file, email, send, share, transfer, transmit., inbox, receive, attachment
+mage/stroke/File Upload.svg: file upload, download file, file transfer, import file, upload data, upload files, add file, submit file, send file, attach file
+mage/stroke/Folder.svg: File organizer, file system, directory management, document storage, folder navigation, manage documents., organize files
+mage/stroke/Star Circle.svg: star, design, clip-art, celestial, symbol, shape, icon, astrology, graphic, circle, illustration
+mage/stroke/Television Question Mark.svg: TV, news, media, channel, communication., broadcast, programming, broadcasting, schedule, entertainment
+mage/stroke/Basket.svg: Store, Market, E-commerce, Inventory, Marketplace, Sell, Catalogue., Purchase, Shopping, Retail, Cart, Online shopping
+mage/stroke/Inbox Minus.svg: filter, reduce, minimize, email, hide, search, icon, minus, inbox
+mage/stroke/Users.svg: profile, roles, user management, authorization, account, permissions, access control, identity, administrator, authentication
+mage/stroke/Fingerprint.svg: identification, verification, scanner, access control, password, security, login, recognition, biometric, authentication
+mage/stroke/Eye Off.svg: Visibility., View, Symbol, Eye-off, Hide, Show, Eyes, Open, Icon, Toggle, Off, Closed, Eye
+mage/stroke/Minus.svg: Subtract, Minimize, Remove, Less Than, Decrease, Delete
+mage/stroke/Shield Plus.svg: Protection, Antivirus, Safe Browser, Defense, Virus Scanner, Malware Removal, Firewall, Online Safety., Security
+mage/stroke/Moon.svg: Phase, Lunar Module, Tidal Pull, Eclipse, Night, Space, Lunar Cycle, Celestial Body, Astronomy, Planetary Movement
+mage/stroke/Message Info Round.svg: Social Media, Messaging, Icon, Chat, Outbox, Thread, Status, Conversation, Notification, Inbox
+mage/stroke/Star Moving.svg: astronomy logos, moving icons, space navigation, galaxy symbols, star wars
+mage/stroke/Robot Appreciate.svg: artificial intelligence, Robot appreciation, sci-fi fans, geek culture., mechanical lifeforms, tech enthusiasts, futuristic themes, robotic pets
+mage/stroke/Chevron Down.svg: downward pointing arrow, chevron, direction indicator, arrow symbol, down arrow, triangle icon
+mage/stroke/Dashboard Bar Notification.svg: message center, widget, UI element, icon, system tray, dashboard, status bar, notification bar
+mage/stroke/Caret Up.svg: cursor up, go up, caret up symbol, up direction, increase font size, scroll up, arrow up., Up arrow
+mage/stroke/Box 3D Plus.svg: Box Shaping, 3D Animation, Box Art, CAD Software, Graphic Design Elements, Graphic Editing, Illustration Tools, 3D Modeling, Vector Graphics, Icon Design
+mage/stroke/Layout Right.svg: justify, design, right-aligned, align, grid, graphic design, layout tool, layout, padding, spacing, margin, formatting
+mage/stroke/Ribbon.svg: design, Microsoft Office, Excel, styles, colors, fonts, formatting, decorations
+mage/stroke/Heaphone.svg: Reduce, Audio, Noise, Gaming, Phone, Accessories, Isolation, Sound, Headphones, Music, Cancel
+mage/stroke/Message Dots Round Question Mark.svg: messaging icons, conversation indicators, discussion marks, text markers., message dots, Question mark, chat bubbles
+mage/stroke/Magnet Down.svg: down, gravity, kids, STEM, curriculum., classroom, Magnet, learning, attraction, force, science, physics, education
+mage/stroke/First Aid Kit.svg: Health, Wellness, Medicine., Care, Bandage, Wound, Emergency, Treatment, Injury, Medical
+mage/stroke/Chevron Up Circle.svg: Navigation arrow, Next prev buttons, Arrow up circle, Previous page, Go back, Chevron up, Up arrow, Back button
+mage/stroke/Battery Charging.svg: meter, charging, status, Power, wireless, capacity, plugin, charging station., gauge, levels, battery
+mage/stroke/Heart.svg: Emotional, Love, Romance, Affection, Valentine, Feeling
+mage/stroke/Align Right.svg: Horizontal Alignment, Right Align Button, Word Processor Icon., Paragraph Alignment, Text Align, Justify
+mage/stroke/Battery Half.svg: charging, design, iPad, concept., Apple, icon, iOS, iPhone, battery
+mage/social-bw/Whatsapp Filled.svg: whats app logo, whatsapp logo, whatsapp symbol, whatsapp filled symbol, whatsapp sign, whatsapp filled icon, whats app messenger, Whatsapp filled, whatsapp icon
+mage/social-bw/Medium.svg: content creation, journalism, writing app, editorial, online publishing, blogging platform
+mage/social-bw/Figma.svg: web design, UI/UX, visual design, collaboration tool, graphic design, prototyping, wireframing, design software., Design, digital product design, user experience, user interface, Figma tutorial
+mage/social-bw/Steam.svg: Library, Games, Store, Multiplayer, Cloud Saves, Sales, Discounts, Software, Online, Gaming, Digital, Community, PC
+mage/social-bw/Meta.svg: API, OGP, Markup, Facebook, Sharing, Protocol, Open Graph, RDFa, Facebook API, Integration
+mage/social-bw/Adobe.svg: Lightroom, Creative Cloud, Dreamweaver, InDesign, Acrobat, Illustrator, Photoshop, PDF
+mage/social-bw/Visa.svg: credit card, financial services, payment, security, online transactions
+mage/social-bw/Github.svg: github,git,software development,open-source,repository, coding,programming,version control, collaboration
+mage/social-bw/Instagram Square.svg: Instagram template, layout inspiration., square post, graphic design, Instagram, social media graphics, photo editing, visual content
+mage/social-bw/After Effects.svg: CC 2019, keyframe animation, 3D modeling, digital art., CS6, CGI, chroma keying, green screen, compositing, video editing, motion graphics, visual effects, Adobe Creative Cloud, CC 2020
+mage/social-bw/Microsoft Windows.svg: System Properties, Settings app, Desktop, File Explorer, Control Panel, Windows 10, Microsoft OS, PC settings, Registry Editor.
+mage/social-bw/X.svg: Close, Cancel, Quit, Remove, Exit, Delete
+mage/social-bw/Facebook Circle.svg: logo, circle icon, share button, social media, symbol, facebook, like button
+mage/social-bw/Threads.svg: textile, embroidery, yarn, threads, knitting, fabric, stitching, sewing, crochet
+mage/social-bw/Tiktok Circle.svg: video sharing, circle logo, social media, short form videos, music, tiktok design, tiktok, viral content, app icons, entertainment.
+mage/social-bw/Premier Pro.svg: Premiere Pro tutorial, content creation, visual effects., video production, film editing, video editing, Adobe Creative Cloud, editing software, multimedia
+mage/social-bw/Telegram.svg: free chat, instant messaging, secure messaging, Messaging app, Telegram Messenger., mobile app, end-to-end encryption, desktop app, messaging service, group chats, file sharing
+mage/social-bw/Twtich.svg: microblogging, news, followers, posts, shares, social media, Twitter, updates, online community, tweets
+mage/social-bw/Notion.svg: notes, workflow management, knowledge base, project management, writing app, productivity, all-in-one workspace, task management, organizational tool, digital note-taking, collaboration platform
+mage/social-bw/Spotify.svg: songs, artists, podcasts, streaming, playlists, music
+mage/social-bw/X Square.svg: Symbol, X, Graphics, Icon, Square, Geometry
+mage/social-bw/Threads Square.svg: Threads Square, DIY, yarn, knitting, fabric, textile art., needlework, crafts, sewing, crochet
+mage/social-bw/Snapchat.svg: streaks, stories, lenses., Selfies, social media, filters, snaps, friends, ephemeral messaging, disappearing photos, chat
+mage/social-bw/Paypal.svg: secure, payment gateway, online shopping, transactions, e-commerce, payment, checkout, money transfer
+mage/social-bw/Facebook.svg: profile, messaging, likes, comments, social media, updates, friends, login, news feed, online community, sharing, Mark Zuckerberg
+mage/social-bw/Amazon.svg: electronics, retail, reviews, deals, online shopping, books, e-commerce, products, music, movies
+mage/social-bw/Pinterest.svg: design, social media, decoration ideas, DIY projects, online scrapbooking, visual discovery, fashion, image sharing, inspiration, lifestyle blog
+mage/social-bw/Whatsapp.svg: instant messaging, messaging, messaging platform, text messaging, communication, social media, online messaging, messaging service, mobile, chat, messaging app
+mage/social-bw/Google.svg: Google Analytics, Google Chrome., Google Drive, Search terms: Google Maps, Google Search
+mage/social-bw/Line.svg: design, vector, interface, shape, stroke, art, line, drawing, graphic, illustration, tool
+mage/social-bw/Instagram Circle.svg: Social Media, Facebook, Sharing, Circle, Logo, Online Community, Instagram, Icon, App, Photography, Networking
+mage/social-bw/Stripe.svg: online payments, payment processing, Payment gateway, e-commerce platform, subscription management, transaction management., payment security, Stripe API, checkout process
+mage/social-bw/Photoshop.svg: retouch, design, graphics, editing, manipulate, illustrator, creative cloud, image, software
+mage/social-bw/PlayStore.svg: APK Files, Android Market, Google Apps., Google Play, Mobile Games, App Store, Download Games, Android Apps, Free Apps
+mage/social-bw/Youtube.svg: videos, upload, watch, reviews, share, embed, tutorials, streaming, online, playlists, channels, music
+mage/social-bw/Reddit.svg: community, news, subreddit, online discussion, social media, self posts, internet forum, karma, AMA, upvote
+mage/social-bw/Illustrator.svg: digital drawing, design tool, graphic design, illustration software, vector art, Adobe software
+mage/social-bw/Dribbble.svg: web design, design, dribbbble, graphic design, dribbble icons, design inspiration, icon design, visual identity, creative portfolio
+mage/social-bw/Facebook Square.svg: Social Media, Icon Set, UI Design, Facebook, Web Development, Marketing, Branding, SVG, Facebook Logo
+mage/social-bw/Linkedin.svg: Professional network, job search, social media, resume building, networking site., career development, online connections
+mage/social-bw/Twitter.svg: microblogging, news, social media, real-time updates, trending topics, online community, hashtags, Twitter API
+mage/social-bw/Discord.svg: real-time messaging, messaging, gaming community, video conferencing., social platform, online communication, voice chat, chat
+mage/social-bw/We Chat.svg: Tencent, instant messaging, mobile app, social media in China, Chinese messaging app, chat platform, WeChat
+mage/social-bw/Slack.svg: team, messaging, enterprise, communication, collaboration, business, app, productivity, software, platform, workspace, chat, tool
+mage/social-bw/Messenger.svg: online messaging., instant messaging, messaging platform, Facebook, social media, messaging service, communicate, chat, messaging app
+mage/social-bw/Visa Square.svg: Online Payments, Digital Payments, E-commerce, Square Payment, Business Services, Visa, Payment Processing, Financial Technology, Credit Cards
+mage/social-bw/Apple.svg: iTunes, iCloud, iPad, AirPods, Tim Cook, Siri, Steve Jobs, iOS, Mac, Apple Store, iPhone, macOS
+mage/social-bw/Netflix.svg: documentaries, TV shows, online viewing, media, subscription service, popular culture., streaming, series, movies, entertainment, original content
+mage/social-bw/Tiktok.svg: dance challenges, comedy skits, short form content, trending now, social media, music remixes, lip sync, viral videos
+mage/social-bw/Behance.svg: portfolio, design, artist portfolio, digital art portfolio, online portfolio, illustrator portfolio, Behance alternative, artistic portfolio, designer portfolio., creative portfolio, graphic design portfolio
+mage/social-color/Whatsapp Filled.svg: WhatsApp filled, WhatsApp icon, chat app, WhatsApp, communication icon, WhatsApp logo, filled circle icon., messaging app, WhatsApp symbol
+mage/social-color/Medium.svg: magazine, content creation, publishing, journalism, blogging, editorial, blogging platform, writing, online publication
+mage/social-color/Figma.svg: Wireframing, Figma Plugins, User Interface, Web Design, Graphic Design, Vector Graphics, UI, Digital Product, Design, Interaction Design., Prototyping
+mage/social-color/Steam.svg: Valve, Steam store, online multiplayer, indie games, digital distribution, PC gaming, game sales, Steam library., DLC, in-game purchases
+mage/social-color/Meta.svg: Facebook, News Feed, Social Network, Share, Comment, Online Community, Like, Friend Request, Profile
+mage/social-color/Adobe.svg: Creative Cloud, InDesign, Graphic Design, Vector Graphics., Acrobat, Illustrator, Photoshop, PDF
+mage/social-color/Visa.svg: payment method, credit card, financial services, online transactions, bank account
+mage/social-color/Github.svg: software-development, API, repository, collaboration, commit, pull, open-source, push, coding, online-platform., programming, github, code-sharing, developer, version-control
+mage/social-color/Instagram Square.svg: photo sharing, square profile picture, social media, icon design, instagram, visual branding
+mage/social-color/After Effects.svg: CC 2023, After Effects, AE CS6, AE CC., animation, post-production, video editing, motion graphics, visual effects, Adobe Creative Cloud
+mage/social-color/Microsoft Windows.svg: System Requirements., Windows Update, Desktop, Control Panel, Operating System, Windows 10, Settings, Explorer, File Manager
+mage/social-color/X.svg: Close, Reject, Dismiss, Exit, Cancel
+mage/social-color/Facebook Circle.svg: facebook logo, circle icon, share button, profile picture, community building, online identity, social media icons, like button, connection symbol, social networking
+mage/social-color/Threads.svg: community, messaging, online talk, social media, threaded comments., forum, Conversation, discussion, chat
+mage/social-color/Tiktok Circle.svg: logo, social media, app, symbol, share, icon, tiktok, circle, music, download, video
+mage/social-color/Premier Pro.svg: CC 2018, CS6, creative cloud, Adobe, video editing software, CC 2015, post-production, film editing, CC 2022., timeline editor, CC 2020, multimedia
+mage/social-color/Telegram.svg: instant messaging, secure messaging, instant messenger, voice calls, video conferencing, end-to-end encryption., chat app, bot integration, encrypted messages, messaging service, group chats, file sharing, messaging app, cloud storage
+mage/social-color/Twtich.svg: Social Media, Tweets, News, Microblogging, Hashtags, Twitter, Updates, Followers, Notifications
+mage/social-color/Notion.svg: idea management, writing software, organization tool, productivity app, task management., all-in-one workspace, note-taking software, knowledge management, digital note-taking, collaboration platform
+mage/social-color/Spotify.svg: songs, podcasts, albums, streaming, playlists, radio, music
+mage/social-color/X Square.svg: Symbol, X, Clip Art, Logo, Graphics, Icon, Vector, SVG, Square, Design, Branding, Typography
+mage/social-color/Threads Square.svg: quilting, embroidery, craft inspiration, graphic design, digital textiles., textile design, Adobe Photoshop, fabric patterns, sewing, thread art
+mage/social-color/Snapchat.svg: snap, snapchat login, lily and val, snapchat filters, snap streak, snap stories
+mage/social-color/Paypal.svg: payment processing, online payment, credit card alternative, e-commerce checkout, transaction history, account login, money transfer, digital wallet
+mage/social-color/Facebook.svg: followers, likes, user profiles, social media, comments, shares, online networking, friends, social sharing, news feed, online community, Mark Zuckerberg
+mage/social-color/Amazon.svg: discounts, retail, reviews, deals, online shopping, e-commerce, Prime, products, checkout, shipping
+mage/social-color/Pinterest.svg: recipe collection, home decor, creative ideas, DIY projects, fashion trends, travel inspiration., online scrapbooking, Design inspiration, visual discovery
+mage/social-color/Whatsapp.svg: instant messaging, messaging platform, communication, social media, text message, mobile, online chat., messenger, chat, messaging app
+mage/social-color/Google.svg: android, search engine, mail, google drive, maps, youtube
+mage/social-color/Line.svg: Hand-drawn, Doodle, Sketch, Artistic, Illustrate, Simple, Drawing, Graphic, Pencil, Diagram
+mage/social-color/Instagram Circle.svg: Social Media, Circle App, Alternative to Instagram., Instagram, Friends, Followers, Community, Networking
+mage/social-color/Stripe.svg: credit cards, payment gateway, online shopping, transactions, e-commerce, payment, online, PayPal, Stripe API, checkout
+mage/social-color/Photoshop.svg: manipulation, design, graphics, editing, creative cloud., illustrator, Adobe, image, software, photo
+mage/social-color/PlayStore.svg: APK Download, Android Market, App Manager, Google Services, Google Play, Mobile Games, App Store, Android Apps
+mage/social-color/Youtube.svg: TV shows, reviews, tutorials, subscribe., streaming, vlogs, playlists, channels, Videos, how-to, music, movies, entertainment
+mage/social-color/Reddit.svg: news, subreddit, online forums, comment, downvote, social media, Ask Me Anything, karma, upvote, AMAs, memes, discussion, Community, r/whatever.
+mage/social-color/Illustrator.svg: graphic illustrator, vector drawing., design software, image editing, graphic design, create images, vector graphics, digital art, Adobe Creative Cloud, illustration tools
+mage/social-color/Dribbble.svg: dribbble shots, design community, design, dribbble style, design inspiration, dribble, creative platform, design network
+mage/social-color/Facebook Square.svg: profile, logo, social media, facebook, share, square, icon, network, connect, online platform
+mage/social-color/Linkedin.svg: Professional network, business contacts, job search, resume building, hiring managers., career development, networking, industry connections
+mage/social-color/Twitter.svg: microblogging, news, followers, social media, real-time updates, trending topics, tweets, online community, hashtags
+mage/social-color/Discord.svg: community, messaging, server, chatbot, real-time, gaming, voice, chat
+mage/social-color/We Chat.svg: instant messaging, messaging, messaging platform, social media, chat app, WeChat, Chinese app
+mage/social-color/Slack.svg: team, instant messaging, messaging, cloud-based, communication, collaboration, productivity, software, workplace, chat
+mage/social-color/Messenger.svg: online messaging., messaging platform, instant messaging, Facebook, text messaging, communication, social media, chat, messaging app
+mage/social-color/Visa Square.svg: Commerce, Finance, Logo, Visa, Icon, Branding, Square, Card, Payment
+mage/social-color/Apple.svg: iTunes, iPad, Innovation, Steve Jobs, Branding, Design, Technology, Computers, Mac, iPhone, Silicon Valley., Electronics
+mage/social-color/Netflix.svg: fantasy, documentaries, TV shows, anime, reality TV., subscription service, thriller, sci-fi, episodes, streaming, watch online, romance, series, drama, movies, original content, comedy
+mage/social-color/Tiktok.svg: dance challenges, short videos, funny moments, music remixes, popular among youth, entertainment platform, viral clips, social media app, lip sync, Chinese app
+mage/social-color/Behance.svg: design showcase, design reference, Behance platform, Adobe design network, artist community, creative sharing, Design inspiration, visual discovery, creative portfolio, inspiration platform.

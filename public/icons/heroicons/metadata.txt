@@ -1,0 +1,592 @@
+heroicons/solid/bars-3-bottom-right.svg: navigation, Android Studio, menu, user interface, UI elements, icons, layout., material design, Bars, bottom right
+heroicons/solid/cpu-chip.svg: processor, cpu, electronics, computer hardware, chipset, semiconductor, computer components, motherboard, microprocessor
+heroicons/solid/arrow-right-on-rectangle.svg: Right arrow, proceed button, next button, forward arrow, rectangle icon, navigation icon, move to next
+heroicons/solid/arrow-top-right-on-square.svg: forward symbol, square arrow, direction icon, forward arrow, right arrow, top right icon, navigation arrow
+heroicons/solid/arrow-right-start-on-rectangle.svg: on, rectangle, related, terms, start, search, arrow, icon, right
+heroicons/solid/queue-list.svg: songs, playlist, music, player, queue, audio
+heroicons/solid/arrow-up-circle.svg: ascension, rise, arrow up symbol, increase, growth, upward circle, progress, circle up, up arrow
+heroicons/solid/pause-circle.svg: pause, control, play, stop, music, video, button, icon, media, audio, circle
+heroicons/solid/arrow-down.svg: navigation, glyph, menu, user interface, down arrow, expand, scroll, arrow, dropdown, symbol, icon, collapse, ui
+heroicons/solid/megaphone.svg: announce, public speaking, microphone, loud, talk, broadcasting, voice, communication, speech
+heroicons/solid/arrow-left-start-on-rectangle.svg: return to start, go back, navigation icon, start on rectangle, previous page, left arrow, backward arrow, back button
+heroicons/solid/computer-desktop.svg: desktop wallpaper, computer background, PC desktop, Windows icons, computer background images., Windows desktop, desktop symbols
+heroicons/solid/arrow-small-up.svg: scroll up, small icon, up button, increase, next page, move up, expand, up arrow
+heroicons/solid/scissors.svg: cut, delete, remove, excerpt, trim, clip, snippet, edit, fragment
+heroicons/solid/cog.svg: parameters, configuration, Settings, options, preferences
+heroicons/solid/play-circle.svg: play button, sound, audio file., music, media player, Play, icon, media, audio, circle
+heroicons/solid/viewfinder-circle.svg: photo viewer, lens icon, preview mode, camera app, Viewfinder, camera circle, camera view, camera interface., photography icons
+heroicons/solid/currency-pound.svg: UK money, Currency icon., Pound sign emoji, Sterling symbol, Currency symbol, Pound sign, British currency, GBP symbol
+heroicons/solid/battery-50.svg: device status, charge indicator, power meter, android, battery level
+heroicons/solid/user.svg: account, picture, identity, avatar, individual, registration, profile, persona, icon, login
+heroicons/solid/arrow-uturn-left.svg: navigation, revert, Left arrow, backwards, go back, undo, back, previous
+heroicons/solid/x-circle.svg: deny, cross, decline, no, rejected, Cancel
+heroicons/solid/home.svg: navigation, folder, directory, bookmark, windows, shortcut, desktop, start menu
+heroicons/solid/globe-alt.svg: navigation, geography, international, coordinates, location, travel, global, world, mapping
+heroicons/solid/no-symbol.svg: No-text, Symbol none, Empty symbol, Unnamed symbol., None icon, Invisible symbol, Blank icon, No symbol
+heroicons/solid/chevron-double-right.svg: navigation, Double arrow, chevron, next page, right arrow, double right arrow, navigation icons, previous/next
+heroicons/solid/arrow-up-left.svg: navigation, arrows, navigate, next, icons, previous
+heroicons/solid/chevron-down.svg: chevrons, expand, arrow, triangles, dropdown, collapse, down
+heroicons/solid/chevron-double-left.svg: navigation, double left, go back, return to, left, arrow icons, back, arrow, Chevron, previous
+heroicons/solid/document-check.svg: review, inspect, proofread, check, certify, validate, approve, audit, Verification
+heroicons/solid/arrow-down-on-square.svg: glyph, down button, arrow-down, design, square arrow, vector, down arrow, graphics, symbol, icon, SVG
+heroicons/solid/home-modern.svg: House plans, Modern interior design, Minimalist architecture, Contemporary style, Home decor, Design inspiration, Decorating ideas, Modern furniture, Interior design trends, Home styling.
+heroicons/solid/ticket.svg: concert, travel, schedule, festival, reservation, booking, event
+heroicons/solid/arrows-up-down.svg: direction indicators, symbol sets, up down arrows, arrow symbols, UI icons, interface elements, navigation icons, glyph libraries, navigation controls, icons
+heroicons/solid/adjustments-horizontal.svg: Horizontal toolbar, configuration panel, customization options, horizontal menu, layout settings, settings panel, design settings., control panel, horizontal tabs, horizontal options
+heroicons/solid/cursor-arrow-ripple.svg: cursor, button animation, material design icons, hover effect, icon, ripple effect
+heroicons/solid/arrow-path-rounded-square.svg: navigation, pointer, design, icon, direction, rounded square, arrow, graphic, symbol, path
+heroicons/solid/tag.svg: classify, metadata, label, tagging, search, markup, tags, filter, organize, categorize
+heroicons/solid/arrow-small-right.svg: navigation, arrows, UI, small, next, icons, right, previous
+heroicons/solid/document-arrow-up.svg: navigation, up, document, UI, scroll, arrow, icon, down
+heroicons/solid/briefcase.svg: career, folder, document, job, paperwork, portfolio, office, work, business, resume, employment
+heroicons/solid/ellipsis-vertical.svg: vertical, menu, expand, menu-icon, arrow, options, three-dots, dropdown, more
+heroicons/solid/chat-bubble-bottom-center.svg: design asset, chat bubble, bottom center, notification icon, speech bubble, icons, web development., UI element, message bubble
+heroicons/solid/cursor-arrow-rays.svg: ray cursor design, arrow icon, ray cursor icons, cursors with rays, cursor style, ray icon., icon design, icon set, ray pointer, arrow icon design, Ray cursor, pointer cursor, cursor with rays, cursor design
+heroicons/solid/battery-100.svg: recharge, iOS, Android, charge, backup, Icon, low power, indicator, full charge., notification, high power, battery level, power, accessory, mobile, status, device
+heroicons/solid/chat-bubble-oval-left.svg: messaging icon, chat icon, conversation symbol, oval-shaped chatbubble, thought bubble, text speech, speech bubble, left-facing bubble
+heroicons/solid/map.svg: navigation, map, geography, coordinates, location, travel, GPS, directions, routing
+heroicons/solid/inbox.svg: mail, messaging, notifications, email, messages, communication
+heroicons/solid/power.svg: potency., energy, might, capability, vigor, potential, ability, force, strength, Power
+heroicons/solid/microphone.svg: audio recording, sound, microphone, record, conversation, speak, voiceover, podcast, voice, audio, speech
+heroicons/solid/inbox-arrow-down.svg: messaging icon, mail, notification, message, email, inbox, dropdown, arrow down
+heroicons/solid/play-pause.svg: playback buttons, pause play icon, music controls, music player, media button, audio control
+heroicons/solid/signal.svg: warning, alert, notification, signal, symbol, icon, communication
+heroicons/solid/paint-brush.svg: visual effects, shapes, image editing, design, tools, software, digital painting, photo editing., colors, graphics, illustrations, creative, art, editing
+heroicons/solid/cog-8-tooth.svg: toothed, design, 3D, vector, cogwheel, illustration, graphics, mechanical, model, gear
+heroicons/solid/sparkles.svg: shine, excitement, confetti, festive, glitter, celebration, sparkle, fun, party
+heroicons/solid/chevron-up.svg: caret, triangle up, chevron, pointing up, arrow up, Up arrow, up triangle
+heroicons/solid/speaker-wave.svg: Audio Signal, Audio, Waveform Generator, Sound Wave, Voice, Waveform, Sound, Speaker Icon
+heroicons/solid/table-cells.svg: spreadsheet, table formatting, cells, excel-like interface, data visualization
+heroicons/solid/arrow-path.svg: navigation, point, lead, travel, route, way, Direction, pathfinding, indication, journey, arrow, signage., guide
+heroicons/solid/clipboard-document-check.svg: excel, verify, document, check, windows, office, validate, clipboard, compare
+heroicons/solid/arrow-down-left.svg: go back, scroll down left, down arrow, previous page, navigation icons, left arrow, return to top, back button
+heroicons/solid/hand-thumb-up.svg: okay, approval, affirmative, thumbs up, approve, agree, like, confirmation, yes, consent
+heroicons/solid/folder-open.svg: explore files, file opener, directory view, folder open, file explorer
+heroicons/solid/arrow-up-tray.svg: navigation, google material design icons., menu bar, icon set, arrow up, tray, material design icons, popup, dropdown
+heroicons/solid/at-symbol.svg: mention sign, pointer symbol, caret symbol, @, code block symbol, syntax indicator., backtick symbol
+heroicons/solid/qr-code.svg: data tracking., product identification, Barcode scanner, mobile payment, 2D code, discount, coupon, QR reader, e-commerce, inventory management
+heroicons/solid/arrow-up-on-square.svg: material design icons, UI kit, up, square, vector graphics, icon set, SVG, iOS icons, arrow, design elements, Android icons, font awesome icons., icon, up arrow, glyphicons
+heroicons/solid/exclamation-triangle.svg: warning sign, System error, error notification, alert symbol, computer problem
+heroicons/solid/building-office-2.svg: leadership, corporate, workspace, Office, organization., employment, work, management, business, company, commercial
+heroicons/solid/ellipsis-horizontal-circle.svg: horizontal-three-dots, ellipsis-icon, three-horiz-ellipsis, more-options, three-dot
+heroicons/solid/fire.svg: flame, burning, scorch, blaze, ember, warmth, flameout, spark, heat, ignite
+heroicons/solid/shopping-bag.svg: shopping, retail, cart, basket, bag, store, purchase, market, mall
+heroicons/solid/globe-asia-australia.svg: geography, travel, continents, australia, maps, asia, adventure, globe, world, earth, countries, exploration
+heroicons/solid/plus-small.svg: Symbol, Tiny, Icon, Micro, Pictogram, Plus, Small, Glyph, Minus, Character, Minimalist, SVG, Font Awesome
+heroicons/solid/document-magnifying-glass.svg: preview, read, document, enlarge, search, magnify, zoom
+heroicons/solid/wrench-screwdriver.svg: manufacturing, tools, repair, machinery, fix, engineering., hardware, construction, DIY, maintenance, industry, equipment
+heroicons/solid/chevron-right.svg: navigation, direction, material design., icon set, next, arrow, Chevron, right
+heroicons/solid/clipboard.svg: cut, gnome, ubuntu, software, computer, copy, chromeos, windows, paste, shortcut, macos, technology, desktop, edit
+heroicons/solid/archive-box-arrow-down.svg: zip, folder, archive, compress, backup, download, storage, upload, restore, file management, save, organize
+heroicons/solid/bug-ant.svg: Bug repellent, Entomology, Insect, Pesticide, Zoology., Ant, Insecticide, Pest control, Bug, Biology
+heroicons/solid/bars-3-bottom-left.svg: navigation, menu, bootstrap, dropdown, icons, glyphicons
+heroicons/solid/arrow-small-down.svg: shrink, minimize, down arrow, reduce, minus, decrement, collapse, decrease, subtract
+heroicons/solid/link.svg: web, share, URL, Anchor, bookmark, linking, connect, reference, internet., HTML
+heroicons/solid/key.svg: Decrypt, Lock, Code, Permissions, Authorization, Password, Cipher, Keycard, Access, Encryption, Unlock, Security, Authentication
+heroicons/solid/phone-arrow-down-left.svg: navigation, menu, design., dropdown, left, arrow, mobile, Phone, icons, down, ui
+heroicons/solid/arrows-right-left.svg: navigation, design, arrows, direction, UI, graphics, icons
+heroicons/solid/bars-arrow-down.svg: navigation, menu, button, toggle, expand, arrow, selector, dropdown, collapse, down
+heroicons/solid/beaker.svg: science, chemistry, test tube, beaker icon, education., lab equipment, laboratory, Beaker, flask, research
+heroicons/solid/arrow-right.svg: navigation, rightward, forward, step, proceed, move, next, advance
+heroicons/solid/stop-circle.svg: pause, stop, interrupt, terminate, cease, halt-icon, pause-button, halt
+heroicons/solid/arrow-left-circle.svg: backward circle, go back, circular arrow left, return to, previous page, navigation arrow
+heroicons/solid/globe-europe-africa.svg: geography, international, travel, continents, cultures, global, world map, countries, earth, exploration
+heroicons/solid/currency-rupee.svg: currency symbol, INR, Indian money, India finance, Rupees, Indian rupee
+heroicons/solid/arrow-up-on-square-stack.svg: navigation, stack, Icon, up, square, direction, design, ios, UI, graphics, android, arrow, material design, UX, symbol, icons, web development.
+heroicons/solid/bars-2.svg: navigation, menu, user interface, responsive design, UI elements, search, accessibility, bars, dropdown, icon, mobile-first, web development.
+heroicons/solid/envelope.svg: mail, correspondence, email, messages, communication
+heroicons/solid/paper-clip.svg: retro, ascii, clipart, emoji, windows, nostalgic, office, symbols, classic, microsoft, icons
+heroicons/solid/list-bullet.svg: semantic UI list, unordered list, HTML list, bullet points
+heroicons/solid/currency-bangladeshi.svg: Bangla Currency Symbol., Bangladeshi Money, Bangladeshi Taka, Bangladeshi Currency Code, Bangladesh Economy, Currency Symbol BD
+heroicons/solid/musical-note.svg: Symbol, Musical, Audio, Font, Icon, Note, Unicode, Typography, Music, Sound
+heroicons/solid/bars-3.svg: three-dot menu, navigation bar, mobile navigation, hamburger menu, three vertical dots, menu icon, responsive design, dropdown menu., UI element
+heroicons/solid/code-bracket.svg: brackets, coding, programming, syntax, markup, HTML, code snippet
+heroicons/solid/book-open.svg: study, reading, education, library, learn, open book, research
+heroicons/solid/bell-snooze.svg: alarms, snooze, sleep, design, notifications, reminder, ios icon, graphics, notification icon, wake up, bell, android icon, icons, user interface., ui
+heroicons/solid/server.svg: web development, cloud, api, streaming, database, multiplayer, http, socket, server, https, hosting
+heroicons/solid/bolt.svg: electric, discharge, lightning, shockwave, thunder, energy, electricity, power, spark
+heroicons/solid/tv.svg: channels, watch, services, stream, streaming, programs, schedule, movies, devices, series, television, shows, remote control, listings, tv, guide, apps
+heroicons/solid/arrow-down-tray.svg: tray menu, popup menu, dropdown menu, context menu, icon
+heroicons/solid/document-chart-bar.svg: reporting tool, analytics dashboard, graph icon, statistics, document chart, bar chart, chart icon, data visualization
+heroicons/solid/user-plus.svg: join community, create account, add user, sign up, member dashboard
+heroicons/solid/pencil-square.svg: planning, design, graphics, notes, drawing, creative, art, inspiration, ideas, brainstorming, sketchbook
+heroicons/solid/cloud-arrow-up.svg: cloud storage, backup, upload progress, sync, upload, data synchronization, save, file transfer
+heroicons/solid/radio.svg: broadcasts, play, stream, music, radio, stations, online
+heroicons/solid/document-plus.svg: log, record keeper, new document, journal, note-taking app, add to notebook, create new doc
+heroicons/solid/variable.svg: coding concepts, data structure, data types, variables in programming, typecasting, Java variables, programming symbols, JavaScript variables, variables in C++., variable declaration, symbol in programming, variable definition, computer science icons, variables in Python
+heroicons/solid/battery-0.svg: device status, charge level, android battery icon, low battery, power indicator, battery symbol
+heroicons/solid/user-minus.svg: lower, take away, remove, eliminate, decrease, minus sign, negate, decrement, reduce, subtract
+heroicons/solid/wallet.svg: credit card, payment method, money manager, transactions, expense tracker, finance app, budgeting
+heroicons/solid/speaker-x-mark.svg: sound, Audio, microphone, conversation, speak, talk, noise, voice, communication, audio mark
+heroicons/solid/code-bracket-square.svg: bracket, coding, square, programming, syntax, markup, symbols, code, icons, text.
+heroicons/solid/bell.svg: Symbol, iOS, Android, Icon, Alert, Messenger, Sound, Notifications, Facebook
+heroicons/solid/funnel.svg: analytics, funnel conversion, lead generation, sales pipeline, marketing metrics, data visualization
+heroicons/solid/cake.svg: recipe, dessert, festive, celebration, pastry, holiday, indulgence, treat, foodie, birthday, party, bakery, sweet
+heroicons/solid/gif.svg: animated images, image macros, funny pictures, shareable moments, short videos
+heroicons/solid/flag.svg: identity, culture, nationality, emoji, country flag, icon
+heroicons/solid/magnifying-glass-minus.svg: take away, reverse, negate, minus, contrast, decrease, subtract
+heroicons/solid/stop.svg: abort, exit, terminate, quit, Pause, cancel, halt
+heroicons/solid/newspaper.svg: news, report, journalism, editorials, article, magazine, publication, media
+heroicons/solid/cube.svg: Basic Form, Shape, 3D, Simple Shape, Object, Model, Geometry, Icon Design
+heroicons/solid/arrow-long-left.svg: back to top, Back, go back button, previous page, return key, left arrow, navigation arrow
+heroicons/solid/document-arrow-down.svg: document scrolling, scroll down, navigation icon, down arrow, docs
+heroicons/solid/clipboard-document.svg: productivity, software, document, copy, paste, file, office, clipboard
+heroicons/solid/envelope-open.svg: receive, send, notification, message, Email, inbox
+heroicons/solid/trophy.svg: prize, winner, certificate, achievement, reward, recognition, badge, champion, Award, medal
+heroicons/solid/plus.svg: extend, increase, amplify, grow, add, expand, enlarge
+heroicons/solid/bars-4.svg: navigation, web development, design, menu, react, buttons, vue, search, bars, icons, angular, ui
+heroicons/solid/document.svg: Microsoft Office, Edit, Writing, Word, Formatting, PDF, Typography, Open, Save, Document, Text, File
+heroicons/solid/check.svg: validated, verified, checked, approved, done, ok, accepted, confirmation, confirmed
+heroicons/solid/face-frown.svg: displeased, grumpy, annoyed, unhappy, sad, upset, disappointed
+heroicons/solid/minus-small.svg: negative symbol, decrease, minus sign, minus, decrement, subtraction icon, reduce, subtract
+heroicons/solid/archive-box-x-mark.svg: folder, archive, backup, document, store, file, save, manage, organize, categorize
+heroicons/solid/rss.svg: news, syndication, reader, podcast, subscription, aggregator, blog, feed
+heroicons/solid/wifi.svg: signal strength, mobile hotspot, wireless range, connection issues, data usage, router setup, wireless internet, network settings
+heroicons/solid/scale.svg: proportion, layout, resize, display, measurement, dimension, zoom
+heroicons/solid/rectangle-group.svg: shape, box, design, rectangle group, grouping, layout, container, graphics, UI component
+heroicons/solid/x-mark.svg: reject, remove, Delete, negate, cross out, veto., cancel
+heroicons/solid/folder-plus.svg: make folder, folder creation, file management, folder maker, file organizer, new directory, create new folder
+heroicons/solid/squares-2x2.svg: design, square, 2x2, pattern, icons, grid, geometry
+heroicons/solid/arrow-long-right.svg: next button, direction icon, navigation icon, right arrow, long arrow, right-pointing arrow, arrow symbol
+heroicons/solid/cube-transparent.svg: icons set, vector graphics., UI kit, 3d graphics, pixel art, graphic elements, flat design, material design, cubes, transparent icons
+heroicons/solid/signal-slash.svg: reject, decline, refuse, cancel, disapprove
+heroicons/solid/arrow-left-end-on-rectangle.svg: pointer, shape, navigation, previous, rectangle, cursor, direction, reverse, left, arrow, symbol, icon, end, back
+heroicons/solid/arrow-right-circle.svg: Next, Circle Buttons, Arrow Icon, Right-Arrow Symbol, UI Icons, Navigation Arrows, Navigation, Navigation Controls., Circle Icon
+heroicons/solid/check-circle.svg: tick, verified, checked, selected, approved
+heroicons/solid/device-tablet.svg: responsive, vector graphics., design, ios, user interface, icon set, android, flat design, tablet, material design, mobile, device
+heroicons/solid/paper-airplane.svg: tutorial, craft, fold, DIY, aerodynamics, paper-flying, how-to, airplane, make, origami
+heroicons/solid/eye-dropper.svg: design tool, color selector, rgb value, color palette, color picker, hex code, color grabber, color sampler
+heroicons/solid/shield-exclamation.svg: attention, caution, notify, Warning, alert, notice
+heroicons/solid/archive-box.svg: records, documents, backup, storage, organization, file, preserve, save, historical
+heroicons/solid/device-phone-mobile.svg: mobile phone, samsung, ios, smartphone, apple, google, android, device icons, cell phone, lg, motorola
+heroicons/solid/currency-yen.svg: Exchange Rate, China, Money Symbol, Yen, Japanese Currency, Currency Icon
+heroicons/solid/bell-alert.svg: Alert Symbol, Desktop Alerts, Notification System, Notification, Sound Notification, Bell Icon, Alert Icon, Mobile Notifications.
+heroicons/solid/face-smile.svg: facial expressions, happy face, emotional language, smileys, emotive icons, communication symbols, cheerful, grin, online humor., emoticons
+heroicons/solid/eye-slash.svg: private, conceal, ignore, secret, hide, mask, block, hidden, obscure
+heroicons/solid/play.svg: play button, launch, music, begin, video, stream, start, media
+heroicons/solid/backward.svg: revert, last, earlier, go back, former, undo, earlier version, previous
+heroicons/solid/arrow-small-left.svg: previous, navigate, scroll, backward, left arrow, back
+heroicons/solid/arrow-uturn-right.svg: rotate right, direction icon, clockwise icon, right arrow, spin right, navigate right, turn right, pivot right
+heroicons/solid/document-text.svg: word processing, document, document viewer, pdf reader, note taking, writing, file management, text editor
+heroicons/solid/camera.svg: picture, take, camera roll, photography, snapshot, capture, image, snap, photo
+heroicons/solid/printer.svg: documents, ink, printing, network, print, toner, settings, wireless, files, paper, cartridges
+heroicons/solid/folder-minus.svg: minimize folder, delete file, delete folder, Close folder, remove folder, remove file, folder operations., file explorer, folder minus button
+heroicons/solid/arrow-up-right.svg: rise, forward, development, ascent, increase, direction, upward, progress, advancement, growth
+heroicons/solid/truck.svg: logistics, 18 wheeler, haulage, transportation industry, cargo, semi-truck, trucking, vehicle, delivery, transport
+heroicons/solid/server-stack.svg: stack, design, architecture, reliability, server, optimization, monitoring, management, scalability, performance
+heroicons/solid/identification.svg: recognition., proof of existence, authentication, authorization, validation, ID card, driver's license, credentials, passport, Identity verification
+heroicons/solid/magnifying-glass-circle.svg: study, research, inspect, science, analyze, investigate, examine
+heroicons/solid/view-columns.svg: spreadsheet, arrangement, view, layout, format, display, columns, grid
+heroicons/solid/bolt-slash.svg: reject, decline, no, veto, cancel
+heroicons/solid/hand-thumb-down.svg: reject, decline, no, thumbs down, disagree, Cancel
+heroicons/solid/inbox-stack.svg: mail, stack, backlog, notification, message, pending, email, inbox, queue
+heroicons/solid/exclamation-circle.svg: attention, bubble, caution, Warning, alert, notification, notice, message
+heroicons/solid/document-minus.svg: revert, delete, remove, rollback, undo, Save, unsave., cancel
+heroicons/solid/bars-3-center-left.svg: Material Design Icons, UI Elements, Icon Font, Material Design Symbols, Vector Icons., User Interface Icons, SVG Icons, Design Assets, Icon Library, Google Material Icons
+heroicons/solid/currency-euro.svg: currency codes, € symbol, international currency symbols, currency icons, euro sign, euro symbol, money symbols
+heroicons/solid/trash.svg: dispose, garbage, delete, waste management, remove, eliminate, icons for android, trash can, trash bin, icons, get rid of, recycle
+heroicons/solid/chart-bar.svg: business intelligence, dashboard widgets, reporting tools, data analytics, bar chart, line graph, statistical visualization
+heroicons/solid/magnifying-glass-plus.svg: details, magnify, zoom, expand, enlarge
+heroicons/solid/banknotes.svg: economy, bills, financial, payment, Money, exchange, currency, cash, transaction, commerce.
+heroicons/solid/hashtag.svg: popular hashtags, trending topics, online community, blogging, Twitter, social media, internet culture.
+heroicons/solid/presentation-chart-line.svg: presentation design, infographic, graph, illustration, chart, diagram, display, line chart, graphic., slide layout, data visualization
+heroicons/solid/star.svg: Space, Astrology, Night Sky, Stellar, Galactic, Meteorite, Heavenly Bodies, Constellation, Astronomy, Astral, Orbital, Galactic Map., Stars, Cosmos, Planets, Celestial Body, Zodiac
+heroicons/solid/sun.svg: weather, summer, climate, temperature, SVG icons, warmth, vector icons, icons, sunshine, free icons
+heroicons/solid/wrench.svg: mechanic, tool, software, repair, debug, fix, hardware, DIY, maintenance, troubleshoot
+heroicons/solid/arrow-left-on-rectangle.svg: navigation, rectangle, direction, button, left, back, arrow, icon, previous
+heroicons/solid/receipt-refund.svg: compensation, money back, cashback, payment, exchange, return, refund, reimbursement, store credit
+heroicons/solid/bars-arrow-up.svg: scroll up, top, minimize, up arrow, navigate, expand, collapse, down
+heroicons/solid/receipt-percent.svg: Discount, Price Reduction, Sales Tax, Tax Rate, Voucher, Cash Back., Invoice, Receipt, Payment, Percentage Off
+heroicons/solid/arrow-long-down.svg: navigation, glyph, scrolling, font awesome, menu, down arrow, google, material design, dropdown, icons
+heroicons/solid/building-office.svg: office space, workspace inspiration, corporate design, office layout, commercial building, business architecture, work environment
+heroicons/solid/phone-arrow-up-right.svg: navigation, UX, design, up, vector graphics, direction, UI, arrow, symbols, mobile, Phone, icons, web development., right
+heroicons/solid/chart-pie.svg: business intelligence, statistical analysis, analytics icons, reporting tools, chart types, dashboard components, graphical representations, pie chart, graph design, data visualization
+heroicons/solid/cloud-arrow-down.svg: transfer, download, upload, file, arrow, cloud
+heroicons/solid/clipboard-document-list.svg: history, manager, document, paste, file, clipboard, list
+heroicons/solid/lifebuoy.svg: floatation device, emergency, safety, ocean, sea, flotation ring, rescue, pool, water rescue, lifesaver, boat, lake
+heroicons/solid/plus-circle.svg: add, new item, insert, create circle, plus sign, plus button
+heroicons/solid/arrow-long-up.svg: rise, long arrow up, ascend, go up, upward arrow, arrow pointing up, up arrow
+heroicons/solid/arrow-trending-up.svg: success, increase, rising, upward, popularity, improvement, advancement, trending, growth
+heroicons/solid/information-circle.svg: Information, note, details, overview, tip, hint, about, description, instructions, guide
+heroicons/solid/credit-card.svg: banking, finance, payment, online payment, purchase, money, buy, transaction, card details
+heroicons/solid/user-circle.svg: glyph, emoji, avatar, profile, logo, avatar-icon., symbol, icon, User, circle
+heroicons/solid/chat-bubble-oval-left-ellipsis.svg: truncation, chat bubble, ellipsis, text overflow, oval shape, speech bubble, icon, left aligned
+heroicons/solid/swatch.svg: Accessory Icon., Apple Watch, Swatch, Samsung Gear, Fitbit, Wearable Technology, Smartband, Android Wear, Smartwatch, Watch Design
+heroicons/solid/squares-plus.svg: shapes, combination marks, design, geometric, symbols, icons, plus sign
+heroicons/solid/pencil.svg: design, note-taking, illustration, markup, writing, draw, sketch, editing
+heroicons/solid/language.svg: vocabulary, semantics, translation, translator, grammar, linguistic, dictionary, syntax, language learning
+heroicons/solid/user-group.svg: group management, groups, roles, authorization, role-based access control, rbac, identity management, users, access control, user administration, permissions
+heroicons/solid/document-duplicate.svg: make copy, identical copy, multiple copies., duplicate document, Duplicate file, replicate file, create duplicate, similar documents, copy document, copy and paste
+heroicons/solid/circle-stack.svg: navigation, stack, design, menu, interface, Circle, UI, graphics., icons, SVG
+heroicons/solid/gift-top.svg: top, share, present, give, gift, symbol, icon, charity, donate
+heroicons/solid/building-storefront.svg: interior design, retail space, architecture, real estate, storefront ideas, building design, construction, commercial property, building materials
+heroicons/solid/square-3-stack-3d.svg: box, stack, design, button, element, UI, visual, simple, three-dimensional, representation, illustration, cube, 3D, graphic, symbol, icon, concept
+heroicons/solid/clock.svg: scheduling, schedule, reminder, calendar, time, countdown, timer, alarm, planner, appointment
+heroicons/solid/command-line.svg: script, powershell, automation, terminal, shell, cmd, bash, console, prompt
+heroicons/solid/phone.svg: text, phone number, messaging, ringtone, contacts, dial, cellular, voicemail, calls
+heroicons/solid/chat-bubble-bottom-center-text.svg: text icon, chat icon, communication symbol, speech bubble, conversation icon, message bubble
+heroicons/solid/arrow-uturn-down.svg: decrease, reduce, minus, decrement, down, decrease quantity, subtract
+heroicons/solid/eye.svg: surveillance, watch, observe, view, see, spy, glance, camera, gaze, peek, monitor
+heroicons/solid/light-bulb.svg: problem-solving, solution, idea, epiphany, inspiration, innovation, discovery, creative
+heroicons/solid/chat-bubble-left-right.svg: messaging indicators, speech bubbles, comment icons, chat symbols, bubble comments
+heroicons/solid/adjustments-vertical.svg: adjust, stack, align, middle, center, layout, justify, Vertical alignment, positioning, left, overlap, right
+heroicons/solid/arrow-down-on-square-stack.svg: vector graphics., arrows, UI kits, down arrow, square stack, graphics, design elements, icons, SVG, stack icons
+heroicons/solid/gift.svg: Symbol, Recognition, Icon, Presents, Gift, Emoji., Celebration, Appreciation, Party, Holiday, Thoughtful, Surprise
+heroicons/solid/ellipsis-horizontal.svg: menu, dots, expand, options, more, collapse
+heroicons/solid/question-mark-circle.svg: query, doubt, uncertainty, puzzled, search, inquiry
+heroicons/solid/square-2-stack.svg: stack, design, UI, icons, elements, squares
+heroicons/solid/building-library.svg: book, building, architecture, design, layout, library, structure, literature, organization
+heroicons/solid/share.svg: spread the word, collaborate, friends, networking, family, online, share with others, network, social media, posting, community
+heroicons/solid/arrow-up.svg: navigation, scrolling, cursor, up, direction, arrow up, arrow, pointer, up arrow, control
+heroicons/solid/puzzle-piece.svg: fit, puzzle, jigsaw, brain, pieces, challenge, game, thinking, assemble, match
+heroicons/solid/map-pin.svg: navigation, coordinates, geography, location, pinpoint, mapping
+heroicons/solid/video-camera-slash.svg: block, disable, remove, disable camera, camera, security, slash, Video, disable video, privacy
+heroicons/solid/check-badge.svg: checkmark, award, verified, certification, badge
+heroicons/solid/globe-americas.svg: americas, caribbean, north america, geography, territory, international, united states, continents, global, latin america, maps, nation, region, world, countries, politics
+heroicons/solid/bell-slash.svg: Icon, Notification, Bell, Slash, Dismiss, Cancel
+heroicons/solid/calendar.svg: schedule, calendar app, organizer, scheduling tool, reminder, time, planner, appointment, event, date
+heroicons/solid/video-camera.svg: film, streaming, video, record, download, sharing, camera, movie, capture, upload, broadcasting
+heroicons/solid/arrow-left.svg: ui design elements, previous, navigate back, go back, arrow icons, navigation icons, left arrow, back
+heroicons/solid/magnifying-glass.svg: observe, view, inspect, analyze, scrutinize, inspect carefully, investigate, examine closely, examine
+heroicons/solid/arrows-pointing-in.svg: navigation, orientation, direction, indicator, wayfinding, guidance, directionality, pointer, guide
+heroicons/solid/minus-circle.svg: reject, delete, remove, decline, undo, minus, cancel
+heroicons/solid/arrow-down-right.svg: navigation, play, button, navigate, next, scroll, arrow, symbol, down, right
+heroicons/solid/lock-closed.svg: locked, access, confidential, protected, private, security, secretive, restricted, hidden
+heroicons/solid/finger-print.svg: detection, identification, authentication, reader, recognition, security, biometrics, biometric, scanner, verification
+heroicons/solid/hand-raised.svg: hand-raised, agreement symbol, good job emoji, 👍, approval emoji, OK sign, thumbs up, consent icon, yes emoji, raised hand emoji
+heroicons/solid/rocket-launch.svg: astronomy, orbital, satellite, celestial, rocket ship, galaxy, NASA, spacecraft, space exploration, launch pad
+heroicons/solid/arrow-trending-down.svg: declining trend, dropping ratings, decreasing popularity, trending down, negative reviews
+heroicons/solid/chat-bubble-left.svg: left quotation mark, left speech bubble, left talk bubble, left chat bubble, left dialogue icon
+heroicons/solid/cloud.svg: weather, online storage, cloud computing, backup, Dropbox, storage, sync, Amazon S3, Google Drive, iCloud, files, forecast
+heroicons/solid/window.svg: GUI, Windows, Icon, Desktop, System, Environment, UI
+heroicons/solid/arrows-pointing-out.svg: departure, proceed, Exit, next step, moving on, transition., progress, onward, leaving
+heroicons/solid/pause.svg: delay, stop, hold, suspend, pause button, timeout, interrupt, halt
+heroicons/solid/arrow-down-circle.svg: glyph, menu, button, toggle, down arrow, icon set, expand, dropdown, collapse
+heroicons/solid/forward.svg: go forward, proceed, continue, navigate, next, advance, move on
+heroicons/solid/bookmark.svg: remember, recall, annotations, tags, notes, mark, highlight, save, favorites
+heroicons/solid/cog-6-tooth.svg: vintage, industrial, retro, toothed, machinery, gearset, cogwheel, mechanical, engineering, gear
+heroicons/solid/arrow-uturn-up.svg: Down, Right, B, Left, A, Up
+heroicons/solid/currency-dollar.svg: bank, cost, wealth, price, finance, payment, money, value, transaction
+heroicons/solid/lock-open.svg: locked, access, unlock, toggle, permission, accessibility, restricted, secure
+heroicons/solid/phone-x-mark.svg: text, label, notification, mark, phone, symbol, icon
+heroicons/solid/backspace.svg: Undo, delete, remove, revert., reverse, clear, erase, backtrack, cancel
+heroicons/solid/shopping-cart.svg: cart, retail, manage orders, commerce, transactions, shop now, purchase, online shopping, buy now, store, marketplace, catalog, inventory, checkout, order status, e-commerce, marketplaces
+heroicons/solid/calculator.svg: spreadsheet, math problems, solutions, numbers, algebra, statistics, math, data analysis, problems, calculations, equations, trigonometry, formulas, Excel, geometry
+heroicons/solid/shield-check.svg: validated, verified, approved, checked, confirmed, status
+heroicons/solid/bookmark-slash.svg: unavailable, private, suppressed, bookmarked, hidden
+heroicons/solid/presentation-chart-bar.svg: analytics, report, presentation icons, dashboard, PowerPoint, infographics, graphs, Excel., statistics, graph, slideshow, bar chart, charts, data visualization
+heroicons/solid/folder.svg: directory, storage, organize documents, categorize, data organization, file management, save files, file explorer, folder structure
+heroicons/solid/chevron-up-down.svg: direction arrows, up down arrows, chevrons, arrow icons, toggle arrows, navigation icons
+heroicons/solid/users.svg: accounts, permissions, roles, login, access control, people, logout, profiles
+heroicons/solid/arrow-right-end-on-rectangle.svg: pointer, navigation, vector graphics., rectangle, button, direction, UI elements, arrow icons, arrow, symbol, icon, design symbols, end, right
+heroicons/solid/folder-arrow-down.svg: navigation, folder, download, arrow, file, management, icon, control
+heroicons/solid/minus.svg: arithmetic operation, icon, emoji, down arrow, minus sign, decrement, negative, symbol, math symbol, decrease, subtract
+heroicons/solid/chevron-double-down.svg: navigation, coding, down, design, web, development, CSS., UI, JavaScript, arrow, HTML, icon, Chevron
+heroicons/solid/photo.svg: picture, photography, share, camera, snapshot, image, capture, upload
+heroicons/solid/chevron-left.svg: prev, go back, return to previous, previous page, arrow left, back
+heroicons/solid/film.svg: reel, celluloid, video, movies, filmstrip, cinema
+heroicons/solid/moon.svg: astrology, astronomy, celestial bodies, space, moonlight, lunar eclipses, nighttime, moon phases, new moon, moon landing, darkness, full moon, zodiac signs, phases of the moon, lunar cycle
+heroicons/solid/chart-bar-square.svg: analytics, stats, graph, bars, charts
+heroicons/solid/rectangle-stack.svg: GUI, Icons, Visual Design., Iconography, Design, Stack, Rectangle, UI, Layout, User Interface, Graphic User Interface
+heroicons/solid/bookmark-square.svg: square-icon, mark, online-pages., bookmarks, save, web-page, favorites, saved-links, favorite-icon
+heroicons/solid/chevron-double-up.svg: scroll up, pointing up, next page, arrow up, navigate up, previous page, chevron up, direction up, double arrow, Up
+heroicons/solid/calendar-days.svg: schedule, organizer, time management, calendar, date picker, planner
+heroicons/solid/chat-bubble-left-ellipsis.svg: truncation, bubble, partial display, ellipsis, text overflow, left, Chat
+heroicons/solid/heart.svg: affection, romantic love, romance, sentiment, feelings, Valentine's Day, love, emotions, affectionate, relationships
+heroicons/solid/academic-cap.svg: academic-life, university, learning, education, scholarship, academia, higher-education, college, research
+heroicons/outline/bars-3-bottom-right.svg: navigation, footer, design, menu, UI, bars, bottom-right, icons
+heroicons/outline/cpu-chip.svg: cpu architecture, processor chip, electronic component, computer hardware, microchip development, cpu pinout, chip diagram, motherboard component, semiconductor design, microprocessor
+heroicons/outline/arrow-right-on-rectangle.svg: Left Arrow, Navigation Icon, Direction Icon, Arrow Icon, Right, Rectangle Icon, Button Icon, Chevron
+heroicons/outline/arrow-top-right-on-square.svg: square arrow, next button, direction icon, navigation icon, forward arrow, right arrow icon, right arrow symbol, top right arrow
+heroicons/outline/arrow-right-start-on-rectangle.svg: web development, svg icons, android icons, icon, arrow right start on rectangle, user interface, graphic design, material design icons, vector icons, UI design., icons
+heroicons/outline/queue-list.svg: playlist, video, player, organization, playback, management, media, audio, control
+heroicons/outline/arrow-up-circle.svg: rise, up symbol, augment, increase, ascend, grow, boost, enhance, add, elevate., upward arrow, expand, plus, circle up, up arrow
+heroicons/outline/pause-circle.svg: pause, control, stop, play, svg, button, icon, media, circle
+heroicons/outline/arrow-down.svg: direction, move, navigate, next, scroll, arrow, symbol, icon, down, previous
+heroicons/outline/megaphone.svg: communicate, microphone, amplify, loud, podcast, broadcasting, voice, audio, speech
+heroicons/outline/arrow-left-start-on-rectangle.svg: navigation, start on rectangle, previous page, icons, back button
+heroicons/outline/computer-desktop.svg: theme, windows desktop, design, customization, settings, PC, laptop, icons, computer wallpaper, background
+heroicons/outline/arrow-small-up.svg: increase, grow, up icon, increment, add, expand, next, plus, Up arrow, more
+heroicons/outline/scissors.svg: delete, remove, image editor, trim, cutting, clip, crop, edit
+heroicons/outline/cog.svg: adjust, mechanism, options, settings, machinery, configure, gears, preferences
+heroicons/outline/play-circle.svg: play, music, video, button, controls, entertainment, media, audio, circle
+heroicons/outline/viewfinder-circle.svg: photography tips, photography, camera, aperture, camera controls, camera settings, viewfinder, focus, composition, shutter speed
+heroicons/outline/currency-pound.svg: currency sign, gbp, pound sterling, money symbol, british money, uk currency
+heroicons/outline/battery-50.svg: low battery alert, Android battery icon, battery warning, battery gauge, icon,battery level, power indicator, phone battery status
+heroicons/outline/user.svg: identity, picture, User account, avatar, registration, profile, profile picture, login form, icon, user interface., login, logo
+heroicons/outline/arrow-uturn-left.svg: retreat, back up, reverse direction, change direction, about-face, opposite way, left turn
+heroicons/outline/x-circle.svg: reject, deny, close, prohibited, forbidden, declined, cancel, prohibit
+heroicons/outline/home.svg: folder icon, main menu, Start page, desktop, homepage
+heroicons/outline/globe-alt.svg: international, worldwide, abroad, across, global, online, everywhere, world
+heroicons/outline/no-symbol.svg: no-emblem, null, none, icon-less, no-icon, symbol-free, lack, absence
+heroicons/outline/chevron-double-right.svg: navigation, chevron, right arrow, directional icon, arrow, double arrow
+heroicons/outline/arrow-up-left.svg: navigation, previous, scrolling, direction, button, go up, arrow, movement, symbol, icon, back
+heroicons/outline/chevron-down.svg: navigation, menu, chevron, down arrow, arrow, dropdown, symbol, icon
+heroicons/outline/chevron-double-left.svg: navigation, design, chevron, UI, arrow, left arrow, icons, double arrow
+heroicons/outline/document-check.svg: checkmark, verify, confirm, validate, approve
+heroicons/outline/arrow-down-on-square.svg: icon search, font awesome, square, glyphicon, icon set, bootstrap icons, iconfinder, material icons, squarespace, arrow, material design icons, icons, down
+heroicons/outline/home-modern.svg: sleek designs, minimalist style, modern interior design, futuristic aesthetic, home decor, modern furniture, contemporary architecture, urban living, avant-garde style.
+heroicons/outline/ticket.svg: concert, travel, schedule, show, calendar, festival, reservation, booking, ticketing, event
+heroicons/outline/arrows-up-down.svg: scrolling, slider, arrows, direction, toggle, controls, Navigation, movement, up down
+heroicons/outline/adjustments-horizontal.svg: navigation, layout, alignment, Horizontal menu, toolbar, padding, spacing, width, positioning, margin, height.
+heroicons/outline/cursor-arrow-ripple.svg: web development, ripple, cursor, design, button, UI, animation, arrow, hover effect, icon
+heroicons/outline/arrow-path-rounded-square.svg: navigation, pointer, rounded, square, icon, direction, indicator, arrow, symbol, path
+heroicons/outline/tag.svg: metadata, label, highlighting, label icon, identifying marker, classification, tag icon, filtering, categorization, organization, search result
+heroicons/outline/arrow-small-right.svg: Next, navigation, forward, button, icon set, android, arrow, material design, iOS., UI element, right
+heroicons/outline/document-arrow-up.svg: navigation, scrolling, browse, up, document, direction, explore, arrow
+heroicons/outline/briefcase.svg: business, travel, corporate, conference, meeting, vacation, trip, work, luggage
+heroicons/outline/ellipsis-vertical.svg: vertical dots, dots, three dots, down arrow, expand collapse
+heroicons/outline/chat-bubble-bottom-center.svg: chat box, centered bubble, speech bubble, bottom right icon, conversation icon, message bubble
+heroicons/outline/cursor-arrow-rays.svg: navigation, mouse, cursor, design, icon, cursor icon, UI, icon set, ray cursor, ray, arrow, symbol, pointer
+heroicons/outline/battery-100.svg: iOS, Android, Tablet, Smartphone, Power Level, UI Design., Charge Status, Mobile Device, Battery Icon, App Icon
+heroicons/outline/chat-bubble-oval-left.svg: messaging indicator, left-pointing bubble, chat icon, communication symbol, oval shape, left-aligned, oval bubble, speech bubble, bubble speech
+heroicons/outline/map.svg: navigation, geography, coordinates, GPS, location, travel, route, latitude, distance, cartography., directions, Google Maps, routes, maps, places, longitude, mapping
+heroicons/outline/inbox.svg: mail, notifications, correspondence, Email, communication., messages, mailbox
+heroicons/outline/power.svg: empowerment, energy, might, dominance, force, authority, potency, influence, strength, control
+heroicons/outline/microphone.svg: microphone, speak, voiceover, podcast, audio editing, recording, voice, audio, speech, sound design
+heroicons/outline/inbox-arrow-down.svg: design, notification, message, material, email, arrow, inbox, graphic, icon, down, ui
+heroicons/outline/play-pause.svg: pause, play, music, video, button, controls, symbol, media, audio
+heroicons/outline/signal.svg: Signal, warning, messaging, alert, notification, banner, communication, popup, toast
+heroicons/outline/paint-brush.svg: Design, Graphics, Visuals, Editing, Colors, Pictures, Artistic, Drawings, Images, Illustrations
+heroicons/outline/cog-8-tooth.svg: 8-tooth gear, industrial automation, mechanism, toothed gear, cogwheel, machine design, precision engineering, mechanical, robotics, gear
+heroicons/outline/sparkles.svg: sparkly, shine, shimmer, sequins, glitter, glitzy, sparkle effect, shiny, twinkling
+heroicons/outline/chevron-up.svg: chevron up symbol, arrow up, up direction icon, caret symbol, Upward arrow, up arrow, pointing up icon
+heroicons/outline/speaker-wave.svg: frequency, sound, vibration, speaker, Audio, amplitude, audio waveform., noise, wave
+heroicons/outline/table-cells.svg: spreadsheet, table, design, data, layout, rows, formatting, columns, grid, cells
+heroicons/outline/arrow-path.svg: navigation, navigation-icon, way, route, direction, pathfinding, journey, movement, arrow
+heroicons/outline/clipboard-document-check.svg: PowerPoint, Microsoft, design, layout, Office, presentation
+heroicons/outline/arrow-down-left.svg: Go Back, Backward, Prev, Navigation, Previous
+heroicons/outline/hand-thumb-up.svg: like, verified, approval, ok, thumbs up, approve, agree, confirmation, yes
+heroicons/outline/folder-open.svg: browse, explore, window, directory open, navigate, folder view, file explorer
+heroicons/outline/arrow-up-tray.svg: Windows, up, notification, minimize, maximize, tray, arrow
+heroicons/outline/at-symbol.svg: address symbol, mention sign, caret symbol, @
+heroicons/outline/qr-code.svg: decode QR codes, barcode reader, scan QR codes, QR code generator, QR code app, QR code maker, QR code creator, QR code reader software, QR code scanner, generate QR codes
+heroicons/outline/arrow-up-on-square.svg: font, design, up, square, ios, vector, material, android, arrow, graphic, symbol, icon
+heroicons/outline/exclamation-triangle.svg: caution, warning, alert, notification, notice, message., Error, prompt
+heroicons/outline/building-office-2.svg: building, planning, design, architecture, construction, organization, office, management
+heroicons/outline/ellipsis-horizontal-circle.svg: menu, settings, options, dropdown, more
+heroicons/outline/fire.svg: fiery, inferno, hot, wildfire, blaze, flames, burn, heat, ignite
+heroicons/outline/shopping-bag.svg: clothing, shopping, retail, bags, commerce, makeup, style, fashion, accessories, purses, wallets, beauty, skincare
+heroicons/outline/globe-asia-australia.svg: Region, Australia, Asia Pacific, World Map, Travel, Location, Politics., Culture, Oceania, Economy, Geographic, Continent, Tourism, Global
+heroicons/outline/plus-small.svg: social media buttons, add to favorites, UI kits, web design elements, minimalism, music streaming, plus symbol, small icons, add to playlist, plus sign, simple design
+heroicons/outline/document-magnifying-glass.svg: review, inspect, analyze, Zoom, magnify, investigate., examine, enlarge
+heroicons/outline/wrench-screwdriver.svg: repair, electrical, fix, hardware, toolset, construction, plumbing, DIY, maintenance, toolbox
+heroicons/outline/chevron-right.svg: navigation, glyph, direction, fontawesome, arrow, material design icons, symbol, right
+heroicons/outline/clipboard.svg: cut, mac os x, windows key, copy, copy paste, file manager., paste, shortcut, clip, desktop, icons, edit
+heroicons/outline/archive-box-arrow-down.svg: Remove, Uninstall, Disconnect, Icon Font, Down Arrow, Arrow Icon, Delete, Save, Remove Folder, Archive, Font Awesome
+heroicons/outline/bug-ant.svg: design, emoji, bug, graphics, insect, ant, illustration, symbol, icon, cartoon
+heroicons/outline/bars-3-bottom-left.svg: navigation, mobile app design, tabs, Bottom left, responsive design, UI elements, icons, web development.
+heroicons/outline/arrow-small-down.svg: shrink, minimize, down arrow, decrease, navigate, previous page, decrement, collapse, reduce
+heroicons/outline/link.svg: share, bookmark, cite, http, reference, anchor text., web link, url
+heroicons/outline/key.svg: access, unlock, encryption, authorization, authentication, lock, permission, decryption, password, secure
+heroicons/outline/phone-arrow-down-left.svg: navigation, previous, menu, button, left, arrow, mobile, Phone, icon, down, back
+heroicons/outline/arrows-right-left.svg: navigation, arrows, buttons, next, previous
+heroicons/outline/bars-arrow-down.svg: menu, toggle, expand, arrow, dropdown, collapse, down
+heroicons/outline/beaker.svg: Bunsen, science, experiment, chemistry, test tube, laboratory, Beaker, flask, biology.
+heroicons/outline/arrow-right.svg: Next, navigation, forward, proceed, button, direction, continue, move, arrow, advance
+heroicons/outline/stop-circle.svg: pause, stop, stop-sign, pause-button, interrupt, cease, stop-icon, break, cancel, halt
+heroicons/outline/arrow-left-circle.svg: navigation, previous, arrow icon, go back, return, previous page, circle back, back
+heroicons/outline/globe-europe-africa.svg: map, geography, international, travel, science, continents, learning, cartography, global, education, maps, social studies, diversity, cultural, world, earth, exploration
+heroicons/outline/currency-rupee.svg: INR, Indian money symbol, Rupee symbol, Rupee emoji, Indian currency, Currency rupee icon
+heroicons/outline/arrow-up-on-square-stack.svg: font awesome, chevron, bootstrap icons, square stack, material design icons, icons, up arrow, glyphicons
+heroicons/outline/bars-2.svg: Apple Music, Spotify, iTunes, SoundCloud, Music, Radio, Podcasts, Playlist
+heroicons/outline/envelope.svg: mail, receive, messaging, send, correspondence, email, outbox, inbox
+heroicons/outline/paper-clip.svg: ms office, clipart, windows, office, microsoft, icons
+heroicons/outline/list-bullet.svg: HTML coding, list styling, bullet points, semantic markup, unordered list
+heroicons/outline/currency-bangladeshi.svg: Bangla money, Bangladesh money sign, Bangladeshi currency, Tk symbol, Taka symbol, Bengali rupee
+heroicons/outline/musical-note.svg: music, rhythm, song, harmony, notes, melody
+heroicons/outline/bars-3.svg: volume, playlist, music, settings, equalizer, audio
+heroicons/outline/code-bracket.svg: formatting, bracket, text, highlighting, editor, programming, syntax, markup, IDE, code
+heroicons/outline/book-open.svg: documents, reading, literature, ebook, research, bookshelf
+heroicons/outline/bell-snooze.svg: sleep timer, wake up reminder, snooze button, nap time, bedtime routine, snooze duration, alarm app, morning alarm, alarm clock, sleepy time
+heroicons/outline/server.svg: access, hosting, panel, remote, FTP, SSH, server, MySQL, control
+heroicons/outline/bolt.svg: Shock, Electricity, Lightning Bolt, Energy, Thunderbolt, Charge, Power
+heroicons/outline/tv.svg: video content., TV channels, streaming services, television network, satellite TV, TV series, cable TV, live TV, broadcast, TV shows
+heroicons/outline/arrow-down-tray.svg: arrow icon, tray menu, android, navigation drawer, material design
+heroicons/outline/document-chart-bar.svg: analytics, dashboard icon, graph icon, statistics, diagram icon, report chart, document chart, bar chart, data visualization
+heroicons/outline/user-plus.svg: groups, add friend, network, messaging, chat, online community, forums, connect, people, discussion, join, social media, communication
+heroicons/outline/pencil-square.svg: todo, planning, design, write, notes, journaling, ideas, brainstorming, outline, sketch
+heroicons/outline/cloud-arrow-up.svg: share, storage, store-online, upload, file, save, upload-to-cloud, cloud
+heroicons/outline/radio.svg: radio station, music, streaming, audio player, tuner, podcast, online radio, broadcast
+heroicons/outline/document-plus.svg: compose document, create new file, start project, write text, add content, make report, generate report, produce paper, document editor, write article
+heroicons/outline/variable.svg: Variable declaration, Symbol table., Variable scope, Data type, Static typing, Data structure, Dynamic typing, Type inference
+heroicons/outline/battery-0.svg: no power, power off, drained battery, low battery, out of charge, empty battery, charging, dead battery
+heroicons/outline/user-minus.svg: delete, remove, reverse, undo, minus, cancel, subtract
+heroicons/outline/wallet.svg: credit card, expense, bank, account, transactions, finance, payment, money, budgeting, debit
+heroicons/outline/speaker-x-mark.svg: presentation., sound, audio recording, Audio, microphone, talk, podcast, voice, communication, speech
+heroicons/outline/code-bracket-square.svg: coding, HTML, CSS, programming, developer tools, JavaScript, syntax, brackets, code snippet, Code bracket square
+heroicons/outline/bell.svg: Symbol, Icon, Alert, Mobile, Twitter, Messenger, Sound, Notifications, Phone, Ringtone, Facebook, WhatsApp, Notification Center., App
+heroicons/outline/funnel.svg: marketing analytics, funnel graph, sales pipeline, filter, data visualization
+heroicons/outline/cake.svg: dessert, pastry, baking, treat, birthday, recipe, sweet
+heroicons/outline/gif.svg: picture sharing, online memes, Animated images, image formats, funny moments, visual communication., social media icons
+heroicons/outline/flag.svg: national emblem, nation, flag emoji, country, symbol, icon, patriotism
+heroicons/outline/magnifying-glass-minus.svg: reject, remove, Filter, exclude, negate, minus, subtract
+heroicons/outline/stop.svg: pause, stop, exit, terminate, cease, break, halt
+heroicons/outline/newspaper.svg: news, newspaper article, journalism, headlines, current events, breaking news, publishing, media
+heroicons/outline/cube.svg: Box, Shape, 3D, Design, Graphics, Art, Modeling, CAD., Geometry, Animation, Visual Effects, Rendering
+heroicons/outline/arrow-long-left.svg: navigation, directional-icon, scroll, back, go, left-arrow, previous
+heroicons/outline/document-arrow-down.svg: Symbol, Arrow, Icon, Download, Save, Document, File
+heroicons/outline/clipboard-document.svg: software, document, application, copy, paste, format, file, office, save, clipboard, edit
+heroicons/outline/envelope-open.svg: mail, receive, send, notification, correspondence, email, inbox, messages, communication
+heroicons/outline/trophy.svg: prize, award, commendation, merit, accolade, certificate, achievement, reward, honor, recognition, distinction, badge, medal
+heroicons/outline/plus.svg: new, augment, create, increase, grow, enlarge, add, expand, make
+heroicons/outline/bars-4.svg: Like, Facebook, Share, Four
+heroicons/outline/document.svg: Microsoft Office, Type, Edit, Write Document., Word, Note, Notes, Create, Diary, Write, Journal, Document, Text, File
+heroicons/outline/check.svg: agreed, tick, verified, approved, okay, sure, accepted, confirmed
+heroicons/outline/face-frown.svg: grumpy, annoyed, unhappy, mad, sad, disappointed
+heroicons/outline/minus-small.svg: minus symbol, down, subtractive, minus sign, negate, small, minus, decrement, negative, decrease, subtract
+heroicons/outline/archive-box-x-mark.svg: box, archive, hold, storage, bookmark, mark, save, keep
+heroicons/outline/rss.svg: news, reader, podcast, aggregator, feed
+heroicons/outline/wifi.svg: connectivity, online connection., internet access, wireless adapter, mobile hotspot, wireless internet, network settings, router configuration
+heroicons/outline/scale.svg: scaling, shrink, size, proportion, resize, magnify, resolution, proportionate, zoom
+heroicons/outline/rectangle-group.svg: Layout Icon, Group, Box Icon, Rectangular Group, UI Component, Rectangle Icon, Container Icon
+heroicons/outline/x-mark.svg: Symbol, Remove, X-out, Indicator, Icon, Delete, Cross., Erase, Mark, Cancel
+heroicons/outline/folder-plus.svg: organize files, folder creation, file manager, add folder, add to folder, file organizer, directory management, create new folder
+heroicons/outline/squares-2x2.svg: icons set, graphics, icons, pixel art, design elements, symbols, block, squares, grid
+heroicons/outline/arrow-long-right.svg: arrow icon, direction indicator, right arrow, arrow symbol, navigation symbol, direction sign, long right arrow
+heroicons/outline/cube-transparent.svg: Cube, UI kit, transparent, icon set, material design, 3D, SVG
+heroicons/outline/signal-slash.svg: reject, deny, veto, refuse, cancel
+heroicons/outline/arrow-left-end-on-rectangle.svg: navigation, end point, arrow types, rectangle, left arrow, icon set, directional, movement, material design icons, back button
+heroicons/outline/arrow-right-circle.svg: Next, Slide, Arrow, Symbol, Design, Icon, Circle, UI, Right, Element, Navigation, Graphic, Carousel
+heroicons/outline/check-circle.svg: validated, verified, approved, Tick, green checkmark, confirmed
+heroicons/outline/device-tablet.svg: responsive web design, tablet layout, Android tablet design, media queries, hybrid app development., tablet screen size, tablet design, CSS media types, iOS tablet design, device-specific styling, mobile-first
+heroicons/outline/paper-airplane.svg: kid's activity, paper plane design, flight simulator, handmade model, educational tool, DIY aircraft, aerodynamics, origami airplane
+heroicons/outline/eye-dropper.svg: pixel grabber, color picker tool, eyedropper tool, color selection, color picker, color grabber
+heroicons/outline/shield-exclamation.svg: caution, Warning, alert, notification, notice, message
+heroicons/outline/archive-box.svg: repository, backup, document, storage, collect, file, preserve, save, organize
+heroicons/outline/device-phone-mobile.svg: mobile phone, cell phone, smartphone, wireless, mobile, phone, device, communication
+heroicons/outline/currency-yen.svg: Japanese currency, China, Yen symbol, YEN sign, Currency icons, Currency symbols
+heroicons/outline/bell-alert.svg: alert system, alerts, bell icon, notifications, notification bell
+heroicons/outline/face-smile.svg: facial expressions, happy face, smiling emoji, emotional icons, smiley faces, emoticons
+heroicons/outline/eye-slash.svg: suppress, conceal, silent, ignore, hide, omit, Mute
+heroicons/outline/play.svg: play button, music, video, youtube, entertainment, media
+heroicons/outline/backward.svg: revert, older, earlier versions, earlier, backwards, reverse, undo, previous
+heroicons/outline/arrow-small-left.svg: navigation, previous, prev, arrow icons, left arrow, back
+heroicons/outline/arrow-uturn-right.svg: navigation, direction, button, right arrow, user interface, UI design, turn, symbol, icon, control
+heroicons/outline/document-text.svg: Edit, Word Processing, Text Editor, Document Icon, Write, File Type Icons., Document
+heroicons/outline/camera.svg: photos, photography, share, pictures, capture, image, snap, filter, media, editing
+heroicons/outline/printer.svg: printer driver, printing, print, printing software, printer settings, print to PDF., print options, print queue, print settings
+heroicons/outline/folder-minus.svg: shrink, conceal, minimize, hide, collapse, reduce
+heroicons/outline/arrow-up-right.svg: navigation, scroll up, up right arrow, arrow up and to the right, direction, continue reading, next page, go up, up arrow, move forward
+heroicons/outline/truck.svg: freight, logistics, haulage, cargo, moving, vehicle, transportation, transport, delivery
+heroicons/outline/server-stack.svg: google cloud platform, aws, serverless, api gateway, azure, cloud functions, lambda function, serverless computing, faas
+heroicons/outline/identification.svg: verification, authentication, proof of identity, ID card, registration, authorization., credentials, passport, documentation, Identity
+heroicons/outline/magnifying-glass-circle.svg: study, research, inspect, analyze, scrutinize, examine carefully, investigate, look closely, view closely, examine
+heroicons/outline/view-columns.svg: column view, spreadsheet layout, grid view, table layout, view columns
+heroicons/outline/bolt-slash.svg: reject, no, prohibited, veto, disallow, cancel
+heroicons/outline/hand-thumb-down.svg: reject, deny, decline, dismiss, cancel
+heroicons/outline/inbox-stack.svg: notification area, stack, messaging, notifications, email, inbox, messages, stackoverflow, queue
+heroicons/outline/exclamation-circle.svg: Symbol, Notice, Warning, Message, Icon, Caution, Alert, Notification, Graphic.
+heroicons/outline/document-minus.svg: revert, delete, export, document, remove, undo, minus, file, save, subtract
+heroicons/outline/bars-3-center-left.svg: Menu icon., Material design icons, Icons 3, Icon sets, Navigation bar icon, Bars icon, Google material design, Center left
+heroicons/outline/currency-euro.svg: € symbol, financial symbol, money sign, euro symbol, international currency, euro logo, currency icon
+heroicons/outline/trash.svg: dispose, garbage, waste, delete, remove, eliminate, dispose of, rubbish, get rid of
+heroicons/outline/chart-bar.svg: Bar Graph, Web Analytics, Chart.js, Dashboard Icon, Data Visualization, Statistics, Google Analytics
+heroicons/outline/magnifying-glass-plus.svg: inspect, explore, analyze, search, magnify, investigate, examine, zoom
+heroicons/outline/banknotes.svg: Banking, Money, Cash., Bills, Transaction, Accounting, Finance, Payment, Currency, Notes
+heroicons/outline/hashtag.svg: online communities, label, topic, category, trend, conversation, classification, tag, keyword, Twitter, social media
+heroicons/outline/presentation-chart-line.svg: diagram illustrations, presentation icons, business presentations, infographic elements, slide design., Line chart, graphic symbols, graph design, chart templates, data visualization
+heroicons/outline/star.svg: review, rating, popularity, favorite, recommendation
+heroicons/outline/sun.svg: weather, bright, climate, hot, warm, warmth, light, sunshine, heat, temperature
+heroicons/outline/wrench.svg: modify, adjust, tool, configuration, repair, settings, fix, customize, tweak, edit
+heroicons/outline/arrow-left-on-rectangle.svg: Left Arrow, Navigate Back, Back, Go Back, Chevron Left, Previous
+heroicons/outline/receipt-refund.svg: dispute resolution, money back, trade-in, payment, return policy, exchange, refund, customer service, warranty claim., store credit, receipt
+heroicons/outline/bars-arrow-up.svg: scroll up, back to top, return to start, up button, back arrow, go up, up arrow
+heroicons/outline/receipt-percent.svg: charge, sales tax, payment, percentage, total, subtotal, Receipt, discount, invoice
+heroicons/outline/arrow-long-down.svg: back to top, next button, scroll down, navigation icon, long arrow, down arrow
+heroicons/outline/building-office.svg: building, facilities, design, architecture, real estate, property, administration, construction, office, management
+heroicons/outline/phone-arrow-up-right.svg: navigation, UX, design, up, app, direction, user experience., vector, user interface, UI, graphics, arrow, mobile, phone, icon, right
+heroicons/outline/chart-pie.svg: analytics, dashboard, statistics, graphing software, graph, data analysis, pie chart, reporting, data visualization
+heroicons/outline/cloud-arrow-down.svg: share., cloud storage, download, sync, upload, arrow, Cloud, online backup, file transfer
+heroicons/outline/clipboard-document-list.svg: transfer, document, data, share, paste, clipboard
+heroicons/outline/lifebuoy.svg: emergency, safety, maritime, ocean, water, sea, flotation, rescue, buoyancy, drowning prevention, lifering
+heroicons/outline/plus-circle.svg: Add Circle, Add, Plus Symbol, Increase, Combine, Add More, Expand, Circular Icon, Include, Grow
+heroicons/outline/arrow-long-up.svg: long up arrow, up direction, pointing up, upward indication., go up, rise up, Upward arrow, direction up, up arrow
+heroicons/outline/arrow-trending-up.svg: ascension, upswing, surge, rising, climb, progress, trending, growth, increasing
+heroicons/outline/information-circle.svg: knowledge, info, details, help, manual, guidance, notes, description, explanation, tutorial
+heroicons/outline/credit-card.svg: shopping, banking, finance, payment, purchase, money, transaction, wallet, billing, e-commerce
+heroicons/outline/user-circle.svg: identity, circle icon, social media icon, avatar, user profile, user, icon design., rounded icon, profile picture, personalization
+heroicons/outline/chat-bubble-oval-left-ellipsis.svg: bubble, text, design, interface, chat, ellipsis, notification, UI, message, left, speech
+heroicons/outline/swatch.svg: Apple Watch, Swatch, WatchOS, Fashion Technology, Smartwatches, Wearable Tech
+heroicons/outline/squares-plus.svg: texture, design, layout, squares, repeat, pattern, icons, grid
+heroicons/outline/pencil.svg: design, markup, writing, draw, annotate, edit, sketch, note-taking
+heroicons/outline/language.svg: vocabulary, phrase, linguistics, translate, translator, syntax, dictionary, grammar, word
+heroicons/outline/user-group.svg: governance., role, team, hierarchy, category, collaboration, user, structure, access control, organization, permissions, management, group, administrator
+heroicons/outline/document-duplicate.svg: Duplicate Entry., Replicate, Copy, Duplicate File, Duplicate Data, Duplicate Text, Mirror, Duplicate, Clone
+heroicons/outline/circle-stack.svg: visual elements, circles, graphics, icons, flat design, material design, stacking, design patterns, UI components
+heroicons/outline/gift-top.svg: anniversary, reward, share, present, celebrate, surprise, holiday, appreciation, birthday, give, gratitude
+heroicons/outline/building-storefront.svg: retail, shop, architecture, design, real estate, store, construction, mall, commercial
+heroicons/outline/square-3-stack-3d.svg: Material Design Icons, svg icons, Icon, Stack, vector graphics, stacked icons, UI kit, Bootstrap Icons., square font awesome, Square, design elements, 3D, SVG, Related Search Terms: 3d stack icon, Font Awesome
+heroicons/outline/clock.svg: schedule, calendar, time, countdown, timer, clockwork
+heroicons/outline/command-line.svg: script, system administration, input/output, run, automation, terminal, shell, execute, console, command prompt
+heroicons/outline/phone.svg: ringing, call, dial, cellular, voicemail, mobile, phone call
+heroicons/outline/chat-bubble-bottom-center-text.svg: text, chat bubble, dialogue, messaging apps, conversation, speech bubbles, icons, social media, communication
+heroicons/outline/arrow-uturn-down.svg: lower, down, decrease, minus, reduce
+heroicons/outline/eye.svg: surveillance, observe, see, spy, watchful, monitor, gaze, peek, vision
+heroicons/outline/light-bulb.svg: thinking outside the box, creative thinking, conceptual thought, idea, imagine, creativity, aha, conceptualize, originate, innovation, brainstorming, inspiration
+heroicons/outline/chat-bubble-left-right.svg: right speech bubble, conversation icons, bubble icons, left speech bubble, chat icons, thought bubble, speech bubble, chat graphics
+heroicons/outline/adjustments-vertical.svg: vertical align, layout options, center text, typography tools., justify text, layout adjust, Vertical alignment, formatting icons
+heroicons/outline/arrow-down-on-square-stack.svg: bootstrap, down arrow, icons, stacks, squares, glyphicons
+heroicons/outline/gift.svg: thank you, Gift, present, celebrate, share, surprise, holiday, friendship, love., appreciation, birthday
+heroicons/outline/ellipsis-horizontal.svg: dropdown button, three dots, horizontal menu, less, more
+heroicons/outline/question-mark-circle.svg: query, question mark, curious, wondering, puzzled, thought bubble, icon, inquiry, circle
+heroicons/outline/square-2-stack.svg: box, Stack, square, layout, responsive design, UI elements, container, graphic design, grid layout, icons, web development.
+heroicons/outline/building-library.svg: book, building, infrastructure, architecture, design, library, urban planning, construction, structure, cityscape, plan, blueprint
+heroicons/outline/share.svg: post, internet, share, button, link, collaborate, platform, online, network, publish, social media, communication
+heroicons/outline/arrow-up.svg: scroll up, up, increase, increment, move up, up arrow, page up
+heroicons/outline/puzzle-piece.svg: shape, matching, puzzle, challenge, game, learning, activity, fun, kids, educational, piece, icons, brain teaser
+heroicons/outline/map-pin.svg: navigation, coordinates, map, geotagging, location, directions, pin, marker
+heroicons/outline/video-camera-slash.svg: remove video camera icon, disable video camera, turn off video camera notification, hide video camera, remove video camera from toolbar, hide video camera on mac, delete video camera
+heroicons/outline/check-badge.svg: checkmark, tick, verified, approved, badge, confirmed
+heroicons/outline/globe-americas.svg: North America, Americas, geography, travel, United States, Argentina, American culture, tourism, Canada, international relations., Central America, maps, Mexico, South America, Brazil, Latin America, global news
+heroicons/outline/bell-slash.svg: sound, alert, remove, turn off., notification, mute, ignore, silence, slash, bell, cancel
+heroicons/outline/calendar.svg: schedule, organizer, appointments, reminders, time, planner, events, date
+heroicons/outline/video-camera.svg: film, stream, video, record, camera, capture, upload, broadcast
+heroicons/outline/arrow-left.svg: navigation, previous, direction, go back, left, backward, arrow, back
+heroicons/outline/magnifying-glass.svg: study, review, inspect, look, analyze, scrutinize, investigate, examine closely, examine
+heroicons/outline/arrows-pointing-in.svg: Pointers, Paths, Navigation, Directions, Guides
+heroicons/outline/minus-circle.svg: reject, delete, remove, cross, undo, Minus, X, cancel
+heroicons/outline/arrow-down-right.svg: following, forward, subsequent, ahead, next, onward
+heroicons/outline/lock-closed.svg: locked, secrecy, protected, confidentiality, private, closed, security, access-denied, restricted, secured
+heroicons/outline/finger-print.svg: detection, identity, Biometric, encryption, database, authentication, scan, password., recognition, security, verification
+heroicons/outline/hand-raised.svg: hand,raised,finger,help,guided,tour,support,assist,aid,guide
+heroicons/outline/rocket-launch.svg: spacecraft design, satellite technology, astronaut, NASA, launchpad, space exploration, rocket science
+heroicons/outline/arrow-trending-down.svg: analytics, traffic, metrics, trend, decline, statistics, graph, growth, decrease, insights
+heroicons/outline/chat-bubble-left.svg: message icon left, arrow left message, speech bubble left, chat bubble direction, left chat bubble
+heroicons/outline/cloud.svg: weather, online storage, cloud computing, Dropbox, cloud sync, Google Drive, iCloud, remote storage, forecast
+heroicons/outline/window.svg: panes, close, window title, maximize, minimize, resize, borders, desktop, frames, window manager, widgets
+heroicons/outline/arrows-pointing-out.svg: Outward, Exit, Go Away, Leave, Part Ways, Depart, Move On
+heroicons/outline/pause.svg: delay, stop, hold, suspend, delay playback, interrupt, freeze, halt
+heroicons/outline/arrow-down-circle.svg: toggle up down, circle icon, arrow down button, navigation arrows, down arrow, dropdown menu, expand collapse
+heroicons/outline/forward.svg: proceed, onward, continue, ahead, next, subsequent, subsequent page, advance, move forward
+heroicons/outline/bookmark.svg: remember, revisit, recall, tag, return to, mark, save, favorite
+heroicons/outline/cog-6-tooth.svg: gear, CAD, design, toothed gear, graphics, illustration., mechanical, engineering, symbol, icon, 6-gear
+heroicons/outline/arrow-uturn-up.svg: rise, up, increase, ascend, grow, elevate, boost, climb, expand, up arrow
+heroicons/outline/currency-dollar.svg: economy, monetary system, finance, exchange rates, budget, money, prices
+heroicons/outline/lock-open.svg: access, folder, restrictions, unlock, settings, controls, security, file, permissions, preferences
+heroicons/outline/phone-x-mark.svg: Symbol, Android, Warning, Icon, Notification, Alert, Error, Phone, Mark
+heroicons/outline/backspace.svg: Undo, Undelete, Backspace Key, Delete, Remove Text., Ctrl+Z, Keyboard Shortcut
+heroicons/outline/shopping-cart.svg: cart, retail, browse, buy now, online shopping, purchase, market, store, catalog, checkout, e-commerce
+heroicons/outline/calculator.svg: conversions, numbers, statistics, math, equations, formulas, solve, calculate
+heroicons/outline/shield-check.svg: validation, testing, approval, compliance, protection, confirmation, Security, verification
+heroicons/outline/bookmark-slash.svg: remove bookmarked, unfavorite, remove from bookmarks, bookmark delete, undo bookmark
+heroicons/outline/presentation-chart-bar.svg: presentation design, infographic elements, design icons, graphic symbols, graph, bar chart, chart templates, slide layout, data visualization
+heroicons/outline/folder.svg: classify, sort, organize files, create folder, delete folder, directory, storage, move folder, folder structure, catalog, categorize, file management, file organization, manage, file explorer
+heroicons/outline/chevron-up-down.svg: navigation, direction, chevron, left right, toggle, arrow, up down, expand collapse
+heroicons/outline/users.svg: accounts, identity, roles, login, people, permissions, register, profiles
+heroicons/outline/arrow-right-end-on-rectangle.svg: navigation, shape, rectangle, design, direction, button, material, flat, arrow, modern, symbol, icons, end
+heroicons/outline/folder-arrow-down.svg: navigation, folder, menu, expand, arrow, dropdown, icon, collapse, down
+heroicons/outline/minus.svg: minus sign symbol, less than, negate, not equal to, deduction, negative sign, decrease, subtract
+heroicons/outline/chevron-double-down.svg: navigation, down, direction, chevron, arrow, double arrow
+heroicons/outline/photo.svg: picture, photo editor, share, camera, image, upload, gallery, edit
+heroicons/outline/chevron-left.svg: go back, navigate back, previous page, backward arrow, Chevron-left
+heroicons/outline/film.svg: reel, movie night, video, movies, filmstrip, cinema, film festival
+heroicons/outline/moon.svg: astrology, stars, cycle, new, crescent, lunar, phase, eclipse, night, full
+heroicons/outline/chart-bar-square.svg: analytics, metrics, indicator, statistics, graph, gauge, display, bar chart, data visualization
+heroicons/outline/rectangle-stack.svg: containers, rectangles, grouping, layout, stackable widgets, box layout, components, elements, icon, UI component, widgets
+heroicons/outline/bookmark-square.svg: note taking, bookmarks, favorites, mark as read, save page
+heroicons/outline/chevron-double-up.svg: forward, double up, increase, navigate, expand, next, arrow, Chevron
+heroicons/outline/calendar-days.svg: calendar widget, scheduling, time management, daily planner, reminder, date picker, planner, appointment
+heroicons/outline/chat-bubble-left-ellipsis.svg: chat bubble icon, left ellipsis, message ellipsis, truncated text, conversation indicator
+heroicons/outline/heart.svg: affection, crush, romance, feelings, Valentine's Day, care, love, emotions, relationships, passion
+heroicons/outline/academic-cap.svg: Education, Wisdom, University, Intelligence, Knowledge, Study, Research, Scholarship, Learning
