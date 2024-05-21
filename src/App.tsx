@@ -1,6 +1,6 @@
 import type { Component } from "solid-js";
 
-import { For, createEffect, createSignal } from "solid-js";
+import { For, Show, createEffect, createSignal } from "solid-js";
 
 import uFuzzy from "@leeoniya/ufuzzy";
 import styles from "./App.module.css";
@@ -12,10 +12,11 @@ const metadatas = [
   "/icons/feather/metadata.txt",
   "/icons/heroicons/metadata.txt",
   "/icons/line-awesome/metadata.txt",
+  "/icons/solar/metadata.txt",
 ];
 
 let opts = {};
-
+const MAX_RESULTS = 100;
 let uf = new uFuzzy(opts);
 
 function search(needle: string, iconData: IconData) {
@@ -73,34 +74,28 @@ const App: Component = () => {
           placeholder="Search icons..."
           onInput={(e) => setSearchValue(e.currentTarget.value)}
         />
-        <div class="flex flex-wrap gap-2 pt-5 justify-between">
-          <For each={results().slice(0, 1000)}>
+        <div class="flex flex-wrap gap-2 pt-5 justify-center">
+          <For each={results().slice(0, MAX_RESULTS)}>
             {(icon) => <IconView icon={icon} />}
           </For>
         </div>
+        <Show when={results().length === 0 && searchValue()}>
+          <div class="text-center text-2xl p-5 text-white">No results</div>
+        </Show>
+        <Show when={results().length > MAX_RESULTS}>
+          <div class="text-center text-2xl p-5 text-white">
+            Results truncated, please refine search
+          </div>
+        </Show>
       </header>
     </div>
   );
 };
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  viewBox="0 0 24 24"
-  stroke-width="1.5"
-  stroke="currentColor"
-  aria-hidden="true"
-  data-slot="icon"
->
-  <path
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    d="m3 3 1.664 1.664M21 21l-1.5-1.5m-5.485-1.242L12 17.25 4.5 21V8.742m.164-4.078a2.15 2.15 0 0 1 1.743-1.342 48.507 48.507 0 0 1 11.186 0c1.1.128 1.907 1.077 1.907 2.185V19.5M4.664 4.664 19.5 19.5"
-  />
-</svg>;
 
 const IconView: Component<{ icon: { url: string; description: string } }> = (
   props
 ) => {
+  const iconName = props.icon.url.split("/").slice(-1)[0];
   // Shows icon with a overlay that says "copy" on hover
   return (
     <div class="relative">
@@ -111,9 +106,11 @@ const IconView: Component<{ icon: { url: string; description: string } }> = (
       />
       <div
         onClick={() => copyIconToClipboard("/icons/" + props.icon.url)}
-        class="absolute hover:opacity-80 opacity-0 bg-black top-0 left-0 text-white cursor-pointer w-full h-full"
+        class="absolute text-sm rounded transition-all hover:opacity-100 bg-opacity-80 opacity-0 bg-black top-0 left-0 text-white cursor-pointer w-full h-full"
       >
         Copy
+        <br />
+        {iconName}
       </div>
     </div>
   );

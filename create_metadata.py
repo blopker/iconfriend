@@ -16,6 +16,16 @@ import os
 
 import ollama
 
+banned_words = [
+    "icon",
+    "svg",
+    "illustration",
+    "logo",
+    "set",
+    "icon design",
+    "icon set",
+]
+
 # Set the path to the icons directory
 path = "public/icons"
 
@@ -43,15 +53,20 @@ def get_list_of_files_in_directory(directory):
     return files
 
 
-def get_alternative_search_terms(icon_name) -> list[str]:
+def get_alternative_search_terms(icon_name: str) -> list[str]:
     response = ollama.generate(
         model=model,
-        prompt=f"There's an icon called '{icon_name}'. output a list of related search terms for that icon. only output a comma-separated list and nothing else. be brief.",
+        prompt=f"There's an icon called '{icon_name}'. output a list of related search terms for that icon. only output \
+            a comma-separated list and nothing else. be brief. don't use generic terms like 'icon', 'svg', 'illustration', \
+            'logo', 'set', 'icon design', 'icon set'.",
         stream=False,
     )
-    terms = set(response["response"].replace('"', "").split(", "))
-    # print(f"Icon: {icon_name}, Alternative search terms: {terms}")
-    return [a for a in terms]
+    terms: str = response["response"]
+    terms_list = terms.replace('"', "").replace(".", "").lower().split(", ")
+    terms_set = set(a for a in terms_list)
+    terms_set.add(icon_name.lower())
+    # print(f"Icon: {icon_name}, Alternative search terms: {terms_set}")
+    return [a for a in terms_set]
 
 
 def create_metadata_file(directory):

@@ -1,287 +1,287 @@
-feather/columns.svg: grid design, responsive web design, column width, table layout, table structure, layout management, CSS grid, grid system, row styling, flexbox
-feather/underline.svg: markdown, typing symbols, bold text, strikethrough, text-decoration, formatting options, italic text, font styles., HTML codes, character styles
-feather/grid.svg: composition, layout, display, design, organize, table, arrange, align, structure
-feather/triangle.svg: right triangle, obtuse triangle, triangle, geometry, scalene triangle, equilateral triangle, mathematics, isosceles triangle
-feather/search.svg: locate, discover, find, seek, explore
-feather/volume-2.svg: audio settings., volume control, quiet mode, sound off, audio mute, Volume mute
-feather/arrow-up-circle.svg: upward arrow, up direction, up icon, arrow up button, up symbol, Circle up, circle arrow up, upward icon, go up
-feather/pause-circle.svg: music, pause, play, icon, button, media, circle, pause button
-feather/check-square.svg: verified, completed, checked, approved, box, done, tick
-feather/arrow-down.svg: menu, direction, arrow, dropdown, expand, down, triangle, icon, button, scroll, collapse
-feather/figma.svg: Figma software, anime, manga, figurine, design tool, Max Factory, Japanese pop culture., 3D modeling, Japan, collectible, digital sculpting
-feather/corner-right-up.svg: right, symbol, icon, navigation, button, corner, arrow, up
-feather/chevrons-right.svg: Navigation Icon, Directional Symbol, Icons, Right Arrow, Chevron, UI Elements., Arrows
-feather/list.svg: Catalogue, Sort, Arrange, Organize, Prioritize
-feather/chevrons-down.svg: down arrow, arrow down., navigation down, downward arrow, down icon, Chevron down, down symbol
-feather/wind.svg: climate, breeze, gust, air, atmosphere, meteorology, storm, weather
-feather/corner-up-right.svg: Corner, glyph, direction, right, UI, positioning, layout, icons, design, user interface, navigation, arrow, up, symbol.
-feather/target.svg: direct, precise, target, strike, mark, aim, focus, point, hit, arrow
-feather/scissors.svg: edit, delete, trim, crop, remove, cut, snip, prune, clip
-feather/minimize-2.svg: close button, minimize symbol, minimize to tray, minimize icon, reduce size, shrink down, minimize window, hide from view., window minimize button
-feather/play-circle.svg: circular button, play button, video, music, UI element, Media player, icon design, audio, media control.
-feather/crosshair.svg: target, scope, aim, focus, zoom, precision, sniper, gun
-feather/airplay.svg: wireless streaming, video, iOS, music, iTunes., mirroring, iPad, Apple TV, iPhone
-feather/x-octagon.svg: geometric symbol, polygon, X shape, math symbol, Octagonal, shape icon, design element, vector graphics., geometric pattern, icon set
-feather/repeat.svg: iterate, redo, repeat song, cycle, play on repeat, play again, loop
-feather/edit-3.svg: tweak, customize, Edit, format, refine, adjust, modify
-feather/volume-1.svg: mute, control panel, music, sound, audio, settings, volume
-feather/sunrise.svg: serene, calming, clouds, morning, nature, scenery, daybreak, landscape, dawn, sky, peaceful
-feather/toggle-right.svg: Menu, Option, Right-Click, Toggle, Button, Switch
-feather/umbrella.svg: rain, accessories, fashion, shelter, protection, storm, weather
-feather/user.svg: avatar., user profile, login, User, profile picture, user account, registration
-feather/file-minus.svg: delete, remove, withdraw, cancel, undo, revert, rollback
-feather/x-circle.svg: refuse, deny, cancel, cross, reject
-feather/circle.svg: sphere, shape, symbol, rounded, ball, diameter, radius, icon
-feather/phone-missed.svg: missed calls, voicemail, phone history, phone notifications, call log
-feather/edit-2.svg: customize, Edit, personalize, revise, change, rewrite, refine, modify, alter, correct
-feather/corner-left-up.svg: Corner, direction, UI, icons, design, navigation, layout., arrow, up, left
-feather/home.svg: desktop, folder, computer, shortcut, start menu, icon, navigation, file explorer, directory, navigation bar.
-feather/gitlab.svg: GitLab Client, GitLab OAuth, GitLab CI, GitLab API, GitLab Plugin, GitLab Webhook., GitLab Server, GitLab CI/CD, GitLab Integration, GitLab Repository, GitLab
-feather/music.svg: song, concert, harmony, beats, lyrics, rhythm, playlist, festival, sound, artists, audio, melody, genres, albums
-feather/smartphone.svg: android, devices, phones, personal., connectivity, portable, ios, apps, gadgets, technology, mobile, internet, wireless
-feather/more-horizontal.svg: unfold, horizontal arrow., expand, disclose, More, reveal, show more
-feather/sliders.svg: slide, interface, ui, scrolling, transition, effect, Drag, animation, movement, navigation
-feather/arrow-up-left.svg: direction, navigation-icon, symbol, navigation, character, direction-icon, arrow, up, left
-feather/chevron-down.svg: down arrow, menu, direction, dropdown, symbol, icon, graphic, navigation, arrow, chevron
-feather/hexagon.svg: honeycomb, shape, bee, architecture, geometry, design, engineering, symmetry, puzzle, pattern
-feather/github.svg: Share, Programming, Git, Collaborate, Code, Repository, Open Source, Version Control, GitHub
-feather/crop.svg: image resize, graphic design, crop tool., image editing, photo cropping tool, picture resize, photo edit, photo trimming, resize image, picture crop tool, image trim
-feather/tag.svg: identify, highlight, tag, prioritize, sort, organize, filter, labeling, categorize, classify
-feather/briefcase.svg: management, folder, work, job, organization, resume, file, portfolio, business, interview, career, documents
-feather/rotate-cw.svg: rotate object, turn, rotate, change direction, geometry., clockwise, graphic design, orientation, transformation, perspective, 3d modeling, 90 degrees, pivot, animation, flip, spin, physics, rotate image
-feather/map.svg: location, mapping software, directions, coordinates, route planner, google maps, navigation, geography
-feather/inbox.svg: online mailbox, mail, messages, communication, email, message center, notifications, messaging app, digital postbox
-feather/align-justify.svg: align elements, evenly distribute, justify text, equal spacing, Center, middle, horizontal alignment.
-feather/plus-square.svg: Grow, Enlarge, Scale, Multiply, Increase, Augment, Boost, Expand, Add
-feather/power.svg: resilience., vigor, strength, control, dominance, might, authority, force, influence, energy, potency, Power
-feather/database.svg: relational, data analysis, storage, database management, non-relational., persistence, oracle, sql, mysql
-feather/camera-off.svg: disable camera, shutter speed 0, photo mode off, camera off mode, turn off camera., camera off, photography disabled, photography not available, Camera icon, camera unavailable
-feather/toggle-left.svg: Navigation, Left, Toggle, Button, Arrow, Icon, UI Element
-feather/file.svg: open, upload, browse, folder, document, download, save
-feather/message-circle.svg: bubble notification, message indicator, circular messaging, notification circle, chat bubble
-feather/voicemail.svg: call forwarding, missed calls, voice messages, automated answers, message box
-feather/terminal.svg: macOS, Terminal emulator, Windows, scripting, command line interface, Unix., console, programming, coding, CLI, Linux, shell
-feather/move.svg: relocation, relocate, drag and drop, drag, transfer, reposition, move to, transplant, shift
-feather/maximize.svg: size, enlarge, expand, full screen, window, resize, maximize
-feather/chevron-up.svg: upward arrow, pointing up, arrow up, chevron arrow, up arrow
-feather/arrow-down-left.svg: Navigation, Scroll, Arrow, Icon, Next, Previous, Symbol
-feather/file-text.svg: notes, markdown, edit, document, text editor, write, programming, coding
-feather/droplet.svg: upload, storage, synchronize., File, cloud, Dropbox
-feather/zap-off.svg: Windows, Linux, shutdown, turn off, power button, icon, computer control, disable, system management, Zap-off, software tool., macOS
-feather/x.svg: delete, Close, remove, cancel, terminate, stop, exit, quit, abandon
-feather/bar-chart.svg: graphical representation, graphing software, dashboard design., analytics, reporting tools, chart types, business intelligence, data visualization, statistics, column chart
-feather/lock.svg: protected, private, security., safe, encrypt, password, confidential, confidentiality, secure, secrecy
-feather/log-in.svg: authorization, profile, membership, login, authentication, account, identity, dashboard, sign in, access, portal, registration, credentials
-feather/shopping-bag.svg: Gift, Product, Goods, Bag, Online shopping, Present, Shopping, E-commerce, Store, Retail
-feather/divide.svg: partition, bifurcate, logo, distinguish, Icon, classify, categorize, split, separate
-feather/cloud-drizzle.svg: precipitation, mist, climate, drizzle, rain, cloud, atmospheric, fog, moisture, weather
-feather/refresh-cw.svg: Refresh, browser, previous, shortcut, pc, linux, page, navigation, back, website, mac, windows, keyboard, site
-feather/chevron-right.svg: glyph, right, symbol, navigation, button, next, arrow
-feather/clipboard.svg: history, paste, copy, content, share, clip, board
-feather/package.svg: Android, install, Maven, manager, Java, Gradle, APK, deployment
-feather/instagram.svg: hashtag, upload, free, share, login, account, likes, followers, download, profile, photography, social media, app
-feather/link.svg: click to learn more, link button, anchor text, url, hyperlink
-feather/video-off.svg: video camera disabled, screen recording, audio muted, microphone off, audio options, volume off, video settings, video mute
-feather/key.svg: authorization, lock, decryption, password, unlock, encryption, permission, access, secure
-feather/meh.svg: indifference, meme culture, apathy, shrugs, unimpressed, neutral face, internet slang, meh face, emoticons, expressionless face, emoji search.
-feather/corner-down-right.svg: direction, right, UI, symbol, icons, design, graphic, navigation, corner, down, arrow
-feather/arrow-right.svg: move forward, right arrow symbol, go to next, arrow button, next, navigate
-feather/aperture.svg: shutter speed, exposure compensation, photography, camera settings, f-stop
-feather/stop-circle.svg: cease, end, break, halt, cancel, stop, pause, conclude, abort
-feather/log-out.svg: sign out, disconnect, logout, log off, terminate, exit, leave, departure
-feather/arrow-left-circle.svg: previous, go-back, back-button, navigation, back, return, arrow, circle, navigate
-feather/bar-chart-2.svg: bar chart, graph, diagram, analytics, data visualization, statistics, chart
-feather/git-pull-request.svg: create pull request, pull request button, create git pull request, gitlab pull request, github pull request icon, create pull request button, submit pull request, github pull request, git pull request icon, pull request icon, pull request generator., make pull request, generate pull request, git pull request
-feather/minimize.svg: hover effect., shrink screen, reduce size, mouseover, win, osx, icons, hide desktop, minimize window, windows, mac, UI elements
-feather/minus-square.svg: math symbols, negative square, square minus, subtract symbol, minus-square, square root sign
-feather/settings.svg: tweak, customize, configure, options, preferences, adjust, modify
-feather/cloud-snow.svg: precipitation, climate, snowflake, forecast, cloud, meteorology, storm, weather
-feather/thumbs-down.svg: negative, unhappy, dislike, disagree, dissatisfy, rejection, oppose, no
-feather/type.svg: font, typography, symbol, type, formatting, character, coding
-feather/archive.svg: history, backup, repository, storage, conserve., document, file, organize, keep, store, data, records, collect, preserve, save
-feather/phone-outgoing.svg: outgoing call, ringing tone, dial tone, unanswered call, missed call, Phone call, cell phone, mobile phone, voicemail.
-feather/pocket.svg: handbag, storage, purse, bag, wallet, pouch
-feather/mail.svg: contact, alert, send, inbox, receive, email, notification, account, message, compose
-feather/shield.svg: shielded, protected., safety, defense, armor, security, guard, barrier, fortress, Protection
-feather/download.svg: download button, upload, free, software, video, music, transfer, torrent, file, get it now, movie, icon, save, share, app
-feather/phone-forwarded.svg: Phone-forwarded, WURFL, mobile-friendly, responsive design, mobile detection., mobile-optimized, mobile-forwarded, Device Atlas, forward-compatible
-feather/corner-right-down.svg: down arrow, right arrow, corner icons, arrows, navigation icons, direction icons
-feather/book-open.svg: study, books, research, reading, knowledge, literature
-feather/divide-square.svg: square, Twitter, online community, icon, Instagram, Facebook, divide, graphic design., Social media
-feather/server.svg: remote access., hosting, server management, cloud computing, virtual private network, iis, hosting platform, xampp, VPN, server, apache, wamp
-feather/tv.svg: guide, television, listings, shows, movies, streaming, schedule., tv, channels, series
-feather/skip-forward.svg: Skip to next, Fast forward, Advance playback, Next button, Play next track
-feather/volume.svg: loud, mute, video, control, music, unmute, headphones, playback, adjust, sound, audio, settings, speaker, quiet
-feather/user-plus.svg: join community, make account, add member, add user, create new user
-feather/battery-charging.svg: recharge, voltage, energy, ampere, portable, electricity, watt, mobile., charging, current, Power
-feather/layers.svg: graphics, transparency., compositing, editing, Illustrator, design, blending modes, Photoshop, masking
-feather/slash.svg: delete, remove, symbol, cancel, formatting, strike-through, backslash
-feather/radio.svg: podcast, broadcast, music, streaming, station, play, listen, audio
-feather/book.svg: study, reference, books, publishing, library, education, research, reading, literature
-feather/user-minus.svg: user symbol, subtract button, user dash, subtract icon, minus sign, minus icon
-feather/bell.svg: Alert, Notification Bell, Notifications, Messenger, Icon, Bell Icon, Facebook, Desktop Alerts, Sound, Symbol, Mobile Notifications.
-feather/git-branch.svg: checkout, repository, Git, pull, merge, push, collaborate., commit, version control, branch, GitHub
-feather/coffee.svg: latte, coffee shop, breakfast, cappuccino, cafe, morning inspiration, espresso, morning routine, coffee
-feather/code.svg: IDE, coding software, Code editor, development tools, text editor, syntax highlighting, programming, scripting languages.
-feather/thermometer.svg: temperature, climate, forecast, warm, Celsius, hot, cold, cool, Fahrenheit, heat, weather
-feather/cast.svg: podcast, streaming, play, audio, media
-feather/flag.svg: patriotism, sovereignty, nation, symbol, national pride, identification, unity, country, territory
-feather/eye-off.svg: private, conceal, hide, invisible, confidential, masked, obscured, secrecy
-feather/battery.svg: device, voltage, strength, capacity, level, charge, energy, power
-feather/disc.svg: floppy disk, CD, storage device, data transfer, disk format, CD drive, file system
-feather/frown.svg: unhappy face, sad face, upset., disapproval, displeasure, smileys, emoticons, negative tone
-feather/tool.svg: customize, software, toolbar, layout, icon, editor, integration, programming, development
-feather/cpu.svg: CPU cooler, CPU usage, CPU benchmarking, CPU temperature, CPU speed, Central Processing Unit, CPU fan, CPU upgrade, CPU overclocking
-feather/bold.svg: graphics, typography, visual effects., markup languages, font styles, strikeout, CSS classes, design, styling, italic, underline, coding, HTML codes, text formatting
-feather/hash.svg: markdown, #symbol, notation, pound sign, github, programming, coding
-feather/share-2.svg: graphics, android, app development, web development, icons, social media, design, ios, vector, mobile, share
-feather/plus.svg: multiply, enlarge, expand, increase, increment, grow, add, append, augment
-feather/check.svg: confirm, validate, approved, okay, verified, done, tick
-feather/rotate-ccw.svg: direction, turn, rotate, orientation, image rotation, 3d rotate, up-down, right-left, flip, spin, counter-clockwise
-feather/hard-drive.svg: disk drive, backup, storage device, formatting, computer hardware, software installation, data storage, file system, data recovery, partition
-feather/bluetooth.svg: device, tablet, music, pairing, laptop, computer, streaming, phone, connect, headset, speakers, file transfer, wireless
-feather/pie-chart.svg: charts, analytics, visualizations, graphing, data visualization, statistics, graphs
-feather/headphones.svg: noise, stereo, podcast, music, streaming, listen, audiojungle, earbuds, sound, audio
-feather/rss.svg: feed reader, podcast, article sharing, online publication, syndication, subscription-based content., news feed, aggregator
-feather/wifi.svg: troubleshooting, settings, strength, connectivity, networking, configuration, signal, router, internet, wireless
-feather/corner-up-left.svg: Corner, move, rotate, position, arrange, shift., up, align, left
-feather/watch.svg: reminders, schedule, stopwatch, clock, alerts, countdown, time, timer, tracking., notifications
-feather/info.svg: guide, help, details, description, about, explanation
-feather/user-x.svg: Material design icons, Icon library, User interface, User avatar, Icon sets, User experience design, Android icons, Profile picture
-feather/loader.svg: wheel, progress circle, progress bar, indicator, circular loader, loading, spinner, animation
-feather/refresh-ccw.svg: rotate, toolbar, symbol, refresh, shortcut, widget, icon, button, arrow, modifier, keyboard, left, ccw
-feather/folder-plus.svg: folder, create, categorize, new, organize, add, directory, file
-feather/git-merge.svg: GitLab, rebase, Git, resolve, pull, push, version control, SCM, Bitbucket, conflict, merge, GitHub
-feather/mic.svg: voiceover, voice, podcast, broadcast, microphone, chat, recording, audio, speaker
-feather/copy.svg: edit, paste, cut, duplicate, replicate, clone, share
-feather/zoom-in.svg: enlarge, magnify, zoom in on, scale up, grow bigger, make larger, expand view, increase font size
-feather/arrow-right-circle.svg: Continue, Next, Play, Circle, Arrow, Icon, Forward, Navigate, Symbol
-feather/align-right.svg: right justify., align text, text-align, justify content, horizontal alignment, right-aligned
-feather/image.svg: picture, png, photo, image editing, jpg, graphic, icon set
-feather/maximize-2.svg: enlarge, expand, full screen, window, maximize
-feather/check-circle.svg: selected, checkbox, confirmed, validated, tick box, checkmark, approved
-feather/sunset.svg: beach, serene, vacation, relaxation, travel, clouds, scenic, summer, calm, landscape, evening, sky, photography, peaceful, night
-feather/save.svg: backup, storage, save as, retain, document, file, preserve, save
-feather/smile.svg: computer icons, emotions, facial expressions, smiley face, laughter, emoticons, emoticon, humor, happy
-feather/navigation.svg: location, map, route, travel, directions, explore, GPS
-feather/cloud-lightning.svg: lightning bolt, stormy weather, atmospheric phenomenon, thunderstorm, cloudy sky, electrical storm, weather
-feather/paperclip.svg: Document, Create, Edit, Text, Microsoft Office, Write, Word
-feather/fast-forward.svg: accelerate, speed up, skip, advance, hurry, next, play faster
-feather/x-square.svg: x-square, cross square, mathematical operator, multiply sign, math symbol, times symbol, notation icon, formula icon
-feather/award.svg: badge, trophy, certificate, recognition, award, medal, star, achievement, prize
-feather/zoom-out.svg: scale, map, enlarge, perspective, navigation, distance, overview
-feather/box.svg: component, folder, UI, interface, element, design, template, icon, graphic, container, Box, symbol.
-feather/thumbs-up.svg: positive, confirmation, Like, approval, affirmation, yes, agree, approve
-feather/percent.svg: proportional, calculate, compare, ratio, percentage, percentage sign, percent symbol, measurement
-feather/sidebar.svg: customize, WordPress, layout, format, design, widget, template, plugin, theme, style., structure
-feather/square.svg: picture, graphics, shape, symbol, pixel art, design, logo, icon, image, vector, button, tile, box
-feather/play.svg: video, entertainment, music, movies, streaming, audio, TV shows, media
-feather/git-commit.svg: github, git, commit, version control, programming, software development
-feather/table.svg: graph, spreadsheet, database, stats, data, chart
-feather/send.svg: messenger, send file, email, messaging, share
-feather/phone-call.svg: Communicate, Connect, Contact, Ring, Talk, Conversation, Phone, Chat, Dial, Call, Voice
-feather/speaker.svg: voice, speech, podcast, microphone, communication, audio recording, sound, audio, presentation, conferencing
-feather/facebook.svg: friends, share, online community, login, comments, likes, profile, newsfeed., social media, Mark Zuckerberg
-feather/codesandbox.svg: JavaScript, testing, CSS, online IDE, HTML, sandbox, coding, development, code editor
-feather/camera.svg: snap, picture, photo, take, capture, image, photography, share
-feather/link-2.svg: favorite, network., bookmark, link, connect, Social media, share
-feather/printer.svg: printing, printer settings, printing documents, print queue, printing photos, print
-feather/folder-minus.svg: subtract folder, folder minus button, delete folder, Close folder, folder minus sign, folder minus symbol, remove folder
-feather/arrow-up-right.svg: thumbs up, Upvote, next, agree, approve, like
-feather/truck.svg: vehicle, rigging, transportation, cargo, freight, delivery, logistics, trucking, haulage, lorry
-feather/life-buoy.svg: drowning prevention, floatation, water, rescue, lifesaving, marine, Safety, buoyancy., emergency
-feather/pen-tool.svg: drawing tool, Adobe, digital art, Illustrator, illustration, vector graphics, drawing program., graphics editor, design software, sketching
-feather/at-sign.svg: @, comment, Twitter, reply, notification, Discord, email., respond, Slack, messaging, social media, mention
-feather/feather.svg: glyph, font, style, menu, UX, UI, hamburger, symbol, layout, design, logo, search, icon, responsive., navigation, text, mobile, toggle
-feather/trash.svg: uninstall, delete, remove, eradicate, cancel, waste, eliminate, garbage, dispose
-feather/wifi-off.svg: wireless disconnect, Wi-Fi disable, network icon, WiFi settings, connection lost, internet off, mobile data off, offline mode.
-feather/corner-left-down.svg: glyph, direction, pointer, down, CSS, SVG, symbol, icons, HTML, navigation, arrows, corner, left
-feather/dollar-sign.svg: value, finance, wealth, currency, exchange, prices, cost, money, budget
-feather/star.svg: meteorite, astronomy, constellation, shine, galaxy, space, celestial, twinkling, cosmos, sparkle, star
-feather/cloud-off.svg: precipitation, temperature, climate, humidity, cloud-cover, atmospheric, weather, forecast
-feather/sun.svg: temperature, climate, sunshine, light, rays, warm, brightness, solar, heat, weather
-feather/message-square.svg: conversation bubble, new message, chat icon, instant messaging, messaging app
-feather/edit.svg: tweak, Edit, revise, customize., change, modify, adjust, alter, correct, fine-tune
-feather/anchor.svg: webpage, reference, CSS, linking, HTML, bookmark, anchor link,  navigation, web design
-feather/alert-circle.svg: alert, caution, notification, icon, notice, circle, warning
-feather/chevrons-up.svg: chevron up icon, up arrows, ascendent icon, up direction, up triangle icon, chevron up symbol, arrow icons
-feather/upload-cloud.svg: cloud drive, cloud storage, online upload, cloud sharing, file upload, file transfer
-feather/twitch.svg: esports, online gaming, gamecaster, video platform, streaming software, live streaming, gamers, broadcasting
-feather/youtube.svg: online, sharing, entertainment, music, streaming, videos, content, platform, media
-feather/unlock.svg: protected, reveal, hide, password, security, confidential, restriction, access, secret, sensitive
-feather/compass.svg: location, direction, route, travel, positioning, maps, orientation, navigation, GPS
-feather/plus-circle.svg: generate, rounded plus, plus one, create, expand, plus sign, increase, increment, circle shape, grow, add, plus symbol., make
-feather/credit-card.svg: sell, checkout, finance, commerce, payment, purchase, money, billing, buy, transactions
-feather/cloud-rain.svg: precipitation, forecast, climate, rain, cloud, meteorology, atmosphere, storm, weather
-feather/trash-2.svg: emoji, trash, delete, remove, symbol, 2, icons, waste, garbage, dispose
-feather/skip-back.svg: Prev, Go Back, Older, Previous Page, Backward, Last, Earlier, Previous
-feather/file-plus.svg: append to file, upload file, attach file, new file, add content, add file, create new document
-feather/delete.svg: trash, remove, cancel, erase, purge, delete permanently, dispose
-feather/command.svg: automation, shortcut, terminal, prompt, execute, mac os, script, shell
-feather/clock.svg: schedule, watch, planner, alarm clock, time, timer, chronology, calendar
-feather/octagon.svg: UI component, shape, polygon, symbol, geometry, graphic, design element, geometric, circle, pattern
-feather/phone.svg: call, text message, contacts, voicemail, cellular network, phone number, mobile device., messaging, dial, ringtone
-feather/eye.svg: show, conceal, observe, watch, hide, gaze, visibility, view, reveal, display
-feather/phone-off.svg: mute, vibration, phone on silent., silent mode, silent, Phone, off, mobile, ringtone, quiet
-feather/codepen.svg: code sharing, online coding, online IDE., web development tool, Code editor, HTML/CSS/JS editor, collaboration tool, coding platform
-feather/dribbble.svg: software, tech, innovation, community, design, creativity, startup, programming, coding, development, app
-feather/gift.svg: Gift, Share, Appreciation, Love, Present, Icon, Card, Emoji, Symbol
-feather/external-link.svg: open, redirect, target, links, _blank, new window, url, share, pop-up, external
-feather/zap.svg: voltage, Electronics, circuit, spark, energy, power, shock
-feather/trello.svg: kanban, asana, basecamp, project management, jira, smartsheet, agile, wrike, workflow, collaboration tool, trello
-feather/more-vertical.svg: more, menu, dropdown, vertical, navigation, down, arrow, up
-feather/mic-off.svg: sound disable, microphone silence, audio mute, volume off, mic off
-feather/share.svg: email to friend, share button, post on facebook, tweet this, share link, sharing options, social media
-feather/arrow-up.svg: arrow upward, pointing up, up direction, up indicator, up symbol, up arrow
-feather/bell-off.svg: Bell Off, Turn Off Notification Bell, Disable Bell, Notifications, Facebook Bell Icon, Icon, No Bell Notification, Facebook
-feather/linkedin.svg: online presence, industry insights, business connections, resume building, professional network, networking, job search, professional branding, career development
-feather/video.svg: film, online video, youtube, watch, streaming, movie, vimeo, tv show, play, media player, multimedia.
-feather/divide-circle.svg: divided symbol, fork, binary operator, mathematical symbol, separation, divided circle, branching, split, logic gate
-feather/activity.svg: management, productivity, schedule, agenda, to-do, task, organizer, planner, reminder, calendar
-feather/twitter.svg: tweets, celebrities, trending topics, hashtags, news, followers, social media, microblogging
-feather/map-pin.svg: location, marker, address, map, pin, directions, coordinates, geography, navigation, mapping
-feather/filter.svg: narrow down, sort, refine, search, organize, focus., Search terms: filter, categorize
-feather/phone-incoming.svg: phone vibration, phone alert, phone ringing, incoming call, ringtone, notification sound
-feather/italic.svg: typography, writing., CSS, HTML, font styles, design, text decoration, markup language, publishing, coding, text formatting
-feather/chevrons-left.svg: Arrow left, Back button, Navigation icon, Previous page, Prev arrow, Left chevron
-feather/calendar.svg: monthly, schedule, agenda, yearly., journal, diary, event, organizer, planner, date, time, appointment, daily, weekly, reminder
-feather/globe.svg: location, world, map, travel, satellite, geography, navigation, earth, planet, globe
-feather/arrow-left.svg: Prev, Navigation, Go back, Previous, Back, Arrow left symbol
-feather/align-center.svg: CSS formatting, typography, text alignment, center align, middle align, justified text, horizontal alignment, layout design
-feather/minus-circle.svg: delete, remove, discard, cancel, cross, x, reject, minus
-feather/arrow-down-right.svg: arrow keys, direction, move down right, navigation icon, next, navigate
-feather/framer.svg: React Native, Mobile App Development, Responsive Design, Cross-Platform Development., Web Application Framework, UI/UX Design, Framer
-feather/volume-x.svg: mute, sound off, silence, audio mute, volume off, quiet
-feather/slack.svg: Slack app, Slack desktop, Slack API, Slackware, Slack channel, Slack mobile, Slack integration, Slack bot, Slack
-feather/cloud.svg: sync, management, online, backup, storage, remote, drive, file, access
-feather/download-cloud.svg: upload, cloud storage, files, data, download, save, online backup, share, file transfer
-feather/shuffle.svg: songs, mix, music, album, library, playlist, randomize
-feather/rewind.svg: backward, recall, undo, previous, revert, take back, go back, step back
-feather/upload.svg: send, publish, submit, attach, add, file, share, import
-feather/trending-down.svg: marketing strategy adjustment., Trending down, social media metrics, online reputation management, negative feedback, customer dissatisfaction, brand crisis
-feather/pause.svg: temporary, halt, stop, temporary stop, hold, wait, freeze, suspend, delay, momentary pause
-feather/arrow-down-circle.svg: menu, dropdown, expand, symbol, toggle, icon, navigation, button, down, arrow, collapse, circle
-feather/bookmark.svg: Pin, Tag, Highlight, Save for Later, Favorites, Archive, Bookmarks, Add to Favorites, Mark as Read
-feather/alert-triangle.svg: alert, caution, triangle, symbol, notification, indicator, message, notice, warning
-feather/user-check.svg: confirmation, authenticated, profile, tick mark, identity, User, account, checkmark, approved., logged in, verified
-feather/tablet.svg: Android, Apple, Windows, Samsung., iOS, Tablet, Lenovo, slate, HP, touchscreen
-feather/alert-octagon.svg: caution, alert, notification, attention required, safety notice, octagon symbol,  warning
-feather/menu.svg: Menu, dropdown menu, main menu, popup menu, navigation menu, options menu, context menu, sub-menu.
-feather/chrome.svg: Internet Explorer Alternative, Browser Security, Privacy Settings., Bookmark Manager, Web Browser, Online Shopping, Search Engine, Google Chrome, Extensions, Add-ons, Plug-ins
-feather/shopping-cart.svg: checkout, retail, ecommerce, cart icon, buy now, order now, purchase, online shopping, e-commerce platform., shop now
-feather/folder.svg: storage, organizer, document management, file manager, file explorer, directory
-feather/users.svg: authorization, admin, roles, login, account, identity, authentication, groups, permissions, profile, settings
-feather/corner-down-left.svg: Corner, direction, UI, layout, UX., design, navigation, down, arrow, left
-feather/monitor.svg: desktop, monitor calibration, monitor adjustment, monitor settings, display adjustment, computer, screen, display settings, display, monitor, display calibration
-feather/minus.svg: subtraction, reverse, cancel out, opposite, decrease, minus sign, deduction, negation, reduction, invert
-feather/help-circle.svg: tutorial, questions, support, advice, guidance, info, assistance, clarification
-feather/navigation-2.svg: menu, sidebar, navigation bar, UI, navigation menu, icons, design, navigation
-feather/chevron-left.svg: previous, left arrow, navigation, go back, arrow, back button, chevron
-feather/film.svg: screenplay, editing, movies, cinema, filmstrip, blockbuster, storytelling, camera, production, script, trailer, reel
-feather/moon.svg: lunar cycle, night sky, astronomy, solar system, lunar, full moon, new moon, phases, eclipse
-feather/shield-off.svg: flag, shield, symbol, defense, security, logo, icon, protection, warning
-feather/layout.svg: grid, composition, arrangement, organization, design, template, structure
-feather/mouse-pointer.svg: pointer, cursor, shape, design, icon, arrow, mouse
-feather/align-left.svg: align text, text alignment, justify text, text-align, left alignment, CSS style, HTML element, formatting options, layout icons, left-justified
-feather/heart.svg: love, relationships, romance, emotions, affection, sentiment, passion, feelings
-feather/trending-up.svg: growth, online-popularity., rising, popular-search, popularity, social-media-trends, trending, trending-now, increasing
+feather/columns.svg: layout, rows, blocks, database, alignment, stacks, grid, table, organization, columns, structure, arrangement
+feather/underline.svg: strikethrough, text decoration, css styles, web development, html code, formatting, underline, typography, underline effect
+feather/grid.svg: layout, matrix, framework, alignment, composition, table, grid, pattern, structure, arrangement
+feather/triangle.svg: geometric figure, directional sign, triangle symbol, triangular shape, three-sided shape, triangle, arrow triangle
+feather/search.svg: seek, search, query, look up, find, discover, investigate
+feather/volume-2.svg: quiet time, audio off, volume mute, silent mode, volume-2, no sound, no voice, volume down, muted state, sound off
+feather/arrow-up-circle.svg: circular up arrow, up direction, rise up, upward arrow, arrow up, go up, up arrow, arrow-up-circle, circle up, ascending arrow, move up, up arrow symbol
+feather/pause-circle.svg: pause, ui, video, circle, button, play, media, controls, pause-circle, music, stop
+feather/check-square.svg: tick box, confirmed, checked, checkbox, check-square, approved, selected, accepted, verified, done
+feather/arrow-down.svg: down arrow, down arrow emoji, dropdown, caret down, down icon, downward arrow, down pointing arrow, arrow down symbol, arrow-down, down triangle
+feather/figma.svg: ui kit, design system, icon font, mmd, adobe, sprite sheets, vector graphics, figma
+feather/corner-right-up.svg: directional, pointing, indicator, direction, corner-right-up, navigation button, corner, navigation, right, up, arrow
+feather/chevrons-right.svg: proceed, direction, next page, continue reading, onward, navigation, chevrons-right, rightward, move ahead, forward, arrow, right arrow
+feather/list.svg: list, menu, catalog, library, collection, directory
+feather/chevrons-down.svg: pointing down symbol, downward triangle, down direction indicator, arrow pointing down, downward-pointing triangles, chevrons-down, down arrow icon, chevron down symbol
+feather/wind.svg: air, atmosphere, weather, storm, breeze, wind, gust, climate
+feather/corner-up-right.svg: direction indicator, corner-up-right, arrow sign, navigation indicator, corner icon, up right arrow, corner marker, up arrow symbol
+feather/target.svg: link, navigate, https, website, favorite, redirect, url, bookmark, http, open, target
+feather/scissors.svg: shape, cut, clipping, slice, scissors, cutter, partition, split, edit, divide, trim
+feather/minimize-2.svg: reduce scale, minimize-2, close minimized, minimize window, collapse box, minimize button, windows icon, shrink size
+feather/play-circle.svg: audio, media-player, button, circle, play, online-radio, play-button, streaming, podcast, music, play-circle
+feather/crosshair.svg: pinpoint, crosshair, trajectory, focus, scope, accuracy, precision, sniper, direct, gun sight, point, aim, target
+feather/airplay.svg: bluetooth, video, ios, iphone, ipad, streaming, wireless, apple tv, mirroring, music, airplay
+feather/x-octagon.svg: shape, x-icon, graphic symbol, geometric shapes, visual identity, x-octagon, eight-sided, visual representation, symbol, polygon, octagon, angular
+feather/repeat.svg: continuous, loop, repeated, loop icon, repeat button, cycle, forever, repeat, iterate
+feather/edit-3.svg: draft, edit-3, compose, create, editing, markup, pencil, text editor, write
+feather/volume-1.svg: media controls, volume off, volume low, sound on, sound off, mute button, volume-1, speaker silent, audio mute, sound icon, audio controls
+feather/sunrise.svg: nature, outdoor, sun, daybreak, morning sunshine, sunrise graphic, clouds, landscape, sunrise, morning, sky, dawn, peaceful, horizon
+feather/toggle-right.svg: arrow right, option selector, checkbox, toggle-right, radio button, on off switch, flip switch, toggle button, slide switch
+feather/umbrella.svg: rain, umbrella, water, sun, stormy, flood, wet, forecast, protection, weather, clouds, dry, shade, storm, shelter
+feather/user.svg: default avatar, human icon, person icon, individual icon, user, profile picture, user avatar, account icon
+feather/file-minus.svg: undo changes, erase text, file-minus, cancel edit, discard draft, remove file, delete document
+feather/x-circle.svg: checkmark, cross, x-circle, deny, validation, approved, tick mark, confirmation, cancel, reject
+feather/circle.svg: shape, sphere, completeness, circle, unity, fullness, wholeness, totality, symbol, globe, rounded
+feather/phone-missed.svg: sms missed, phone missed, communication indicator, voicemail icon, alert symbol, missed message icon, phone-missed, notification bell, missed call, phone ringtone, messaging app symbol
+feather/edit-2.svg: update, edit-2, edit, pen, pencil, revise, write
+feather/corner-left-up.svg: design, pointing, direction, left, indicator, corner, graphic, corner-left-up, navigation, top, angle, element, symbol, arrow
+feather/home.svg: home, main, start, folder, directory, navigation, laptop, dashboard, computer, desktop, files
+feather/gitlab.svg: version control, gitlab, devops tools, gitlab icon, collaborative development, gitlab logo, github alternative
+feather/music.svg: audio, song, harmony, beats, audio clip, tunes, melody, playlist, sound, music, rhythm
+feather/smartphone.svg: cellular device, digital life, wireless communication, handheld computer, mobile phone, smartphone concept, technology icon, smartphone, phone symbol
+feather/more-horizontal.svg: ui, menu, direction, horizontal, button, dropdown, toggle, more-horizontal, navigation, more, arrow
+feather/sliders.svg: ui, interaction, web design, user experience, interface, responsive, navigation, animation, mobile, drag, motion, buttons, sliders
+feather/arrow-up-left.svg: previous, backwards, history, scroll up, arrow-up-left, navigation, arrow key, move up
+feather/chevron-down.svg: down arrow symbol, arrow down, downward arrow icon, chevron arrow, arrow pointing down, dropdown menu icon, down arrow sign, chevron-down
+feather/hexagon.svg: shape, design, honeycomb, art, tessellation, architecture, graphic, motif, vector, pattern, hexagon, symbol, geometry
+feather/github.svg: community, software, collaboration, open source, coding, repository, git, github, coding platform, development
+feather/crop.svg: shape, cut, design, layout, picture, photo, graphic, crop, image, resize, trim, editing
+feather/tag.svg: indicator, label, marker, tag, badge, symbol, sign
+feather/briefcase.svg: briefcase, profession, finance, job, work, business, wealth, career, money, success, industry
+feather/rotate-cw.svg: invert, mirror, clockwise, counter-clockwise, reverse, spin, rotate-cw, rotate, pivot, turn, flip
+feather/map.svg: directions, mapping, map, navigation, geography, atlas, route, cartography, globe, location
+feather/inbox.svg: email, messages, correspondence, inbox, messaging, envelope, mailbox, mail
+feather/align-justify.svg: justify text, balanced text, text alignment, align-justify, evenly spaced, right text, center text, equal spacing, align text left
+feather/plus-square.svg: add, circle, button, square, plus-square, plus, upward, expand, increase, up, growth, upward arrow, arrow
+feather/power.svg: force, power, energy, might, potency, vigor, strength
+feather/database.svg: postgresql, oracle, mysql, data storage, database, sql, database management, database schema, data, relational database
+feather/camera-off.svg: photo off, camera shutter, take picture off, snap disabled, camera-off, image capture off, camera disable, photography mode
+feather/toggle-left.svg: direction, toggle-left, switch, navigation, move, slide, rotate, left arrow, toggle button, on/off, flip
+feather/file.svg: storage, disk, folder, documents, drive, database, file, records, archive, files
+feather/message-circle.svg: bubble, communication, chat, messaging, message-circle, notification, circular, rounded
+feather/voicemail.svg: recording, communication, audio, notification, voicemail icon, notification sound, messaging, alerts, missed call, phone, message, voicemail
+feather/terminal.svg: coding, technology, terminal, programming, console, computer, linux, command line, shell, unix
+feather/move.svg: shift, relocate, moveable, transfer, move, reposition, slide, drag, transferable
+feather/maximize.svg: full screen, maximize display, maximize, enlarge, increase, expand, zoom, grow, maximize window, maximize screen
+feather/chevron-up.svg: direction indicator, upwards direction, arrow icon, chevron icon, arrow up, point up, navigation arrow, up arrow symbol, chevron-up
+feather/arrow-down-left.svg: go back, scroll down left, previous page, downward navigation, arrow-down-left, navigate down, left arrow, back button
+feather/file-text.svg: document icon, file types, file symbol, file-text, text symbol, document symbol, text editor, notepad icon
+feather/droplet.svg: droplet icon, hydrology, water, splash, droplet, weather, precipitation map, hydrometeorology, meteorology, precipitation, liquid
+feather/zap-off.svg: shockwave, discharge, zap-off, zap off, zap, spark, blackout, static electricity, zapoff, electrical failure, no power, power outage
+feather/x.svg: cross, variable, multiply, math symbol, x, times sign, multiplication
+feather/bar-chart.svg: metrics, graphing, graphs, analytics, plotting, data visualization, charts, dashboard, statistics, reporting, bar-chart
+feather/lock.svg: secure, authorization, lock screen, private, lock, access control, confidential, protected, password, security, restricted
+feather/log-in.svg: log-in, authentication, authorization, username, login, sign in, access, credentials, verification, password, security, sign up
+feather/shopping-bag.svg: purchase, e-commerce, online shopping, cart, shop, checkout, retailer, buy, marketplace, commerce, shopping-bag, store
+feather/divide.svg: fraction, math, slash, operator, divide, symbol, ratio, separator, quotient
+feather/cloud-drizzle.svg: rain, cloudy, forecast, atmosphere, weather, drizzle, meteorology, cloud-drizzle, precipitation, climate
+feather/refresh-cw.svg: flip-horizontal, turn-around, counter-clockwise, spin, refresh, rotate-right, refresh-cw, circular
+feather/chevron-right.svg: arrow symbol, navigation icon, next page, chevron arrow, pagination, chevron-right, left and right arrow, ui element, directional symbol, menu indicator, right arrow
+feather/clipboard.svg: paste, cut, system, buffer, share, edit, data transfer, clipboard manager, clipboard, copy, text selection
+feather/package.svg: maven, package, software, yarn, delivery, application, gradle, composer, bundle, box, npm, package management
+feather/instagram.svg: picture sharing, community, photo sharing, instagram, visual content, social media, ios, android, networking, online platform, mobile app
+feather/link.svg: link, link symbol, url, social media, bookmark, web, network, linkedin, share, connection, anchor
+feather/video-off.svg: video-off, audio off, video pause, volume mute, playback off, mute button, video mute, media stop
+feather/key.svg: encryption, authorization, unlock, control, permission, lock, access, key, secrecy, security
+feather/meh.svg: apathy, meh, expressionless face, shruggie, indifference, shrug, meh face, neutrality
+feather/corner-down-right.svg: directional, movement, transition, corner, navigation, corner-down-right, right, arrow, down
+feather/arrow-right.svg: proceed, direction, arrow-right, next page, forward motion, onward, navigation, step right, progress, move forward, continue, advance, right arrow
+feather/aperture.svg: photography, camera, exposure, photography software, aperture, aperture priority
+feather/stop-circle.svg: pause, stop sign, circular stop, stop-circle, halt circle, cease symbol
+feather/log-out.svg: logout button, leave site, sign out, exit, end account, disconnect, logoff, log-out, end session, logout
+feather/arrow-left-circle.svg: previous, go back, arrow-left-circle, circle shape, navigation icon, left arrow, reversal, step back, backward, turnback
+feather/bar-chart-2.svg: metrics, infographic, bar-chart-2, analytics, bar charts, data visualization, report, dashboard, chart, statistics, graph
+feather/git-pull-request.svg: version control, software development, git-pull-request, code review, gitlab, github, git pull request, collaborative development, pull request
+feather/minimize.svg: windows minimize button, minimize, close to taskbar, shrink window, reduce window size
+feather/minus-square.svg: negation symbol, square minus, square symbol, subtraction sign, mathematical symbol, times square, minus-square, not equal to
+feather/settings.svg: menu, configure, customize, administration, adjust, settings, preference, edit, parameters, tweak, control panel, options, manage
+feather/cloud-snow.svg: cloud computing, frost, winter, snowflake, weather, glacier, atmosphere, cloud-snow, meteorology, iceberg, climate
+feather/thumbs-down.svg: unfavorable, negative feedback, oppose, dislike, downvote, thumbs-down, disapproval, negate, reject, bad review
+feather/type.svg: type, character, writing, text, font, symbol, typography
+feather/archive.svg: preservation, backup, storage, historical, documents, classic, nostalgic, retro, vintage, records, archive
+feather/phone-outgoing.svg: talk, outgoing call, communication, phone call, ring, phone-outgoing, chat, mobile, phone, connect, dial
+feather/pocket.svg: storage, small, pocket, container, mini, carry, mobile, compartment, phone, compact, wallet
+feather/mail.svg: email, communication, messages, letter, correspondence, inbox, messaging, postage, mailbox, mail
+feather/shield.svg: shielding, armor, bulletproof, shield, protection, guard, barrier, defense, fortress, safety, security
+feather/download.svg: export, download, retrieve, save, fetch
+feather/phone-forwarded.svg: call-forward, telecommunications-icons, forwarding-features, phone-forwarded, call-management, mobile-forwarding, phone-call-forwarding, phone-system-designs
+feather/corner-right-down.svg: pivot, direction, flip, corner, navigation, angle, corner-right-down, orientation, rotate, right, turn, arrow, down
+feather/book-open.svg: read, research, literature, book, knowledge, book-open, reading, publishing, education, open, study
+feather/divide-square.svg: fraction, math, part, split, portion, divide, ratio, divide-square
+feather/server.svg: web server, system administration, technology, infrastructure, online, it, database, networking, computer, server, hosting
+feather/tv.svg: television, cable, media, tv, satellite, streaming, channel, remote control, entertainment, broadcasting
+feather/skip-forward.svg: next episode, pause, video, play, skip-forward, fast forward
+feather/volume.svg: audio,mute,sound,on/off,level,loud,quiet,vibration,speaker,tone,noise,cue,fader,play,pause,stop,control,system,device,mix,boost,reduce,adjust,manage,configure,settings,preferences,media,player,streaming,audio,recording,stereo,mono,mic,headphones,earbuds,boombox,record,cd,mp3,wav,aac,ogg,mpeg,flac,playlist,dj,fm,am,satellite,radio,tuner,tuning,channel,station,frequency,broadcasting,streaming,online,offline,local,network,internet,web,www, volume
+feather/user-plus.svg: sign-up-process, identity-creation, account-create, user-plus, add-user, profile-addition, registration-form, user-management
+feather/battery-charging.svg: charging station, rechargeable batteries, device charging, battery level, battery-charging, power bank, power management
+feather/layers.svg: design, software, graphics, ui, adobe, interface, elements, symbols, icons, layers, editing, photoshop
+feather/slash.svg: delimiter, obelus, division sign, slash, slash symbol, notation, forward slash, backslash, separator
+feather/radio.svg: communication, audio, wave, tune, media, broadcast, listen, streaming, podcast, radio, frequency, broadcasting
+feather/book.svg: ebook, research, literature, publish, library, book, publication, manuscript, reading, writing
+feather/user-minus.svg: minus sign, user cancel, minus button, user-minus, cancel icon, unsubscribe, decline request, delete user, remove profile, reject offer
+feather/bell.svg: alarm, bell, signal, beep, notification center, alert, ringtone, sound, notification, reminder
+feather/git-branch.svg: version control, software, git-branch, coding, technology, git, programming, github, branch, computer, development
+feather/coffee.svg: coffee, snack, wake up, energize, drink, afternoon, caffeine, cafe, morning routine, beverage, espresso, morning, breakfast, latte, brunch
+feather/code.svg: software development, syntax, coding, coding symbols, programming, developer icons, programming languages, code
+feather/thermometer.svg: measurement, scale, gauge, temperature, forecast, weather, thermometer, heat, cold, temperature reading, weather app, climate
+feather/cast.svg: role, movie, cast, drama, theater, play, actor, character, film, performance, audition
+feather/flag.svg: nationality, patriotism, emblem, country, identification, symbol, flag
+feather/eye-off.svg: hidden-eye, eye-off, secrecy-symbol, privacy-icon, private-look, view-hidden, concealed-view
+feather/battery.svg: backup, storage, power, device, voltage, electric, energy, battery, portable, charge
+feather/disc.svg: audio, cd, media, data carrier, disc, compact disc, digital storage, music, format
+feather/frown.svg: disappointed symbol, frowning emoji, sad face, displeased expression, unhappy emoticon, frown
+feather/tool.svg: software, utility, maker, tool, hardware, diy, building, crafting, engineer, mechanic, construction, wrench, toolbox
+feather/cpu.svg: central processing unit, computer hardware, motherboard graphics, cpu architecture, computer processor, cpu icon vector, cpu, processing power, chip design, microprocessor
+feather/bold.svg: styling, font-style, bold-text, font-bold, font-weight, formatting, bold, strong-text, typography, emphasis
+feather/hash.svg: punctuation, number sign, #, glyph, hash sign, hash, character, symbol, mark
+feather/share-2.svg: community, digital, online, social media, network, sharing, internet, share-2, connection, collaborate, platform
+feather/plus.svg: add, concatenate, combine, merge, plus, append, join
+feather/check.svg: approval, passed, tick, validated, confirmation, okay, check, accepted, verified, done
+feather/rotate-ccw.svg: flip over, opposite direction rotate, rotate-ccw, rotate counter-clockwise, turn around, spin backwards, ccw rotation, clockwise rotation opposite, reverse rotation
+feather/hard-drive.svg: computer hardware, digital archive, usb drive, data storage, cd-rom, floppy disk, archival storage, hard-drive, file cabinet
+feather/bluetooth.svg: headphones, connectivity, technology, pairing, accessory, wireless, speakers, computer, phone, bluetooth, devices
+feather/pie-chart.svg: area charts, statistical charts, donut charts, pie-chart, bar charts, graphing tools, chart icons, data visualization, graphical representations, infographic elements, pie chart symbols
+feather/headphones.svg: headphones, audio, listen, beats, streaming, earbuds, podcast, music player, sound, radio
+feather/rss.svg: reader, news, rss, aggregator, feeds, syndication, blogging, podcasting
+feather/wifi.svg: connectivity, signal strength, modem, network, networking, wifi, internet, hotspot, wireless, router, broadband
+feather/corner-up-left.svg: direction, left, icon font, corner, navigation, corner-up-left, design asset, ui element, up, glyph, arrow, symbol
+feather/watch.svg: clock, alarm, time, timer, watch, schedule, calendar, reminder
+feather/info.svg: insight, info, information, hint, description, help, data, details
+feather/user-x.svg: user-x, personalized symbol, character icon, identity marker, custom symbol, profile icon, user interface, representation graphic, user, user avatar
+feather/loader.svg: progress bar, data processing, spinning wheel, information display, loader, loading symbol, animation, circular progress
+feather/refresh-ccw.svg: revert, clockwise, counterclockwise, change direction, spin, refresh, reload, refresh-ccw, rotate, turn, update
+feather/folder-plus.svg: add folder, folder management, file management, organize files, create folder, create new folder, file organizer, folder-plus, new folder, folder creation
+feather/git-merge.svg: software development, version control, git symbols, coding, git-merge, git, merge, github, icons, collaborative tools
+feather/mic.svg: microphone, recording, talk, audio, mic, broadcast, chat, speak, podcast, sound, voice, record
+feather/copy.svg: paste, reproduce, duplicate, simulate, emulate, replicate, clipboard, copy, mimic
+feather/zoom-in.svg: magnify, zoom-in, image enlarge, digital zoom, view larger, expand, enlarge, zoom, optical zoom
+feather/arrow-right-circle.svg: arrow-right-circle, next, progress, forward, continue, advance
+feather/align-right.svg: right justified, text alignment, justify right, align-right, formatting icon, right align, text justification, horizontal alignment, text positioning
+feather/image.svg: graphics, picture, image, image type, visual representation, symbol
+feather/maximize-2.svg: window size, minimize, maximize-2, maximize, expand, zoom
+feather/check-circle.svg: approval, check-circle, confirmed, ticked, checked, validation, validated, green checkmark, tick mark, accepted, verified
+feather/sunset.svg: summer, sunset colors, beach, ocean, travel, sunset, clouds, calm, vacation, sky, waves, relaxation, peaceful, sea, horizon
+feather/save.svg: backup, storage, preserve, conserve, retain, retrieve, recall, save, archive
+feather/smile.svg: happy faces, humor, emoticons, irony, tone, facial expressions, emotive, sarcasm, mood, emojis, smile, smiling, emotions
+feather/navigation.svg: path, direction, journey, map, travel, navigation, route, wayfinder, compass, explore, guide
+feather/cloud-lightning.svg: rain, atmospheric, thunder, stormy, cloudy, lightning bolt, weather, cloud-lightning, meteorology, wind, precipitation
+feather/paperclip.svg: attachment, classic, retro, office, vintage, nostalgic, file, tech, computer, document, paperclip, paperclip symbol, microsoft
+feather/fast-forward.svg: skip, accelerate, next, fast track, quicken, jump ahead, play forward, expedite, fast-forward, hasten, advance
+feather/x-square.svg: shape, simple, square, basic, retro, pixel art, geometric, box, x-square, x, minimalist, symbol
+feather/award.svg: recognition, prize, medal, winner, achievement, trophy, award, champion, accolade
+feather/zoom-out.svg: magnify, view, navigation, zoom-out, enlarge, expand, scroll, explore
+feather/box.svg: storage, boxed, enclosure, folder, container, packaging, box, crate, shipping
+feather/thumbs-up.svg: agree, approve, positive, good job, affirmative symbol, thumbs up gesture, yes vote, like, thumbs-up, agreement sign
+feather/percent.svg: ratio indication, numeric representation, math symbol, percent, percentage symbol, statistics, percentage character, percentage sign, percent icon
+feather/sidebar.svg: menu bar, widget, content management, border, frame, navigation menu, page layout, webpage structure, website navigation, panel, sidebar
+feather/square.svg: shape, simple, clean, container, iconic, plain, basic, flat, square, geometric, box, minimalist
+feather/play.svg: controller, movie, video, start, button, play, media, music, gaming, entertainment
+feather/git-commit.svg: software development, version control, repository, scm, coding, git, programming, github, git-commit, commit
+feather/table.svg: design, layout, restaurant, office, conference, tableware, table, planning, workspace, meeting, seating, furniture, arrangement
+feather/send.svg: email, send, submit, post, notify, messaging, share, dispatch, send message, transmit
+feather/phone-call.svg: dial tone, communication, phone call, mobile phone, make call, call button, messaging, phone-call, ringing bell, voicemail, voice message
+feather/speaker.svg: hearing, microphone, talk, audiovisual, audio, speaker, listen, chat, speech, sound, music, voice
+feather/facebook.svg: friend request, mark zuckerberg, facebook, social media, status update, login, share, like, profile picture, online community
+feather/codesandbox.svg: online ide, coding environment, collaborative development, code sharing, sandboxed project, javascript editor, live coding, codesandbox, web development platform
+feather/camera.svg: photography, camera, exposure, focus, capture, snap, shutterbug, framing, digital photography, picture taking, camera apps, lens, photography tips
+feather/link-2.svg: link, direction, link-2, wayfinding, pointer icon, navigation, pathway, guidance, connection, route, pointer, navigation symbol, arrow, guide
+feather/printer.svg: printing problem, print image, print document, print screen, printer software, print, print file, printing, print page, print error, printer
+feather/folder-minus.svg: reduce, folder, organize, clean up, simplify, tidy, minus, file, delete, remove, folder-minus, management
+feather/arrow-up-right.svg: next, direction, arrow-up-right, navigation, progress, move, forward, continue, advance, arrow
+feather/truck.svg: rigging, trucking, truck, haulage, cargo, mining, transport, vehicles, heavy machinery, construction, fleet, logistics
+feather/life-buoy.svg: life-buoy, buoyancy, nautical sign, emergency icon, maritime symbol, symbol for help, rescue, flotation device, life ring, safety equipment
+feather/pen-tool.svg: design, graphics, illustration, doodle, drawing, sketch, pen-tool, tool, vector, pen, stylus, art, editing
+feather/at-sign.svg: at-sign, @ symbol, internet symbol, email icon, syntax indicator, address sign
+feather/feather.svg: typewriter, feather, editor, notebook, writing, pen, stationery, journal, text, pencil, symbol
+feather/trash.svg: ecology, garbage disposal, environmental issues, conservation, recycling symbols, littering, waste reduction, trash, waste management, pollution
+feather/wifi-off.svg: connectivity, disable, disconnected, network, internet, not connected, offline, no signal, wireless, wifi-off, wi-fi
+feather/corner-left-down.svg: leftward pointing symbol, directional icon, navigation icon, arrow icon, symbol icon, pointing icon, corner-left-down, corner icon, left arrow
+feather/dollar-sign.svg: dollar sign meaning, dollar icon, financial icon, dollar sign emoji, money icon, currency indicator, currency symbol, monetary symbol, dollar-sign, money sign
+feather/star.svg: star wars, astrology, constellation, astronomy, galaxy, sparkle, star, cosmos, celestial, twinkle
+feather/cloud-off.svg: rain, haze, wind, mist, sunshine, cloud-off, forecast, cumulus, weather, meteorology, storm, atmospheric, precipitation, snow
+feather/sun.svg: summer, nature, outdoor, sunshine, sun, hot, warm, bright, weather, smiley, happy, climate, radiant
+feather/message-square.svg: communication, dialogue, message-square, chat, messaging, alert, conversation, notification, message, feedback
+feather/edit.svg: modify, compose, create, edit, pen, text, pencil, format, revise, write
+feather/anchor.svg: nautical, ship, harbor, mooring, navigation, dock, boat, marina, waterfront, anchor, sea
+feather/alert-circle.svg: notification bubble, alert-circle, warning circle, circular warning sign, alert icon, caution symbol
+feather/chevrons-up.svg: triangles, direction, ascending, progress, upward-pointing chevrons, increase, pointer, chevrons-up, growth, arrows
+feather/upload-cloud.svg: data sync, file transfer, cloud upload, cloud computing, cloud storage, upload-cloud, online backup, upload symbol
+feather/twitch.svg: gaming, community, social, video, media, online, live, broadcast, player, twitch, chat, streaming, platform, streamer, popular
+feather/youtube.svg: video content, youtube, social media, tutorials, live streams, online streaming, vlogs, music, video sharing, entertainment
+feather/unlock.svg: confidentiality, authentication, secure login, lock screen, unlock, discretion, access control, protection, password, mobile security
+feather/compass.svg: direction, wayfinding, map, travel, exploration, navigation, geography, route, compass, location
+feather/plus-circle.svg: new, add, circle, plus sign, plus-circle, combine, plus, increase, append, expand, grow, add to, create
+feather/credit-card.svg: credit-card, visa, paypal, debit, finance, atm, bank, transactions, money, payment, mastercard
+feather/cloud-rain.svg: cloud-rain, atmospheric conditions, meteorological symbols, forecast, stormy weather, rainclouds, clouds, meteorology, precipitation, precipitation patterns, weather icons, climate
+feather/trash-2.svg: sustainable, trash-2, ecology, recycling, waste, green, environment, garbage, pollution
+feather/skip-back.svg: previous, go back, replay, back to start, revisit, undo, step back, skip-back, rewind
+feather/file-plus.svg: file-new, save-file, new-file, add-file, file-plus, file-add, create-file
+feather/delete.svg: clear, erase, trash, delete forever, delete, cancel, remove
+feather/command.svg: prompt, administration, terminal, control, run, execute, regulate, authority, command, management, shell
+feather/clock.svg: clock, stopwatch, second, minute, time, planner, timer, schedule, calendar, date, hour
+feather/octagon.svg: shape icon, symmetrical, geometric shape, polyhedron, eight-sided shape, symbol, polygon, octagon, angular
+feather/phone.svg: communication, phone app, handheld, device, cell, call, mobile, telephone, wireless, phone, dial
+feather/eye.svg: insight, watchful, view, eye, vision, observation, perception, gaze, sight, monitoring, surveillance
+feather/phone-off.svg: ringer off, noiseless, phone mute, volume off, phone-off, quiet mode, silent mode, vibration only, phone off, mobile silence
+feather/codepen.svg: online editor, coding, programming, html, javascript, code sharing, web development, codepen, css
+feather/dribbble.svg: design, entrepreneurship, technology, social media, graphic, branding, web development, innovation, startup, dribbble
+feather/gift.svg: appreciation, recognition, celebration, thank you, holiday, gift, anniversary, award, birthday, symbol, gesture, present, reward, token
+feather/external-link.svg: link, navigate, reference, url, portal, web, www, access, gateway, source, external, external-link
+feather/zap.svg: discharge, burst, zap, power, spark, jolt, electric, shock, energy, lightning, charge
+feather/trello.svg: project management, list, card, workflow, trello icon, trello, task management, scrum board, board, column, kanban, trello logo, agile
+feather/more-vertical.svg: ui, design, menu, direction, more-vertical, dropdown, interface, vertical, navigation, more, expand, element, collapse, arrow
+feather/mic-off.svg: mute-mic, speechless, silent-mic, no-audio, mic-muted, mic-off, voice-off, microphone-off, quiet-time
+feather/share.svg: sharing icon, publish, send, social media, share button, post, share, forward
+feather/arrow-up.svg: pointing up, up direction, rise, ascend, arrow-up, ascender, up arrow, increase, grow, upward arrow
+feather/bell-off.svg: bell-off, alert symbol, mobile app icon, audio cue, warning sign, sound effect, notification, notification bell
+feather/linkedin.svg: career development, professional network, social media, business networking, industry connections, linkedin, job search, online resume
+feather/video.svg: media players, film industry, video games, video, online videos, video editing, film icons, youtube logos, movie symbols, video streaming
+feather/divide-circle.svg: minus sign symbol, punctuation, minus sign, circle, divide-circle, split, operator, mathematical, divide, symbol, separator
+feather/activity.svg: activity, task, todo, to-do list, organizer, planner, schedule
+feather/twitter.svg: hashtags, twitter, news, social media, networking, sharing, online community, updates, microblogging, tweets
+feather/map-pin.svg: pinpoint, mapping, coordinates, pinpointing, marker, navigation, geography, place, map-pin, location, map symbols, marker symbol
+feather/filter.svg: filtering symbols, sort out icon, sift icon, screen icon, selection symbol, filter, classification sign, search terms: filter icons, categorize icon
+feather/phone-incoming.svg: ring tone, alert sound, phone call, phone-incoming, ringing, notification bell, mobile phone, phone alert, call incoming, incoming call
+feather/italic.svg: text formatting, cursive, quotation marks, italic text, font styles, italic, oblique, typography
+feather/chevrons-left.svg: left-arrow-unicode, arrow-left, left-pointing-chevron, chevrons-left, chevron-left-icon, left-chevron-symbol, left-directional-icon
+feather/calendar.svg: organizer, agenda, timetable, time management, planner, schedule, calendar, event planning, date, diary, reminder
+feather/globe.svg: spatial, earth, mapping, exploration, map, travel, world, navigation, geography, globe icon, cartography, globe
+feather/arrow-left.svg: previous, go back, directional, left, arrow-left, prev, back, navigation, symbols, icons, buttons, arrow
+feather/align-center.svg: layout, middle align, text align, centered, middle, display center, symmetry, balance, align-center
+feather/minus-circle.svg: minus-circle, minus, undo, delete, cancel, remove, reject
+feather/arrow-down-right.svg: down arrow, previous, direction indicator, navigation icon, next page, scroll down, navigation symbol, arrow-down-right, back button, right arrow
+feather/framer.svg: shape, window, edges, framer, framed, container, frame border, border, frame, rectangle, box, panel, outline
+feather/volume-x.svg: sound control, audio off, volume mute, volume icon, silent mode, mute symbol, volume-x, sound off, quiet button
+feather/slack.svg: workplace, software, communication, slack, collaboration, team, app, productivity, chat, messaging
+feather/cloud.svg: rain, thunderstorm, misty, cloud, forecasting, stormy, weather, clouds, foggy, meteorology, atmospheric, precipitation
+feather/download-cloud.svg: network share, cloud computing, cloud storage, remote access, web upload, download-cloud, file sharing, cloud download, online file transfer, file syncing
+feather/shuffle.svg: reorder, jumble, shuffle, randomize, scramble, rearrange, mixup, muddle
+feather/rewind.svg: pause, controller, multimedia, audio, button, play, media, control, interface, navigation, music, rewind
+feather/upload.svg: upload, transfer data, send files, cloud storage, online backup, file hosting, online sharing, internet upload, file upload, share files
+feather/trending-down.svg: decline indicator, negative trajectory, losing momentum, downward slope, trending-down, falling popularity, downward arrow, declining trend, decreasing numbers, drop in demand
+feather/pause.svg: pause, pause button, music pause, play/pause, video pause, hold, audio pause, media pause, time out, wait, stop
+feather/arrow-down-circle.svg: down arrow symbol, downward triangle, arrow down, expandable menu, arrow pointing downwards, arrow-down-circle, downward arrow, arrow pointing down, drop-down arrow, down arrow icon, dropdown circle, button with arrow down
+feather/bookmark.svg: remember, favorite, bookmark, highlight, note, keep, favorites, tag, stash, recall, save, mark
+feather/alert-triangle.svg: signal icon, alert-triangle, warning triangle, notification symbol, alert triangle icon, warning sign, attention symbol, caution sign
+feather/user-check.svg: confirmed, ratified, checked, validated, green checkmark, approved, user-check, certified, verification, accepted, authenticated
+feather/tablet.svg: touchscreen, ui, design, display, tablet, ios, interface, android, device, mobile, touchpad, computer, portable
+feather/alert-octagon.svg: shape, design, ui, circle, square, guidelines, icon, flat, google, alert-octagon, user interface, alert,  warning, material, notification, triangle, octagon, style
+feather/menu.svg: popup, choices, menu, system, software, dropdown, application, settings, interface, navigation, toolbar, computer, selections, options
+feather/chrome.svg: browser icon, chromium, icon design, graphic, web browser, google chrome, ui element, chrome, symbol, visual identity
+feather/shopping-cart.svg: purchase, e-commerce, online shopping, buy now, shop online, checkout, add to cart, shopping-cart, cart icon
+feather/folder.svg: storage, directory icon, folder symbol, folder, organize, documents, computer graphics, file system, navigation, file, icons
+feather/users.svg: identities, avatars, accounts, profiles, users, personalities, people
+feather/corner-down-left.svg: direction, left, whirl, control, corner, rotate, navigation, spin, corner-down-left, pointer, cursor, pivot, turn, arrow, down
+feather/monitor.svg: gadget, digital, display, monitor symbol, technology, electronics, hardware, screen, computer, monitor
+feather/minus.svg: reduce, subtraction symbol, decrease, minus sign, decrement, minimize, minus, subtract, not equal, negate, less than
+feather/help-circle.svg: direction, support, assistance, guidance, help-circle, tutorial, instruction, advice
+feather/navigation-2.svg: menu, direction, path, wayfinding, map, travel, journey, navigation, navigation-2, route
+feather/chevron-left.svg: go back, navigation buttons, pagination, previous page, browser history, directional keys, scrolling controls, return key, chevron-left, left arrow, back button
+feather/film.svg: video, popcorn, movies, filmstrip, blockbuster, reel, movie camera, film, cinema
+feather/moon.svg: zodiac, gibbous, new, full, space, astrology, phase, eclipse, night, sky, cycle, moon, lunar, stars, crescent
+feather/shield-off.svg: disable, toggle-off, cease, switch-off, turn-off, shield-off, off-button, stop
+feather/layout.svg: layout, ui kit, wireframe, grid system, page layout, blueprint, mockup, design template
+feather/mouse-pointer.svg: mouse-pointer, hover, mouse, icon, over, underline, pointer, cursor, click
+feather/align-left.svg: text alignment, left, left justified, align-left, text align, justify left, aligned left, horizontal alignment, aligned
+feather/heart.svg: love, affection, valentine's day, tender, sentimental, romance, be mine, heart, sweetheart, cupid
+feather/trending-up.svg: trending, rising, flourishing, popularity, flourishing business, entrepreneurial success, upward, progress, trending-up, success, growth, increasing
