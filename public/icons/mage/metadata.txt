@@ -30,9 +30,7 @@ mage/bulk/Bookmark Minus.svg: previous, browser, bookmark minus, bookmark, back,
 mage/bulk/Check Square.svg: approval, confirmed, processed, check square, finance, settled, funds, cleared, money, payment, done
 mage/bulk/Fire A.svg: burner, spark, google, android, material design, heat, fire a, ignite, flame
 mage/bulk/Arrow Down Square.svg: down arrow, decline indicator, downward pointing icon, arrow down button, minus symbol, decrease sign, arrow down square, square arrow
-mage/bulk/Light Bulb.svg: innovate, design, think, brainstorm, inspiration, develop, concept, aha! here is the list of related search terms:
-
-idea, light bulb, creative, thought
+mage/bulk/Light Bulb.svg: innovate, design, think, brainstorm, inspiration, develop, concept, idea, light bulb, creative, thought
 mage/bulk/Gem A.svg: gem a, sparkly, gem, treasure, precious, shiny, valuable, jewel
 mage/bulk/Alarm Clock.svg: wake up, reminders, daily planner, morning motivation, alarm clock, time management, notifications, morning routine, schedule, planning
 mage/bulk/File Download.svg: acquire, obtain, download, file, retrieve, get, file download, save, fetch
