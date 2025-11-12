@@ -15,7 +15,10 @@ const metadatas = [
   "/icons/solar/metadata.txt",
 ];
 
-let opts = {};
+let opts = {
+  interIns: 5,
+  intraChars: "[w-]",
+};
 const MAX_RESULTS = 100;
 let uf = new uFuzzy(opts);
 
@@ -116,18 +119,14 @@ const IconView: Component<{ icon: { url: string; description: string } }> = (
   );
 };
 
-const metaurl = new URL("/icons/mage/metadata.txt", import.meta.url).href;
-console.log("metaurl", metaurl);
 async function fetchMetadata(metaurl: string) {
   const resp = await fetch(metaurl);
   const text = await resp.text();
   const metadata = text.split("\n").map((line) => {
     const [url, description] = line.split(":");
-    return { url, description };
+    return { url, description: description || "" };
   });
-  console.log("metadata", metadata);
   return metadata;
 }
-// fetchMetadata(metaurl);
 
 export default App;
