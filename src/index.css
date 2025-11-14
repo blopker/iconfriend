@@ -1,17 +1,92 @@
+/**
+ * IconFriend Global Styles
+ * Following Apple Human Interface Guidelines design system
+ */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-body {
-  background-color: #282c34;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+/**
+ * Global base styles
+ * Ensures consistent rendering across browsers and devices
+ */
+* {
+  box-sizing: border-box;
 }
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 
+               'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/**
+ * Smooth scrolling behavior (design system requirement)
+ * Creates fluid, native-feeling page transitions
+ */
+html {
+  scroll-behavior: smooth;
+}
+
+/**
+ * Custom scrollbar styling for MacOS aesthetic
+ * Subtle, thin scrollbars that don't distract from content
+ */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  transition: background 220ms cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+/**
+ * Focus-visible outline for accessibility
+ * Uses brand indigo for consistency with design system
+ */
+*:focus-visible {
+  outline: 2px solid #6366f1;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/**
+ * Code block styling using monospace fonts
+ * Preserves consistent formatting for code snippets
+ */
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: 'SF Mono', 'Monaco', 'Cascadia Code', 'Roboto Mono', 
+               'Courier New', monospace;
+}
+
+/**
+ * Respect user's motion preferences
+ * Disables animations for users who prefer reduced motion
+ * Critical for accessibility and user comfort
+ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
