@@ -15,7 +15,10 @@ const metadatas = [
   "/icons/solar/metadata.txt",
 ];
 
-let opts = {};
+let opts = {
+  interIns: 5,
+  intraChars: "[w-]",
+};
 const MAX_RESULTS = 100;
 let uf = new uFuzzy(opts);
 
@@ -333,9 +336,8 @@ async function fetchMetadata(metaurl: string) {
   // Parse metadata file - each line contains path:description
   const metadata = text.split("\n").map((line) => {
     const [url, description] = line.split(":");
-    return { url, description };
+    return { url, description: description || "" };
   });
-  
   return metadata;
 }
 
